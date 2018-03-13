@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="utf-8" />
+
+<title>Documents Structurés</title>
+<meta name="description" content="Projet de SB pour le cours Documents Structurés" />
+<meta name="author" content="Sotiria Bampatzani" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS
+================================================================================================= -->
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/themes/type_17.css" />
+<link rel="stylesheet" href="css/themes/color_01.css" />
+
+<!-- Favicons
+================================================================================================= -->
+<link rel="shortcut icon" href="images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png" />
+
+<!-- JS
+================================================================================================= -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/jquery-1.8.3.min.js"></script>
+<script src="js/libs/jquery.easing.1.3.min.js"></script>
+<script src="js/libs/jquery.fitvids.js"></script>
+<script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+	
+	<!-- Header begins ========================================================================== -->
+	<header class="sixteen columns">
+		<div id="logo">
+			<h1>Documents Structurés</h1>
+			<h2>M1 TAL, 2016-2017</h2>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.xhtml">Accueil</a></li>
+				<li><a href="http://xmlprojet.wordpress.com" target="_blank">Blog</a></li>
+			</ul>
+		</nav>
+		<hr />
+	</header>
+	<!-- Header ends ============================================================================ -->
+	
+	<!-- Work page begins ======================================================================= -->
+	<div id="work">
+	
+		<div id="overview" class="sixteen columns">
+			<h4>XML xPath XSLT</h4>
+			<hr />
+		</div>
+		
+		<div class="sixteen columns">
+		<h3>Exercice 11</h3>
+		<br/>
+		<h4><u>Partie 1</u></h4>
+		<h4>Fichiers de travail</h4>
+		<br/>
+		<ul class="disc">
+			<li>lepromose-lapromesse.xml</li>
+			<li>lepromise.html</li>
+			<li>lapromesse.html</li>
+			<li>la DTD et le schéma transread</li>
+		</ul>
+		<p>Ces fichiers sont disponibles dans une archive sous iCampus.</p>
+		<br/>
+		<h4>Lectures</h4>
+		<p>Ces ressources ont été récupérées sur le site du projet <a href="https://transread.limsi.fr/" target="_blank">TRANSREAD</a></p>
+		<p>Questions:</p>
+		<ol>
+			<li>Décrire brièvement les données à traiter et le rôle de chacun des fichiers</li>
+			<div class="solution2">Le fichier "lapromesse.html" contient le texte en français, alors que le fichier "thepromesse.html" contient le même texte en anglais. Le fichier "lapromesse-thepromesse.html", porte sur la visualisation de ces deux textes et des alignements qui les lient. Enfin, "transread_v1-2.dtd" contient la grammaire DTD correspondante au fichier xml, alors que "transread_v1-2.xsd" contient le XML schéma correspondant au fichier xml. La différence entre ces deux fichiers est la suivante :<br/>
+			La grammaire DTD décrit la grammaire du document — liste des éléments (ou balises), des attributs, leur contenu et leur agencement — ainsi que le vocabulaire supplémentaire sous la forme d'une liste d'Entité de caractère. <a href="https://fr.wikipedia.org/wiki/Document_type_definition" target="_blank">source</a><br/>XML Schema publié comme recommandation par le W3C en mai 2001 est un langage de description de format de document XML permettant de définir la structure et le type de contenu d'un document XML. Cette définition permet notamment de vérifier la validité de ce document. <a href="https://fr.wikipedia.org/wiki/XML_Schema" target="_blank">source</a>
+			</div>
+			<br/>
+			<li>&#192; partir du fichier lepromose-lapromesse.xml, écrire une feuille de style XSLT permettant d'afficher dans un tableau HTML l'alignement des 2 volets (une ligne du tableau devant contenir 2 segments alignés)</li>
+			<div class="solution"><a href="./exercices/exercice11a.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice11a-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>&#192; partir du fichier lepromose-lapromesse.xml, écrire une feuille de style XSLT permettant d'afficher uniquement le volet français (idem pour le volet anglais)</li>
+			<div class="solution"><a href="./exercices/exercice11b.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice11b-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+		</ol>
+		<br/>
+		<h4><u>Partie 2</u></h4>
+		<h4>Fichiers de travail</h4>
+		<br/>
+		<ul class="disc">
+			<li>L’archive SentenceAlignmentConfidenceAnnotation.tgz disponible sur iCampus</li>
+			<li>Cf A collection of confidence annotations of sentence alignment links - see the README file.</li>
+		</ul>
+		<p>Questions:</p>
+		<ol>
+			<li>Décrire brièvement les données à traiter et le rôle de chacun des fichiers</li>
+			<div class="solution2">Les trois fichiers "3000-3599.txt", "3600-4199.txt" et "4200-4799.txt", contiennent 1 800 pairs de phrases annotées. Pour chaque pair on trouve un chiffre qui représente son identificateur, la phrase en anglais, sa correspondante en français, ainsi que le status d'annotation pour chacun de ces deux phrases. Ensuite, le fichier "LICENCE_EN.txt" contient les droits d'utilisation de ce corpus, et enfin, le fichier "README.txt" porte sur la présentation de ce corpus annoté, de sa structure et mentionne les coordonnées des deux chercheurs responsables.</div>
+			<br/>
+			<li>&#192; partir des 3 fichiers 3000-3599.txt, 3600-4199.txt, 4200-4799.txt, proposez une structure XML (une grammaire donc) pour représenter les informations contenues dans ces fichiers. On pourra automatiser la construction du fichier XML final via un script Perl ou Python.</li>
+			<div class="solution"><a href="./exercices/exercice11-prop.xml" target="_blank">Afficher</a> la structure XML proposée (construite par le code Perl ci-dessous)</div>
+			<div class="solution"><a href="./exercices/exercice11.pl" target="_blank">Afficher</a> le code Perl</div>
+			<div class="solution"><a href="./exercices/exercice11.dtd" target="_blank">Afficher</a> la grammaire DTD</div>
+			<br/>
+			<li>&#192; partir du ou des fichiers XML produits à la question 2, construire une feuille de styles XSLT pour afficher en parallèle les 2 volets de l’alignement (EN vs FR)</li>
+			<div class="solution"><a href="./exercices/exercice11c.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice11c-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+		</ol>
+		</div>
+	
+	</div>
+	<!-- Work page ends ========================================================================= -->
+	
+	<!-- Footer begins ========================================================================== -->
+	<footer class="sixteen columns">
+		<hr />
+		<ul id="footerLinks">
+			<li>&#169; Sotiria BAMPATZANI</li>
+			<li>2016-2017</li>
+			<li>INALCO</li>
+			<li><a href="index.xhtml">Accueil</a></li>
+		</ul>
+	</footer>
+	<!-- Footer ends ============================================================================ -->
+		
+</div><!-- container -->
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!ELEMENT teiCorpus.2 (info | teiHeader | TEI.2)*>
+<!ELEMENT info (nom , prenom , email, datecreation)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT datecreation (#PCDATA)>
+<!ELEMENT teiHeader (fileDesc | encodingDesc | profileDesc | revisionDesc)*>
+<!ELEMENT fileDesc (titleStmt | extent | publicationStmt | sourceDesc)*>
+<!ELEMENT titleStmt (title | respStmt | principal)*>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT respStmt (resp | name)*>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT principal (#PCDATA)>
+<!ELEMENT extent (#PCDATA)>
+<!ELEMENT publicationStmt (availability | distributor | date)*>
+<!ELEMENT availability (p)*>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT distributor (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT sourceDesc (recordingStmt | scriptStmt | p)*>
+<!ELEMENT recordingStmt (p)*>
+<!ELEMENT scriptStmt (p)*>
+<!ELEMENT encodingDesc (projectDesc | editorialDecl)*>
+<!ELEMENT projectDesc (p)*>
+<!ELEMENT editorialDecl (normalization)*>
+<!ELEMENT normalization (p)*>
+<!ELEMENT profileDesc (particDesc)*>
+<!ELEMENT particDesc (person)*>
+<!ELEMENT person (p)*>
+<!ELEMENT revisionDesc (change)*>
+<!ELEMENT change (date | respStmt | item)*>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT TEI.2 (teiHeader | text)*>
+<!ELEMENT text (group | body)*>
+<!ELEMENT group (text)*>
+<!ELEMENT body (div)*>
+<!ELEMENT div (head | u | note | event)*>
+<!ELEMENT head (#PCDATA)>
+<!ELEMENT u (#PCDATA | vocal | shift | pause | unclear | event | u)*>
+<!ELEMENT vocal (#PCDATA)>
+<!ELEMENT shift (#PCDATA)>
+<!ELEMENT pause (#PCDATA)>
+<!ELEMENT unclear (#PCDATA)>
+<!ELEMENT event (#PCDATA)>
+<!ELEMENT note (#PCDATA | unclear)*>
+
+<!ATTLIST teiHeader creator CDATA #IMPLIED>
+<!ATTLIST teiHeader date.created CDATA #IMPLIED>
+<!ATTLIST date value CDATA #IMPLIED>
+<!ATTLIST person id CDATA #REQUIRED>
+<!ATTLIST person role CDATA #REQUIRED>
+<!ATTLIST u n CDATA #REQUIRED>
+<!ATTLIST u who CDATA #REQUIRED>
+<!ATTLIST vocal desc CDATA #REQUIRED>
+<!ATTLIST shift feature CDATA #REQUIRED>
+<!ATTLIST shift new CDATA #REQUIRED>
+<!ATTLIST pause type CDATA #IMPLIED>
+<!ATTLIST event desc CDATA #REQUIRED>

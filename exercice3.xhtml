@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="utf-8" />
+
+<title>Documents Structurés</title>
+<meta name="description" content="Projet de SB pour le cours Documents Structurés" />
+<meta name="author" content="Sotiria Bampatzani" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS
+================================================================================================= -->
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/themes/type_17.css" />
+<link rel="stylesheet" href="css/themes/color_01.css" />
+
+<!-- Favicons
+================================================================================================= -->
+<link rel="shortcut icon" href="images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png" />
+
+<!-- JS
+================================================================================================= -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/jquery-1.8.3.min.js"></script>
+<script src="js/libs/jquery.easing.1.3.min.js"></script>
+<script src="js/libs/jquery.fitvids.js"></script>
+<script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+	
+	<!-- Header begins ========================================================================== -->
+	<header class="sixteen columns">
+		<div id="logo">
+			<h1>Documents Structurés</h1>
+			<h2>M1 TAL, 2016-2017</h2>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.xhtml">Accueil</a></li>
+				<li><a href="http://xmlprojet.wordpress.com" target="_blank">Blog</a></li>
+			</ul>
+		</nav>
+		<hr />
+	</header>
+	<!-- Header ends ============================================================================ -->
+	
+	<!-- Work page begins ======================================================================= -->
+	<div id="work">
+	
+		<div id="overview" class="sixteen columns">
+			<h4>XML xPath XSLT</h4>
+			<hr />
+		</div>
+		
+		<div class="sixteen columns">
+		<h3>Exercice 3</h3>
+		<br/>
+		<h4>Phase 1</h4>
+		<p>Rédiger une DTD pour une bibliographie. Cette bibliographie :</p>
+		<ul class="disc">
+			<li>contient des livres et des articles ;</li>
+		</ul>
+		<p>Les informations nécessaires pour un livre sont :</p>
+		<ul class="disc">
+			<li>son titre général ;</li>
+			<li>les noms des auteurs ;</li>
+			<li>ses tomes et pour chaque tome, leur nombre de pages ;</li>
+			<li>des informations générales sur son édition comme par exemple le nom de l'éditeur, le lieu d'édition, le lieu d'impression, son numéro ISBN ;</li>
+		</ul>
+		<p>Les informations nécessaires pour un article sont :</p>
+		<ul class="disc">
+			<li>son titre ;</li>
+			<li>les noms des auteurs ;</li>
+			<li>ses références de publication : nom du journal, numéro des pages, année de publication et numéro du journal;</li>
+			<li>on réservera aussi un champ optionnel pour un avis personnel;</li>
+			<li>Tester cette DTD avec un fichier XML que l'on écrira ex-nihilo et validera.</li>
+		</ul>
+		<br/>
+		<h5><a href="./exercices/exercice3a.xml" target="_blank">Afficher</a> le fichier XML</h5>
+		<h5><a href="./exercices/exercice3a.dtd" target="_blank">Afficher</a> la grammaire DTD</h5>
+		<br/>
+		<h4>Phase 2</h4>
+		<p>Modifier la DTD précédente...</p>
+		<ul class="disc">
+			<li>en ajoutant un attribut optionnel soustitre à l'élément titre ;</li>
+			<li>en faisant de l'élément tome un élément vide et en lui ajoutant un attribut requis nb_pages et un attribut optionnel soustitre ;</li>
+			<li>en faisant de l'élément nom_journal un attribut de l'élément journal et en lui donnant comme valeur par défaut "Feuille de Chou" ;</li>
+			<li>en faisant de l'élément annee un attribut de type énuméré, prenant comme valeurs possibles "2000", "2001", "2002", "avant_2000" et "inconnue" et proposant comme valeur par défaut "inconnue".</li>
+		</ul>
+		<p>Utiliser cette DTD pour créer un fichier XML valide.</p>
+		<br/>
+		<h5><a href="./exercices/exercice3b.xml" target="_blank">Afficher</a> le code XML</h5>
+		<h5><a href="./exercices/exercice3b.dtd" target="_blank">Afficher</a> la grammaire DTD</h5>
+		</div>
+	</div>
+	<!-- Work page ends ========================================================================= -->
+	
+	<!-- Footer begins ========================================================================== -->
+	<footer class="sixteen columns">
+		<hr />
+		<ul id="footerLinks">
+			<li>&#169; Sotiria BAMPATZANI</li>
+			<li>2016-2017</li>
+			<li>INALCO</li>
+			<li><a href="index.xhtml">Accueil</a></li>
+		</ul>
+	</footer>
+	<!-- Footer ends ============================================================================ -->
+		
+</div><!-- container -->
+</body>
+</html>

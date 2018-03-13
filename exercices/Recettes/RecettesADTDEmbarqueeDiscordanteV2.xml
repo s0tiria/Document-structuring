@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE recettes [
+
+	<!ELEMENT recettes  (recette+)>
+	<!ELEMENT recette (nom, origine, ingredients, preparation, cuisson, realisation, conseil?) >
+	<!ATTLIST recette 
+	
+		id ID #REQUIRED
+		type CDATA #REQUIRED
+		difficulte CDATA #IMPLIED
+	>
+	
+	<!ELEMENT ingredients ( ingredient+ ) >
+	<!ELEMENT realisation ( etape+ ) >
+	<!ELEMENT nom ( #PCDATA ) >
+	<!ELEMENT origine ( #PCDATA ) >
+	<!ELEMENT ingredient ( #PCDATA ) >
+	<!ELEMENT preparation ( #PCDATA ) >
+	<!ELEMENT cuisson ( #PCDATA ) >
+	<!ELEMENT etape ( #PCDATA ) >
+	<!ELEMENT conseil ( #PCDATA ) >
+	
+	
+]>
+<?xml-stylesheet type="application/xml" href="Recettes2HTMLV3.xsl"?>
+<recettes>
+<recette id="r1" type="dessert" difficulte="*">
+<nom>Gâteau de Robert (qui chante faux)</nom>
+<origine>Emmanuelle Hahn</origine>
+<ingredients>
+<ingredient>100 gr sucre</ingredient>
+<ingredient>1 cuillérée à soupe rase de miel</ingredient>
+<ingredient>1 cuillérée à soupe de crème fraîche (voire plus)</ingredient>
+<ingredient>70 gr de beurre</ingredient>
+<ingredient>une pincée de sel</ingredient>
+<ingredient>125 d'amandes effilées</ingredient>
+</ingredients>
+<preparation>5 mn</preparation>
+<cuisson>50 mn : 30 mn (pâte à blanc) + 5 mn (mélange) + 1/4h (au four)</cuisson>
+<realisation>
+<etape>Faire cuire une pâte à blanc (brisée ou feuilletée).</etape>
+<etape>Mettre cuire sucre, miel, beurre, crème fraîche et sel jusqu'à ébullition.</etape>
+<etape>Ajouter 125 d'amandes effilées.</etape>
+<etape>Mettre le mélange ensuite dessus 1/4 h au four moyen jusqu'à obtenir un quasi-caramel.</etape>
+</realisation>
+</recette>
+<recette id="r4"  type="entrée" difficulte="*">
+<nom>Caviar d'aubergines</nom>
+<ingredients>
+<ingredient>3 ou 4 aubergines</ingredient>
+<ingredient>citron</ingredient>
+<ingredient>gousse d'ail</ingredient>
+<ingredient>huile d'olive</ingredient>
+<ingredient>crème de sésame</ingredient>
+</ingredients>
+<preparation>10 mn</preparation>
+<cuisson>1/2 h à 1 h selon la taille des aubergines</cuisson>
+<realisation>
+<etape>Faire cuire au four moyen les aubergines dans leur peau (1/2 h à 1 h selon la taille).</etape>
+<etape>Les peler.</etape>
+<etape>Les mettre dans le mixeur avec sel, poivre, un jus de citron, une gousse d'ail, de l'huile d'olive et de la crème de sésame.</etape>
+</realisation>
+<conseil>Doit être un peu amer.</conseil>
+</recette>
+</recettes>

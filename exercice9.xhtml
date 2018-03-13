@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="utf-8" />
+
+<title>Documents Structurés</title>
+<meta name="description" content="Projet de SB pour le cours Documents Structurés" />
+<meta name="author" content="Sotiria Bampatzani" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS
+================================================================================================= -->
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/themes/type_17.css" />
+<link rel="stylesheet" href="css/themes/color_01.css" />
+
+<!-- Favicons
+================================================================================================= -->
+<link rel="shortcut icon" href="images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png" />
+
+<!-- JS
+================================================================================================= -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/jquery-1.8.3.min.js"></script>
+<script src="js/libs/jquery.easing.1.3.min.js"></script>
+<script src="js/libs/jquery.fitvids.js"></script>
+<script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+	
+	<!-- Header begins ========================================================================== -->
+	<header class="sixteen columns">
+		<div id="logo">
+			<h1>Documents Structurés</h1>
+			<h2>M1 TAL, 2016-2017</h2>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.xhtml">Accueil</a></li>
+				<li><a href="http://xmlprojet.wordpress.com" target="_blank">Blog</a></li>
+			</ul>
+		</nav>
+		<hr />
+	</header>
+	<!-- Header ends ============================================================================ -->
+	
+	<!-- Work page begins ======================================================================= -->
+	<div id="work">
+	
+		<div id="overview" class="sixteen columns">
+			<h4>XML xPath XSLT</h4>
+			<hr />
+		</div>
+		
+		<div class="sixteen columns">
+		<h3>Exercice 9</h3>
+		<br/>
+		<p>La quasi-totalité des collections conservées au musée des Augustins est accessible par moteur de recherche à <a href="http://www.augustins.org/les-collections/documentation/base-de-donnees">cette</a> adresse.</p>
+		<p>Cet <a href="https://data.toulouse-metropole.fr/explore/dataset/collections-du-musee-des-augustins-ville-detoulouse/">URL</a> donne accès à l’inventaire des oeuvres acquises par le musée des Augustins depuis sa création en 1793. On trouvera sur ce site différents formats pour cet inventaire. On récupèrera notamment <a href="https://data.toulouse-metropole.fr/explore/dataset/collections-du-museedes-augustins-ville-de-toulouse/download/?format=json&amp;timezone=Europe/Berlin">le fichier au format JSON</a>.</p>
+		<p>Vous trouverez sur iCampus une version de cet inventaire au format XML <i>(augustins.xml)</i>.</p>
+		<ol>
+			<li>Choisir quelques entrées communes à l’inventaire au format XML et au même inventaire au format JSON.</li>
+			<ul class="disc">
+				<li>Faire une brève présentation de JSON (cf wikipédia par exemple)</li>
+				<div class="solution2">JSON (JavaScript Object Notation) est une forme d'écriture de données en JavaScript. Il s'agit d'un format léger d'échange de données. Il est facile à lire ou à écrire pour des humains. Il est aisément analysable ou générable par des machines. Il est basé sur un sous-ensemble du langage de programmation JavaScript (JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999). JSON est un format texte complètement indépendant de tout langage, mais les conventions qu'il utilise seront familières à tout programmeur habitué aux langages descendant du C, comme par exemple : C lui-même, C++, C#, Java, JavaScript, Perl, Python et bien d'autres. Ces propriétés font de JSON un langage d'échange de données idéal.<a href="http://www.json.org/jsonfr.html" target="_blank">(source)</a></div>
+				<br/>
+				<li>Comparez les différentes entrées en parallèle.</li>
+				<div class="solution2">Au niveau de syntaxe, il y a des legères différences dont il faut se mefier. En regardant les <a href="exercice9img.xhtml" target="_blank">exemples</a> tirés du format JSON et du format XML, on remarque tout d'abord une différence dans le nommage des variables. Par exemple, dans le format XML la variable utilisée pour le numéro d'acquisition est 'numeroAcquisition' alors qu'au format JSON la même variable est nommée 'numero_acquisition'. De même manière, le numéro d'inventaire en XML est 'numeroInventaire', mais en JSON c'est 'num_inventaire'. Or, dans le format XML 'id' est l'attribut de l'élément 'oeuvre', alors qu'en JSON 'datasetid' et 'recordid' ce sont deux éléments différents (!)
+				</div>
+			</ul>
+			<br/>
+			<li>A partir de l’inventaire fourni au format XML, construire sa DTD.</li>
+			<div class="solution"><a href="./exercices/exercice9.dtd" target="_blank">Afficher</a> la grammaire DTD</div>
+			<br/>
+			<li>A partir de l’inventaire fourni au format XML, construire une feuille de styles XSLT minimale pour afficher « proprement » le contenu de l’inventaire au format HTML en classant les oeuvres par auteur.</li>
+			<div class="solution"><a href="./exercices/exercice9a.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice9a-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>Construire une feuille de styles permettant de n’afficher que les références des oeuvres (n° d’inventaire par exemple) et l’auteur</li>
+			<div class="solution"><a href="./exercices/exercice9b.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice9b-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>A partir de la feuille de styles précédente, ajoutez une fonctionnalité permettant d’afficher le contenu complet d’une seule entrée (en cliquant sur l’entrée par exemple)</li>
+			<ul class="disc">
+				<li>démo en cours par SF</li>
+				<li>On pourra par exemple s’inspirer de la solution mise en oeuvre sur la page Mémoires du site plurital.org (via une fonctionnalité javascript)</li>
+			</ul>
+			<div class="solution"><a href="./exercices/exercice9c.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice9c-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>Construire un programme (perl, python…) permettant de passer du format JSON disponible en ligne ci-dessus vers un fichier au format XML pour produire un nouvel état de l’inventaire au format XML</li>
+			<div class="solution"><a href="./exercices/exercice9.pl" target="_blank">Afficher</a> le code Perl</div>
+			<div class="solution"><a href="./exercices/exercice9-PerlEx.xml" target="_blank">Afficher</a> une partie du résultat</div>
+		</ol>
+		</div>
+	</div>
+	<!-- Work page ends ========================================================================= -->
+	
+	<!-- Footer begins ========================================================================== -->
+	<footer class="sixteen columns">
+		<hr />
+		<ul id="footerLinks">
+			<li>&#169; Sotiria BAMPATZANI</li>
+			<li>2016-2017</li>
+			<li>INALCO</li>
+			<li><a href="index.xhtml">Accueil</a></li>
+		</ul>
+	</footer>
+	<!-- Footer ends ============================================================================ -->
+		
+</div><!-- container -->
+</body>
+</html>

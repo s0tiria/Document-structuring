@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="utf-8" />
+
+<title>Documents Structurés</title>
+<meta name="description" content="Projet de SB pour le cours Documents Structurés" />
+<meta name="author" content="Sotiria Bampatzani" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS
+================================================================================================= -->
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/themes/type_17.css" />
+<link rel="stylesheet" href="css/themes/color_01.css" />
+
+<!-- Favicons
+================================================================================================= -->
+<link rel="shortcut icon" href="images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png" />
+
+<!-- JS
+================================================================================================= -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/jquery-1.8.3.min.js"></script>
+<script src="js/libs/jquery.easing.1.3.min.js"></script>
+<script src="js/libs/jquery.fitvids.js"></script>
+<script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+	
+	<!-- Header begins ========================================================================== -->
+	<header class="sixteen columns">
+		<div id="logo">
+			<h1>Documents Structurés</h1>
+			<h2>M1 TAL, 2016-2017</h2>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.xhtml">Accueil</a></li>
+				<li><a href="http://xmlprojet.wordpress.com" target="_blank">Blog</a></li>
+			</ul>
+		</nav>
+		<hr />
+	</header>
+	<!-- Header ends ============================================================================ -->
+	
+	<!-- Work page begins ======================================================================= -->
+	<div id="work">
+	
+		<div id="overview" class="sixteen columns">
+			<h4>XML xPath XSLT</h4>
+			<hr />
+		</div>
+		
+		<div class="sixteen columns">
+		<h3>Exercice 5</h3>
+		<br/>
+		</div>
+		<div class="sixteen columns solution">
+		<br/><h4>Le fichier de travail a l’allure suivante :</h4>
+		<br/>
+		<pre>
+		&lt;?xml version="1.0" encoding="iso-8859-1"?>
+		&lt;?xml-stylesheet type="application/xml" href="AuteurRecueilTitrePoemeHTML.xsl"?>
+		&lt;TEI.2>
+			&lt;teiHeader>
+				&lt;fileDesc>
+					&lt;titleStmt>
+						&lt;title>Poésie&lt;/title>
+						&lt;author>Arthur Rimbaud&lt;/author>
+					&lt;/titleStmt>
+				&lt;/fileDesc>
+			&lt;/teiHeader>
+			&lt;text>
+				&lt;group>
+			&lt;text>
+			&lt;front>
+				&lt;head>Le Dormeur du Val&lt;/head>
+				&lt;dateline>7 octobre 1870&lt;/dateline>
+			&lt;/front>
+			&lt;body>
+			...
+		</pre>
+		</div>
+		<br/>
+		<div class="sixteen columns">
+		<p>Chacune des questions suivantes doit conduire à construire une (voire plusieurs) feuille(s) de style pour réaliser les traitements visés :</p>
+		<ul class="disc">
+			<li>Afficher le nom de l'auteur, le titre du poème, la date, et le recueil, dans cet ordre et au sein d'une page HTML bien formée.</li>
+			<div class="solution"><a href="./exercices/exercice5a.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5a-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher le titre et la date du poème, les vers les uns après les autres, sans balise (sortie texte brut)</li>
+			<div class="solution"><a href="./exercices/exercice5b.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5b-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher le 3ème vers de chaque groupe de vers au sein d'une page HTML bien formée.</li>
+			<div class="solution"><a href="./exercices/exercice5c.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5c-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher seulement le 1er quatrain au sein d'une page HTML bien formée.</li>
+			<div class="solution"><a href="./exercices/exercice5d.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5d-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher chaque vers précédé de son numéro d'ordre au sein du groupe de vers (&lt;lg>).</li>
+			<div class="solution"><a href="./exercices/exercice5e.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5e-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Idem en ajoutant à chaque groupe de vers son numéro d'ordre.</li>
+			<div class="solution"><a href="./exercices/exercice5f.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5f-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Engendrer une page HTML bien formée dans laquelle le poème (seul, sans titre) est au sein d'un tableau, avec une ligne par vers, et une ligne entre chaque strophe. Penser à aligner les lignes à gauche.</li>
+			<div class="solution"><a href="./exercices/exercice5g.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5g-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher les vers qui contiennent un point-virgule ou deux points (:) (format texte brut)</li>
+			<div class="solution"><a href="./exercices/exercice5h.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5h-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br />
+			<li>Afficher les quatrains en gras et les tercets en italiques au sein d'une page HTML bien formée.</li>
+			<div class="solution"><a href="./exercices/exercice5i.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice5i-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+		</ul>
+		</div>
+	
+	</div>
+	<!-- Work page ends ========================================================================= -->
+	
+	<!-- Footer begins ========================================================================== -->
+	<footer class="sixteen columns">
+		<hr />
+		<ul id="footerLinks">
+			<li>&#169; Sotiria BAMPATZANI</li>
+			<li>2016-2017</li>
+			<li>INALCO</li>
+			<li><a href="index.xhtml">Accueil</a></li>
+		</ul>
+	</footer>
+	<!-- Footer ends ============================================================================ -->
+		
+</div><!-- container -->
+</body>
+</html>

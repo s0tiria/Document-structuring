@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE table SYSTEM "exercice4.dtd">
+<table>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV1.xml">
+		<hypothese>L'élément 'ingredients' devrait être composé de 'ingredient' et non pas de 'etape'</hypothese>
+		<diagnostic>Warning: Content model for ingredients does not allow element ingredient here in unnamed entity at line 51 char 12 of file:///C:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV1.xml</diagnostic>
+	</document>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV2.xml">
+		<hypothese>L'élément 'origine' de 'recette' devrait être suivi par l'opérateur '?' pour signifier qu'éventuellement cet élément pourrait ne pas apparaître</hypothese>
+		<diagnostic>Warning: Content model for recette does not allow element ingredients here in unnamed entity at line 49 char 13 of file:///C:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV2.xml</diagnostic>
+	</document>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV3.xml">
+		<hypothese>L'élément 'realisation' devrait être composé de l'élément 'etape+' et non pas des données textuelles '#PCDATA'</hypothese>
+		<diagnostic>Warning: Content model for realisation does not allow element etape here in unnamed entity at line 60 char 7 of file:///C:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV3.xml</diagnostic>
+	</document>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV4.xml">
+		<hypothese>Dans la deuxième recette, l'élément 'etape' ne doit pas être suivi d'un élément 'ingredient'</hypothese>
+		<diagnostic>Warning: Content model for realisation does not allow element ingredient herein unnamed entity at line 62 char 12 of file:///c:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV4.xml</diagnostic>
+	</document>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV5.xml">
+		<hypothese>Dans la deuxième recette, l'élément 'nom' devrait précéder l'élément 'origine'</hypothese>
+		<diagnostic>Warning: Content model for recette does not allow element origine here in unnamed entity at line 48 char 9 of file:///c:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV5.xml</diagnostic>
+	</document>
+	<document nom="RecettesADTDEmbarqueeDiscordanteV6.xml">
+		<hypothese>L'élément 'realisation' devrait être composé de l'élément 'etape+' et non pas d'un seul élément 'etape'</hypothese>
+		<diagnostic>Warning: Content model for realisation does not allow element etape here in unnamed entity at line 42 char 7 of file:///c:/Users/SBam/Documents/TAL/S2/Document_structure/PROJET/site/site_XML/exercices/Recettes/RecettesADTDEmbarqueeDiscordanteV6.xml</diagnostic>
+	</document>
+</table>

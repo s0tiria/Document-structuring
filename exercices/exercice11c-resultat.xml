@@ -1,0 +1,3608 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE CorpusAnnote SYSTEM "exercice11.dtd">
+
+<?xml-stylesheet type="application/xml" href="exercice11c.xsl"?>
+
+<CorpusAnnote>
+	<pair id="3000">
+		<phraseEN>your honour , i move to disqualify miss vito as a expert witness .</phraseEN>
+		<phraseFR>je récuse sa compétence d' experte .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3001">
+		<phraseEN>i was n't thinking clearly .</phraseEN>
+		<phraseFR>mon esprit n' était pas clair .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3002">
+		<phraseEN>i calculated his body weight .</phraseEN>
+		<phraseFR>j' ai calculé sa masse corporelle .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3003">
+		<phraseEN>- i 'm really touched .</phraseEN>
+		<phraseFR>- je suis touché . - il y a de quoi .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9 10</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10 11</annot2>
+	</pair>
+	<pair id="3004">
+		<phraseEN>you say it wearies you .</phraseEN>
+		<phraseFR>vous dites qu' elle vous fatigue aussi .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3005">
+		<phraseEN>lead us not into temptation , but deliver us from evil .</phraseEN>
+		<phraseFR>" libère nous de la tentation , " " et délivre nous du mal . "</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3006">
+		<phraseEN>- somebody rebuilt it .</phraseEN>
+		<phraseFR>- quelqu'un l' a reconstruit .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3007">
+		<phraseEN>- no , i fucking wo n't keep my voice down !</phraseEN>
+		<phraseFR>- je crierai si j' en ai envie !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3008">
+		<phraseEN>repeat : lower your altitude to 20,000 ft.</phraseEN>
+		<phraseFR>je répète : descendez à 7000 m.</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3009">
+		<phraseEN>loretta , i 'm already expelled .</phraseEN>
+		<phraseFR>loretta , vous m' avez déjà expulsé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3010">
+		<phraseEN>we got the killer 's god damn dna ?</phraseEN>
+		<phraseFR>on a l' adn du tueur ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3011">
+		<phraseEN>- may we stay this happy forever .</phraseEN>
+		<phraseFR>- puisse ce bonheur être éternel .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3012">
+		<phraseEN>you can go ahead and try and engage him .</phraseEN>
+		<phraseFR>allez -y , essayez de le viser .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3013">
+		<phraseEN>i would do as he asks .</phraseEN>
+		<phraseFR>vous feriez bien de l' écouter .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3014">
+		<phraseEN>and i saw the top-secret file to prove it .</phraseEN>
+		<phraseFR>j' ai vu le dossier ultrasecret qui le prouve .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3015">
+		<phraseEN>you have to get your people out .</phraseEN>
+		<phraseFR>il faut faire évacuer .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3016">
+		<phraseEN>- whipped cream or berry ?</phraseEN>
+		<phraseFR>- crème fouettée ou petits fruits ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3017">
+		<phraseEN>just keep walkin ' , keep walkin ' .</phraseEN>
+		<phraseFR>avance . et voilà .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3018">
+		<phraseEN>how much do you know about electricity ?</phraseEN>
+		<phraseFR>tu t' y connais en électricité ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3019">
+		<phraseEN>hamburgers , where are you ? .</phraseEN>
+		<phraseFR>hamburgers ; où êtes vous ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3020">
+		<phraseEN>and that 's the way i live</phraseEN>
+		<phraseFR>et je vis comme ça</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3021">
+		<phraseEN>she 's down to fuck , man .</phraseEN>
+		<phraseFR>prête à baiser , mec .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: </annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3022">
+		<phraseEN>- how can i hold the presents ?</phraseEN>
+		<phraseFR>- à la main ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3023">
+		<phraseEN>i 'm just saying , you know , fabula is a lot less possessive than she used to be .</phraseEN>
+		<phraseFR>fabula est beaucoup moins possessive qu' avant .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3024">
+		<phraseEN>ok , you 're right .</phraseEN>
+		<phraseFR>ok , vous avez raison .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3025">
+		<phraseEN>now , could aaron stampler have been present during the murder of archbishop rushman ...</phraseEN>
+		<phraseFR>aaron stampler pouvait -il être présent au moment du meurtre</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 11 12 13 14; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 11 12 13 14; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3026">
+		<phraseEN>three minutes , i can have power back on in the entire park .</phraseEN>
+		<phraseFR>j' aurai rétabli le courant dans trois minutes .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 9 10 11 12; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 9 10 11 12; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3027">
+		<phraseEN>he could 've shot your damn head off !</phraseEN>
+		<phraseFR>il aurait pu t' arracher toute la tête !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3028">
+		<phraseEN>that depends , gentlemen .</phraseEN>
+		<phraseFR>ça dépend , messieurs .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3029">
+		<phraseEN>miami . you do whatever work comes your way .</phraseEN>
+		<phraseFR>vous faites n' importe quel job qui se présente .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3030">
+		<phraseEN>that 's the way a clock works .</phraseEN>
+		<phraseFR>pourquoi " joli " ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3031">
+		<phraseEN>we had a pretty tough season , so naturally , the show went into the red .</phraseEN>
+		<phraseFR>on a eu une saison assez dure , alors , le spectacle était dans le rouge .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3032">
+		<phraseEN>brad and i are watching the house .</phraseEN>
+		<phraseFR>brad et moi gardons la maison .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3033">
+		<phraseEN>how many buildings in town is that ?</phraseEN>
+		<phraseFR>ça fait combien de bâtiments ça ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 3 4; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3034">
+		<phraseEN>uh , no. . . party sounds awesome , dude .</phraseEN>
+		<phraseFR>la fête a l' air génial .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3035">
+		<phraseEN>if that 's the way it was , can you ever forgive me ?</phraseEN>
+		<phraseFR>si c' était vrai , me pardonnerais -tu un jour ? je n' ai pas d' autre solution .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 11 12 13 14 15 16 17</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 11 12 13 14 15 16 17</annot2>
+	</pair>
+	<pair id="3036">
+		<phraseEN>because everything you said is true .</phraseEN>
+		<phraseFR>- parce que ... tout ce que tu as dit est vrai . j' ai tout foiré .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 3 12 13 14 15 16 17</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 3 12 13 14 15 16 17</annot2>
+	</pair>
+	<pair id="3037">
+		<phraseEN>i ca n't imagine anyone in lilliput not wanting you to stay as long as possible .</phraseEN>
+		<phraseFR>tout le monde à lilliput souhaite que vous restiez le plus possible .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3038">
+		<phraseEN>" hold my cigar , mr. a.g. "</phraseEN>
+		<phraseFR>" tenez mon cigare , m. le ministre . "</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3039">
+		<phraseEN>no , it-it 's paid for .</phraseEN>
+		<phraseFR>non , c' est payé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3040">
+		<phraseEN>he should win some cheap races for you .</phraseEN>
+		<phraseFR>il pourrait gagner de petites courses .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 6 7; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3041">
+		<phraseEN>back off , chicklett .</phraseEN>
+		<phraseFR>- on se calme , poulette ! - c' est quoi , ton problème ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10 11 12 13 14</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10 11 12 13 14</annot2>
+	</pair>
+	<pair id="3042">
+		<phraseEN>any card you want .</phraseEN>
+		<phraseFR>celle que vous voulez .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3043">
+		<phraseEN>- how far out do you want me to ... ?</phraseEN>
+		<phraseFR>- tu veux que je ...</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3044">
+		<phraseEN>shoot . i knew you never robbed any place , you faker .</phraseEN>
+		<phraseFR>je savais que ce n' était pas vrai , vantard !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3045">
+		<phraseEN>maybe i 'm out of options .</phraseEN>
+		<phraseFR>je suis peut-être à court d' options .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3046">
+		<phraseEN>no , we never do that</phraseEN>
+		<phraseFR>- il te plaît ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3047">
+		<phraseEN>he 's going to kill me .</phraseEN>
+		<phraseFR>la fièvre va baisser .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3048">
+		<phraseEN>i hope the two of you are not concerned about this .</phraseEN>
+		<phraseFR>j' espère que vous n' êtes pas inquiets .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3049">
+		<phraseEN>cam , manny needs a teal pocket square .</phraseEN>
+		<phraseFR>manny demande un mouchoir de veste bleu cyan .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3050">
+		<phraseEN>you have a go on , " operation get 'em . " got it ?</phraseEN>
+		<phraseFR>c' est d'accord pour " opération coffrez -les " .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3051">
+		<phraseEN>who snuck you out to see sleeping beauty ?</phraseEN>
+		<phraseFR>qui t' a emmenée voir la belle au bois dormant ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3052">
+		<phraseEN>besides , it 's my bedtime .</phraseEN>
+		<phraseFR>d'ailleurs je vais bientôt me coucher .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3053">
+		<phraseEN>we 'll thank you later</phraseEN>
+		<phraseFR>allez ! comment vous remercier ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3054">
+		<phraseEN>because it 's not about rules .</phraseEN>
+		<phraseFR>ce n' est pas une question de règles .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3055">
+		<phraseEN>he appears at his moment of triumph at the olympia .</phraseEN>
+		<phraseFR>il sorti annoncer son passage dans olimpia .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3056">
+		<phraseEN>in the next 30 seconds , you 're going to open up one of two doors .</phraseEN>
+		<phraseFR>dans 30 secondes , tu auras</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 10 11 12 13 14 15 16; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 10 11 12 13 14 15 16; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3057">
+		<phraseEN>the ambulance chaser who 's on all the city buses ?</phraseEN>
+		<phraseFR>le chasseur d' ambulances qui arrive après toutes les opérations de police ? super !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3058">
+		<phraseEN>it 's too brilliant and it 'll ruin my plan .</phraseEN>
+		<phraseFR>je suis trop futé et ça gâcherait tout .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3059">
+		<phraseEN>it was bill gates .</phraseEN>
+		<phraseFR>c' était bill gates .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3060">
+		<phraseEN>do you know what doctors call people who drive motorcycles ?</phraseEN>
+		<phraseFR>ellie n' est pas dans la haie où elle se cache de la nounou .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3061">
+		<phraseEN>twelve van briggle strasse amsterdam</phraseEN>
+		<phraseFR>douze , rue van briggle . amsterdam .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3062">
+		<phraseEN>- why would i go there ?</phraseEN>
+		<phraseFR>qu' est -ce que j' irais y faire ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3063">
+		<phraseEN>now " many happy returns of the day " .</phraseEN>
+		<phraseFR>maintenant : mes vœux les plus sincères .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3064">
+		<phraseEN>there 's no way we can have maritals with you lying all the way over there .</phraseEN>
+		<phraseFR>on ne remplira pas nos devoirs conjugaux si t' es loin de moi .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3065">
+		<phraseEN>maybe i was just looking for someone to say no , and i thought you were it .</phraseEN>
+		<phraseFR>j' attendais que quelqu'un me dise non , et je me disais que ce serait toi .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3066">
+		<phraseEN>i 'd like to fill her void .</phraseEN>
+		<phraseFR>c' est son vide que j' aimerais combler .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3067">
+		<phraseEN>you know that 's funny , ai n't it ?</phraseEN>
+		<phraseFR>c' est drôle , non ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3068">
+		<phraseEN>i brought you lunch ... day-old sushi , they were gon na toss it .</phraseEN>
+		<phraseFR>- je t' ai apporté à manger . des sushis d' hier . ils allaient les jeter .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3069">
+		<phraseEN>seven ... he wo n't make it .</phraseEN>
+		<phraseFR>7 ... il ne va pas y arriver .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3070">
+		<phraseEN>- it 's 5:30 .</phraseEN>
+		<phraseFR>- 5 h. 1/2 du mat .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3071">
+		<phraseEN>therefore , mommy had to hide it .</phraseEN>
+		<phraseFR>je dois le cacher .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3072">
+		<phraseEN>ounces and fifties and dimes .</phraseEN>
+		<phraseFR>des onces , des demies , des quarts .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3073">
+		<phraseEN>we got to flop this over .</phraseEN>
+		<phraseFR>il faut le retourner .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3074">
+		<phraseEN>any excuse to drag that out .</phraseEN>
+		<phraseFR>faut toujours que t' en parles .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3075">
+		<phraseEN>it seemed obvious to the mexican authorities what had happened .</phraseEN>
+		<phraseFR>pour la police mexicaine , c' était clair .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 7 8 9; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 7 8 9; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3076">
+		<phraseEN>evolet , come here .</phraseEN>
+		<phraseFR>evolet , viens là .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3077">
+		<phraseEN>maria , i 'm right here .</phraseEN>
+		<phraseFR>- je suis prêt .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3078">
+		<phraseEN>that 's an order .</phraseEN>
+		<phraseFR>il faut que je retrouve bubba !</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3079">
+		<phraseEN>very well , do as you please !</phraseEN>
+		<phraseFR>fais ce que tu veux .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3080">
+		<phraseEN>your honor , how 'd you throw that bull 's eye ?</phraseEN>
+		<phraseFR>votre honneur , comment faites -vous mouche</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3081">
+		<phraseEN>strip off those t-shirts .</phraseEN>
+		<phraseFR>enlevez -moi ces t-shirts .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3082">
+		<phraseEN>- suppose everyone felt that way ?</phraseEN>
+		<phraseFR>- si les autres en faisaient autant ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3083">
+		<phraseEN>i do n't suppose you 'd tell me what .</phraseEN>
+		<phraseFR>vous ne dévoilerez rien ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3084">
+		<phraseEN>so you think music calmed the wild beast ?</phraseEN>
+		<phraseFR>la musique apaise les bêtes féroces ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3085">
+		<phraseEN>why not destroy señor bravano ?</phraseEN>
+		<phraseFR>pourquoi pas señor bravano ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3086">
+		<phraseEN>tell my why tom cruise in the closet or else i 'm gon na shoot someone !</phraseEN>
+		<phraseFR>dites -moi pourquoi tom cruise est dans le placard où je vais tuer quelqu'un !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3087">
+		<phraseEN>just a second there , professor .</phraseEN>
+		<phraseFR>pas tout à fait .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3088">
+		<phraseEN>he keeps changing his story .</phraseEN>
+		<phraseFR>voyez ces trucs de merde ! il change sans arrêt .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5</annot2>
+	</pair>
+	<pair id="3089">
+		<phraseEN>what 's with you ?</phraseEN>
+		<phraseFR>oh ce con , il est pas prêt .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3090">
+		<phraseEN>you gave me a ride , swell , but i do n't wan na talk about this .</phraseEN>
+		<phraseFR>vous vous êtes dérangé pour moi mais j' aime mieux pas en parler</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3091">
+		<phraseEN>i know somebody who 's immensely fond of strawberry tarts .</phraseEN>
+		<phraseFR>je connais quelqu'un qui adore les tartes à la fraise .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3092">
+		<phraseEN>look , do you have a pen ?</phraseEN>
+		<phraseFR>vaut mieux que tu l' ignores .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3093">
+		<phraseEN>this is all my fault .</phraseEN>
+		<phraseFR>huh ! bien pour toi !</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3094">
+		<phraseEN>creed will retain the title .</phraseEN>
+		<phraseFR>creed va conserver le titre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3095">
+		<phraseEN>there 's no one she knows there poor dear , poor thing</phraseEN>
+		<phraseFR>elle ne connaît personne dans cet endroit</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 7 8 9 10 11; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 7 8 9 10 11; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3096">
+		<phraseEN>you know what 's even more funny about that whole situation is , is now , what ?</phraseEN>
+		<phraseFR>c' est bien ce que je pensais .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3097">
+		<phraseEN>well , essentially we have n't .</phraseEN>
+		<phraseFR>réponds si c' est pas ça . on verra comment tu lui parles .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3098">
+		<phraseEN>i was just saying in the most general sense .</phraseEN>
+		<phraseFR>je disais ça en général .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3099">
+		<phraseEN>why are you here ?</phraseEN>
+		<phraseFR>pourquoi 2 unités ? c' est nouveau .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3100">
+		<phraseEN>that guard you clubbed just died .</phraseEN>
+		<phraseFR>le garde que vous avez assommé est mort .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3101">
+		<phraseEN>ms. rebecca turman has testified that she is mr. maragos 's mistress .</phraseEN>
+		<phraseFR>mme rebecca turman a témoigné être la maîtresse de m. maragos .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3102">
+		<phraseEN>i 'm the landlord and the lease is 20 % .</phraseEN>
+		<phraseFR>le taulier , c' est moi . et c' est 20 % .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3103">
+		<phraseEN>pipe down , sweetheart , he was n't talking to you .</phraseEN>
+		<phraseFR>du calme , trésor , il ne te parlait pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3104">
+		<phraseEN>- i ca n't get up !</phraseEN>
+		<phraseFR>- je ne peux pas me lever !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3105">
+		<phraseEN>- you know " ai n't she sweet " ?</phraseEN>
+		<phraseFR>tu connais " aimž't she sweet " ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3106">
+		<phraseEN>it was good knowing you , sara .</phraseEN>
+		<phraseFR>heureux de vous avoir connu , sara .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3107">
+		<phraseEN>do n't do this .</phraseEN>
+		<phraseFR>ne fais pas ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3108">
+		<phraseEN>that ca n't be possible be true .</phraseEN>
+		<phraseFR>ça peut pas être vrai .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3109">
+		<phraseEN>billy tyne is no fine wine</phraseEN>
+		<phraseFR>billy tyne devrait secouer sa couenne .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3110">
+		<phraseEN>everyone improves the standing of their family with their daughters .</phraseEN>
+		<phraseFR>c' est grâce à ses filles qu' une famille améliore son statut .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3111">
+		<phraseEN>maybe she made a good trade .</phraseEN>
+		<phraseFR>c' est peut-être mieux comme ça .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3112">
+		<phraseEN>why do n't you come along , dorothy ?</phraseEN>
+		<phraseFR>pourquoi vous ne vous joindriez pas à nous , dorothy ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3113">
+		<phraseEN>it 's just gotten a little smaller on the journey , that 's all .</phraseEN>
+		<phraseFR>elle a juste rapetissé en route .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 10 11 12 13; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 10 11 12 13; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3114">
+		<phraseEN>then all the fans was broken ...</phraseEN>
+		<phraseFR>c' était terrible dans le métro .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3115">
+		<phraseEN>i 've got a ping-pong game fixed up .</phraseEN>
+		<phraseFR>j' ai organisé un ping-pong .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3116">
+		<phraseEN>- i should just date women .</phraseEN>
+		<phraseFR>- les femmes , alors ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3117">
+		<phraseEN>you were kidding earlier , right ?</phraseEN>
+		<phraseFR>tu plaisantais tout à l' heure ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3118">
+		<phraseEN>you put that lying bitch on the stand !</phraseEN>
+		<phraseFR>tu as appelé cette salope à la barre !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3119">
+		<phraseEN>he says , you know the chicken joint ?</phraseEN>
+		<phraseFR>" tu sais , la gargote de l' allemand ? "</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3120">
+		<phraseEN>stepan has n't written to anyone either .</phraseEN>
+		<phraseFR>stépane non plus n' écrit pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3121">
+		<phraseEN>i just graduated last spring .</phraseEN>
+		<phraseFR>je viens d' être diplômée au printemps dernier .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3122">
+		<phraseEN>i mean , it 's pretty tasty , huh ?</phraseEN>
+		<phraseFR>t' en dis quoi ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3123">
+		<phraseEN>on top of that , the faa wants your approval to suspend all air traffic .</phraseEN>
+		<phraseFR>la faa veut que vous suspendiez le trafic aérien .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3124">
+		<phraseEN>do something to perk yourself up and change your attitude</phraseEN>
+		<phraseFR>fais -toi beau change d' attitude</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3125">
+		<phraseEN>maybe some were from high-tech .</phraseEN>
+		<phraseFR>peut-être de la haute technologie .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3126">
+		<phraseEN>you are just imagining the smell .</phraseEN>
+		<phraseFR>il y a son numéro de téléphone alors , non ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3127">
+		<phraseEN>- do you want me to call someone ?</phraseEN>
+		<phraseFR>tu veux que j' appelle quelqu'un ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3128">
+		<phraseEN>what was his name ?</phraseEN>
+		<phraseFR>c' est quoi déjà , son nom ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3129">
+		<phraseEN>- so , desire supports crazy fantasies .</phraseEN>
+		<phraseFR>donc le désir se nourrit des fantasmes les plus fous .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3130">
+		<phraseEN>well , it ai n't moonlight and roses , but ...</phraseEN>
+		<phraseFR>ce sera pas toujours rose , mais ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3131">
+		<phraseEN>uh-huh , what about you ?</phraseEN>
+		<phraseFR>- gus viendra à la messe .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3132">
+		<phraseEN>i want to be a detective , but i ca n't seem to make it happen .</phraseEN>
+		<phraseFR>je veux être inspecteur , mais on m' envoie pas à la brigade du crime .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3133">
+		<phraseEN>where 's the fucking backup ?</phraseEN>
+		<phraseFR>où sont ces putains de renforts ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3134">
+		<phraseEN>i ca n't ... see .</phraseEN>
+		<phraseFR>je ne vois plus rien .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3135">
+		<phraseEN>- i ca n't go into it now .</phraseEN>
+		<phraseFR>je ne peux pas te le dire maintenant</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3136">
+		<phraseEN>i propose to proclaim our congress the supreme power on the don !</phraseEN>
+		<phraseFR>notre congrès doit assumer le pouvoir sur les terres du don !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3137">
+		<phraseEN>i 've been making that deal my whole life . i 'll pass .</phraseEN>
+		<phraseFR>j' ai fait ça toute ma vie . non merci .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3138">
+		<phraseEN>- i ca n't .</phraseEN>
+		<phraseFR>-je ne peux pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3139">
+		<phraseEN>i was too harsh on the date , so i gave you a second look , and you look good .</phraseEN>
+		<phraseFR>j' ai été trop dure l' autre soir , alors je t' ai reconsidéré et tu avais l' air bien .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3140">
+		<phraseEN>we have to undo his\/her plan .</phraseEN>
+		<phraseFR>on doit saboter ses plans .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3141">
+		<phraseEN>i ca n't take him like that .</phraseEN>
+		<phraseFR>je ne peux pas le prendre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3142">
+		<phraseEN>- you set me up every time to be the bad guy .</phraseEN>
+		<phraseFR>- tu me culpabilises sans arrêt .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3143">
+		<phraseEN>your " i was raised out back with the trash cans " roots</phraseEN>
+		<phraseFR>qui reçoit le rein de mme .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3144">
+		<phraseEN>i do n't agree with them bringing you in here .</phraseEN>
+		<phraseFR>je suis opposé ... à votre présence .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3145">
+		<phraseEN>i 'm byong sun .</phraseEN>
+		<phraseFR>- je m' appelle byong sun .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3146">
+		<phraseEN>have you ever reached a point in your life when you really wished you knew how you got there ?</phraseEN>
+		<phraseFR>par exemple quand le gars avec qui vous pensiez avoir des affinités vous tourne le dos .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3147">
+		<phraseEN>i do n't believe that man 's ever been to medical school .</phraseEN>
+		<phraseFR>je doute qu' il ait étudié la médecine .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3148">
+		<phraseEN>i ca n't bear it , please !</phraseEN>
+		<phraseFR>je ne veux pas !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3149">
+		<phraseEN>i 'm talking , less than a thimbleful .</phraseEN>
+		<phraseFR>- moins d' un dé à coudre .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3150">
+		<phraseEN>the peacemaker 's efforts are not very successful .</phraseEN>
+		<phraseFR>les efforts du pacificateur sont vains .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3151">
+		<phraseEN>he just rubs it with a diaper .</phraseEN>
+		<phraseFR>il la bichonne comme un nouveau-né .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3152">
+		<phraseEN>i do n't know .</phraseEN>
+		<phraseFR>je ne sais pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3153">
+		<phraseEN>please , will , say something to him .</phraseEN>
+		<phraseFR>ça pue les miel pops avec le piss .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3154">
+		<phraseEN>i understand that african child was commercially disappointing .</phraseEN>
+		<phraseFR>les ventes d' enfant africain ont été décevantes .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3155">
+		<phraseEN>eventually , but not today .</phraseEN>
+		<phraseFR>oui , mais pas aujourd'hui .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3156">
+		<phraseEN>croatian forces in kraina ...</phraseEN>
+		<phraseFR>trahison ! tous des pourris !</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3157">
+		<phraseEN>i ai n't built like you are .</phraseEN>
+		<phraseFR>je ne suis pas comme toi , geoff .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3158">
+		<phraseEN>all right , so far we have made $ 857 .</phraseEN>
+		<phraseFR>nous avons récolté 857 $ .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3159">
+		<phraseEN>you know , just work , the job ...</phraseEN>
+		<phraseFR>le travail , j' ai pas mal de soucis en ce moment .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 5 6 7 8 9 10 11</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 5 6 7 8 9 10 11</annot2>
+	</pair>
+	<pair id="3160">
+		<phraseEN>if both are hell ...</phraseEN>
+		<phraseFR>tant qu' à être en enfer ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3161">
+		<phraseEN>section 216 of the patriot act allows us to circumvent probable cause in the face of a national security threat , in this case ,</phraseEN>
+		<phraseFR>la section 216 du patriot act nous autorise à faire échouer une cause probable face à une menace . ici ,</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3162">
+		<phraseEN>that smoke 's getting to me .</phraseEN>
+		<phraseFR>cette fumée m' emmerde .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3163">
+		<phraseEN>i 'm sorry , mr ness , you 'll have to give it back .</phraseEN>
+		<phraseFR>vous devez le lui rendre</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3164">
+		<phraseEN>i do n't have a receding hairline .</phraseEN>
+		<phraseFR>je me dégarnis pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3165">
+		<phraseEN>sometimes things are just fucked , jenna !</phraseEN>
+		<phraseFR>et quelques fois les choses merde , jenna !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3166">
+		<phraseEN>no , you did n't give me the money .</phraseEN>
+		<phraseFR>tu m' as donné l' argent ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3167">
+		<phraseEN>i 'm supposed to stay in the rear and give them cover .</phraseEN>
+		<phraseFR>moi , je reste à l' arrière pour assurer la couverture .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3168">
+		<phraseEN>he has the french toast tower whenever he sets foot in the door .</phraseEN>
+		<phraseFR>il prend une tour de pain doré français à chaque fois qu' il y met les pieds .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3169">
+		<phraseEN>but that goat did n't belong to you .</phraseEN>
+		<phraseFR>mais cette chèvre ne vous appartenait pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3170">
+		<phraseEN>but if you do n't have to be a david , why be a david ?</phraseEN>
+		<phraseFR>si tu n' es pas obligée de t' appeler david , pourquoi t' appeler david ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3171">
+		<phraseEN>i just want to check it 's loaded properly so we can shoot ...</phraseEN>
+		<phraseFR>je veux savoir si le magasin est chargé correctement .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 9 10 11 12; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 9 10 11 12; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3172">
+		<phraseEN>he invested their money , gave them access to it wherever they wanted .</phraseEN>
+		<phraseFR>il investissait leur argent en le laissant disponible .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3173">
+		<phraseEN>- for chrissakes , she 's staying with us !</phraseEN>
+		<phraseFR>- chez nous ! - emmène -moi la voir .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 4 5 6 7 8 9</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 4 5 6 7 8 9</annot2>
+	</pair>
+	<pair id="3174">
+		<phraseEN>you 've abused my good-naturedness .</phraseEN>
+		<phraseFR>vous avez abusé de ma bonté . je vous congédie .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10</annot2>
+	</pair>
+	<pair id="3175">
+		<phraseEN>there is a law that weapons may only be issued under direct orders from caesar , not under threats from a thick-headed subordinate , for whom war means only personal glory .</phraseEN>
+		<phraseFR>toute arme doit être distribuée avec l' autorisation de césar , et non sous la menace d' un subalterne borné pour qui la guerre est synonyme de gloire .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3176">
+		<phraseEN>i just got the go-ahead to announce our newest client ,</phraseEN>
+		<phraseFR>je vais vous présenter notre nouveau client ,</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3177">
+		<phraseEN>i just wan na tell you students that we have a banner year coming up .</phraseEN>
+		<phraseFR>un an de triomphes nous attend . de triomphes .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3178">
+		<phraseEN>- both ends at once .</phraseEN>
+		<phraseFR>- des deux côtés à la fois .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3179">
+		<phraseEN>was that amelia earhart ?</phraseEN>
+		<phraseFR>- était -ce amelia earhart ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3180">
+		<phraseEN>like a layaway plan or something ?</phraseEN>
+		<phraseFR>il n' y a pas une solution de paiement ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3181">
+		<phraseEN>all we got is a 50-mile-an-hour edge .</phraseEN>
+		<phraseFR>on est à peine plus rapide .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3182">
+		<phraseEN>i maybe , uh , might have told 'em you was running a homeless shelter out of here .</phraseEN>
+		<phraseFR>- je devais dire un truc . - attention ...</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 9 10 11 12 13 14 15 16 17; untranslated target word indices: 7 8 9</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 9 10 11 12 13 14 15 16 17; untranslated target word indices: 7 8 9</annot2>
+	</pair>
+	<pair id="3183">
+		<phraseEN>he 's doing txagorri 's ear .</phraseEN>
+		<phraseFR>il peint l' oreille de la txagorri .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3184">
+		<phraseEN>mom peeps at my diary</phraseEN>
+		<phraseFR>tu sais quoi ... maman a lu mon journal .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot2>
+	</pair>
+	<pair id="3185">
+		<phraseEN>the sedan is waiting for your father at his office ; my town car 's in the garage ; and the big town car we ca n't use because the second chauffeur 's off today .</phraseEN>
+		<phraseFR>la berline attend ton père à son bureau ... ma quatre portes est au garage ... et le second chauffeur n' est pas là pour conduire la grande .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3186">
+		<phraseEN>you have n't seen her yet , right ?</phraseEN>
+		<phraseFR>tu ne l' as pas vue . ce n' est peut-être pas elle .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10 11 12 13</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10 11 12 13</annot2>
+	</pair>
+	<pair id="3187">
+		<phraseEN>- l 'm a shift supervisor at ventana .</phraseEN>
+		<phraseFR>- je suis chef de quart à ventana .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3188">
+		<phraseEN>stricken , he was .</phraseEN>
+		<phraseFR>brown était sous le choc .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3189">
+		<phraseEN>would you really go ?</phraseEN>
+		<phraseFR>vous viendriez avec moi ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3190">
+		<phraseEN>i 've got myself in real trouble now .</phraseEN>
+		<phraseFR>je me suis mise dans un drôle de pétrin .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3191">
+		<phraseEN>excuse me for doing my fucking job .</phraseEN>
+		<phraseFR>désolée de faire mon putain de boulot .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3192">
+		<phraseEN>okay , but we 've saved half the woods .</phraseEN>
+		<phraseFR>ecoute ... on a sauvé la moitié des bois .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3193">
+		<phraseEN>walk on the boardwalk , then get naked somewhere kind of private date ?</phraseEN>
+		<phraseFR>" balade romantique , puis déshabillage dans un coin discret " de caitlin bree ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 11 12 13</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 11 12 13</annot2>
+	</pair>
+	<pair id="3194">
+		<phraseEN>- his cells began to break down immediately .</phraseEN>
+		<phraseFR>- ses cellules commencent à se détruire .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3195">
+		<phraseEN>yeah , go on irv .</phraseEN>
+		<phraseFR>oui , allez -y , irv .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3196">
+		<phraseEN>well , i wan na be alone .</phraseEN>
+		<phraseFR>je veux rester seule .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3197">
+		<phraseEN>- thursday . in los angeles .</phraseEN>
+		<phraseFR>jeudi , à los angeles .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3198">
+		<phraseEN>your bloodwork came back ... no mono .</phraseEN>
+		<phraseFR>ton analyse sanguine est revenue normale pas de maladie .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3199">
+		<phraseEN>- not like that !</phraseEN>
+		<phraseFR>- vous ne pouvez pas faire ça !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3200">
+		<phraseEN>he 's getting a battlefield commission .</phraseEN>
+		<phraseFR>il va bientôt être nommé lieutenant .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3201">
+		<phraseEN>you get any softer , you 're gon na start lactating .</phraseEN>
+		<phraseFR>a force de te ramollir , tu vas finir gonzesse .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3202">
+		<phraseEN>t ry to think of what it was .</phraseEN>
+		<phraseFR>essaie de te rappeler .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3203">
+		<phraseEN>how 'd they get there ?</phraseEN>
+		<phraseFR>comment sont -ils arrivés ici ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3204">
+		<phraseEN>chema would n't do it</phraseEN>
+		<phraseFR>chema ferait pas ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3205">
+		<phraseEN>senator , i. . .</phraseEN>
+		<phraseFR>et j' ai abandonné la fac .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3206">
+		<phraseEN>are you girls okay ?</phraseEN>
+		<phraseFR>vous allez bien ? - qu' est -ce qu' elle dit ? - mets -les dans le van .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18</annot2>
+	</pair>
+	<pair id="3207">
+		<phraseEN>this whole thing stinks to high heaven .</phraseEN>
+		<phraseFR>en toutes mes années d' enseignement , je n' ai jamais vu quelque chose de si ...</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3208">
+		<phraseEN>we do n't have another option .</phraseEN>
+		<phraseFR>on n' a pas d' autre choix .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3209">
+		<phraseEN>why did n't ned tell me about you before ?</phraseEN>
+		<phraseFR>ned aurais dû nous présenter plus tôt .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3210">
+		<phraseEN>- elias , what the fuck are you ... !</phraseEN>
+		<phraseFR>- elias , qu' est -ce que tu fous ... !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3211">
+		<phraseEN>he 's the prince , son of the sausage king .</phraseEN>
+		<phraseFR>bague de fiançailles , bague d' amitié ...</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3212">
+		<phraseEN>do n't stress about the money .</phraseEN>
+		<phraseFR>t' en fais pas pour l' argent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3213">
+		<phraseEN>they come here to dig what 's going on .</phraseEN>
+		<phraseFR>mais pour comprendre ce qui se passe .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3214">
+		<phraseEN>- you 're back in the room .</phraseEN>
+		<phraseFR>tu es de retour .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3215">
+		<phraseEN>missile still tracking steady and closing distance .</phraseEN>
+		<phraseFR>missile toujours en approche . distance :</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3216">
+		<phraseEN>i made a commitment .</phraseEN>
+		<phraseFR>" j' ai pris un engagement . "</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3217">
+		<phraseEN>mom and dad cut you off , huh , playboy ?</phraseEN>
+		<phraseFR>vos parents vous ont coupé les vivres , hein ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3218">
+		<phraseEN>- kevin , what have you got for the week ?</phraseEN>
+		<phraseFR>- kevin , combien cette semaine ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3219">
+		<phraseEN>you have n't even finished your coffee .</phraseEN>
+		<phraseFR>mais tu n' as pas terminé ton café .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3220">
+		<phraseEN>and said that he could n't be saved but he did n't die .</phraseEN>
+		<phraseFR>ils l' ont amené à l' hôpital en disant qu' il ne pourrait pas être sauvé , mais il n' est pas mort .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6</annot2>
+	</pair>
+	<pair id="3221">
+		<phraseEN>- all right , we have a hop to take .</phraseEN>
+		<phraseFR>messieurs , prochaine mission .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3222">
+		<phraseEN>- pick it up , right where you were .</phraseEN>
+		<phraseFR>- enchaîne . là où tu étais .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3223">
+		<phraseEN>he 's our lovechild .</phraseEN>
+		<phraseFR>c' est notre enfant à tous les deux , non ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3224">
+		<phraseEN>the insurance company is still dicking me around .</phraseEN>
+		<phraseFR>l' assurance se fout de ma gueule .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3225">
+		<phraseEN>- please feel free to look around .</phraseEN>
+		<phraseFR>que faites -vous pour dîner ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3226">
+		<phraseEN>okay , i can deal with it .</phraseEN>
+		<phraseFR>je peux le supporter .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3227">
+		<phraseEN>you should feel relief soon .</phraseEN>
+		<phraseFR>vous allez vite vous sentir mieux .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3228">
+		<phraseEN>do n't tell nathan !</phraseEN>
+		<phraseFR>le dis pas à nathan !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3229">
+		<phraseEN>maybe it 's time to retire this picture .</phraseEN>
+		<phraseFR>tu ferais mieux d' enlever cette photo .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3230">
+		<phraseEN>it 's on the left side of the gun above the trigger guard .</phraseEN>
+		<phraseFR>enclenchez le cran de sécurité .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3231">
+		<phraseEN>she knows our security procedures .</phraseEN>
+		<phraseFR>elle connaît toutes nos procédures de sécurité .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3232">
+		<phraseEN>then how do you work for ?</phraseEN>
+		<phraseFR>pour qui travailles -tu ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3233">
+		<phraseEN>i 'll order pizzas .</phraseEN>
+		<phraseFR>je vais commander des pizzas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3234">
+		<phraseEN>cold case season 6 episode 11</phraseEN>
+		<phraseFR>cold case saison 6 épisode 11</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3235">
+		<phraseEN>you wo n't be doing that again , will you ?</phraseEN>
+		<phraseFR>t' es pas prêt de recommencer !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 7 8 9; untranslated target word indices: </annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3236">
+		<phraseEN>yes , i found a three with a similar problem .</phraseEN>
+		<phraseFR>il y a une trois avec le même problème .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3237">
+		<phraseEN>i 'll tell you the truth .</phraseEN>
+		<phraseFR>tu sais , ce truc ferait dégueuler même un juif .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3238">
+		<phraseEN>so will you give me one ?</phraseEN>
+		<phraseFR>donc , vous m' en donnez une ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3239">
+		<phraseEN>it 's easy shots , slow ...</phraseEN>
+		<phraseFR>c' est facile . t' y vas tout doux et ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3240">
+		<phraseEN>- there , there , dear .</phraseEN>
+		<phraseFR>allons , calmez -vous .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3241">
+		<phraseEN>anything in a crust .</phraseEN>
+		<phraseFR>defense d' entrer bureau prive elle délire .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3242">
+		<phraseEN>collectors bought pictures from the living and waited for them to die .</phraseEN>
+		<phraseFR>a acheter des tatouages aux vivants en attendant leur mort , paraît -il .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3243">
+		<phraseEN>you 're just not gon na go ?</phraseEN>
+		<phraseFR>- vous n' allez plus y aller du tout ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3244">
+		<phraseEN>yeah , we needed that one .</phraseEN>
+		<phraseFR>gordy - père de colin</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3245">
+		<phraseEN>if there 's one thing i learned in ` nam , it 's ...</phraseEN>
+		<phraseFR>s' il y a une chose que j' ai apprise au vietnam ...</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 10 11 12; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 10 11 12; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3246">
+		<phraseEN>those that stayed are hunting rats .</phraseEN>
+		<phraseFR>ceux qui restent mangent des rats .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3247">
+		<phraseEN>the boys have uncovered the shocking fact that the patient has a crappy relationship with his dad .</phraseEN>
+		<phraseFR>les garçons ont découvert que le patient a de mauvaises relations avec son père .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3248">
+		<phraseEN>what are you doing here ?</phraseEN>
+		<phraseFR>que fais -tu l ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3249">
+		<phraseEN>you let go and i 'm gon na have to jump in there after you .</phraseEN>
+		<phraseFR>si vous lâchez , je devrai sauter après vous .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3250">
+		<phraseEN>dig , it 's way more profitable , man .</phraseEN>
+		<phraseFR>c' est super profitable .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3251">
+		<phraseEN>- it 's an exaggeration of the truth .</phraseEN>
+		<phraseFR>c' est un grossissement de la réalité .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3252">
+		<phraseEN>ample parking day or night ??</phraseEN>
+		<phraseFR>le numéro où je serai est sur le frigo .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3253">
+		<phraseEN>the valet parking job was such a money-maker ... they had to pay off the hotel manager just to get the concession .</phraseEN>
+		<phraseFR>le boulot de voiturier était si juteux qu' ils payaient le gérant pour avoir leur concession .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3254">
+		<phraseEN>put him in the o.r. will you take over bennell for me ?</phraseEN>
+		<phraseFR>occupez -vous de bennell .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3255">
+		<phraseEN>- i do n't need you spying on him .</phraseEN>
+		<phraseFR>je n' ai pas besoin que tu l' espionnes</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3256">
+		<phraseEN>girls # 18 fujiyoushi dead 41 to go</phraseEN>
+		<phraseFR>fille #18 fujiyoushi morte 41 restant</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3257">
+		<phraseEN>deep pools of ooey delight .</phraseEN>
+		<phraseFR>le grand lac des délices .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3258">
+		<phraseEN>the project for a new american century , a neo-conservative think-tank whose members include</phraseEN>
+		<phraseFR>le " projet pour un nouveau siècle américain " , un groupe de réflexion néo-conservateur dans lequel figurent</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3259">
+		<phraseEN>who tried to win back his ex-girlfriend without even discussing how he felt with his present one ?</phraseEN>
+		<phraseFR>qui essaie de se refaire son ex sans se demander comment le prendrait sa légitime ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3260">
+		<phraseEN>well , thanks for checking in .</phraseEN>
+		<phraseFR>merci d' avoir appelé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3261">
+		<phraseEN>we have a special on khaki pants today .</phraseEN>
+		<phraseFR>vous pouvez essayer chez sharper image .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3262">
+		<phraseEN>anlover of the ex-wife .</phraseEN>
+		<phraseFR>et amant de l' ex-femme .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3263">
+		<phraseEN>if you can tell me the russian for " apply your own bloody suntan lotion . "</phraseEN>
+		<phraseFR>apprenez -moi à dire en russe : " tartine -toi toute seule . "</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3264">
+		<phraseEN>it 's good to stir things up , do n't you think ?</phraseEN>
+		<phraseFR>sachons faire bouger les choses</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 7 8 9 10 11 12; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 7 8 9 10 11 12; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3265">
+		<phraseEN>how do you like that ?</phraseEN>
+		<phraseFR>j' arrive tout de suite .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3266">
+		<phraseEN>- we can just packup our bags ...</phraseEN>
+		<phraseFR>on n' a pas à faire ça .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3267">
+		<phraseEN>then it went to 2,000 .</phraseEN>
+		<phraseFR>puis , il était à 2.000 .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3268">
+		<phraseEN>- you dreamed it .</phraseEN>
+		<phraseFR>- il n' a rien dit , - ouais , tu as rêvé !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6</annot2>
+	</pair>
+	<pair id="3269">
+		<phraseEN>you look like shit .</phraseEN>
+		<phraseFR>t' as une mine de merde !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3270">
+		<phraseEN>it 's just complicated 'cause it 's a national chain and everything .</phraseEN>
+		<phraseFR>c' est compliqué parce que c' est une chaîne nationale .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3271">
+		<phraseEN>- chino 's gon na wan na talk to me .</phraseEN>
+		<phraseFR>chino voudra me voir .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3272">
+		<phraseEN>i guess there 's not much point with you going to america anyway , is there ?</phraseEN>
+		<phraseFR>je crois que plus rien ne t' empêche de partir en amérique , n' est -ce pas ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3273">
+		<phraseEN>port de bras avante and derriere .</phraseEN>
+		<phraseFR>port de bras devant et derrière .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3274">
+		<phraseEN>- why are you afraid of them ?</phraseEN>
+		<phraseFR>qu' as tu peur qu' ils fassent s' ils i'apprenaient ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9</annot2>
+	</pair>
+	<pair id="3275">
+		<phraseEN>this place has been closed down for weeks .</phraseEN>
+		<phraseFR>l' hôpital est fermé depuis des semaines .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3276">
+		<phraseEN>it was just a diversity thing .</phraseEN>
+		<phraseFR>une histoire de mixité .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3277">
+		<phraseEN>you have had slater in front of the 8-ball before , but you screwed it up .</phraseEN>
+		<phraseFR>tu as déjà eu slater dans la ligne délire , mais tu as tout raté .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3278">
+		<phraseEN>narrator : ... others were crude , and ill-formed ...</phraseEN>
+		<phraseFR>en fait ... je m' appelle tracy .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3279">
+		<phraseEN>- ad deum qui laetificat iuventutem meum .</phraseEN>
+		<phraseFR>- ad deum qui iaetificat iuventutem meum .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3280">
+		<phraseEN>- who could be that stupid ?</phraseEN>
+		<phraseFR>- comment peut -on être aussi bête ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3281">
+		<phraseEN>- they 're my family .</phraseEN>
+		<phraseFR>- c' est la mienne .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3282">
+		<phraseEN>i 'm sorry , zach .</phraseEN>
+		<phraseFR>je peux le prendre ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3283">
+		<phraseEN>what the hell happened here ?</phraseEN>
+		<phraseFR>bon sang , qu' est -ce qui s' est passé ici ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3284">
+		<phraseEN>it tastes bad , sgt.</phraseEN>
+		<phraseFR>elle a mauvais goût .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3285">
+		<phraseEN>- caprica , can you please control him ?</phraseEN>
+		<phraseFR>- caprica , s' il te plaît , contrôle -le !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3286">
+		<phraseEN>waste not , want not .</phraseEN>
+		<phraseFR>bon ... qui épargne , gagne .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3287">
+		<phraseEN>loading team , step away .</phraseEN>
+		<phraseFR>equipe de chargement , éloignez -vous .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3288">
+		<phraseEN>marion , listen to me .</phraseEN>
+		<phraseFR>marion , écoutez -moi .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3289">
+		<phraseEN>oh , brilliant idea , orson .</phraseEN>
+		<phraseFR>brillante idée , orson .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3290">
+		<phraseEN>i 'm gon na change .</phraseEN>
+		<phraseFR>elle va se faire virer .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3291">
+		<phraseEN>i bet you ca n't wait to die , so you can rest forever .</phraseEN>
+		<phraseFR>tu attends l' heure de mourir pour mieux te reposer !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3292">
+		<phraseEN>why do n't you wear them during your interviews ?</phraseEN>
+		<phraseFR>mets -les pour aller à tes entretiens .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3293">
+		<phraseEN>there was never a threat against the governor in judah 's mind .</phraseEN>
+		<phraseFR>jamais juda n' a songé à nuire au procureur .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3294">
+		<phraseEN>- they ca n't say that .</phraseEN>
+		<phraseFR>ils peuvent pas dire ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3295">
+		<phraseEN>apparently , word that sg-1 actually killed a prior is getting around :</phraseEN>
+		<phraseFR>apparemment , la rumeur selon laquelle sg-1 a tué un prêcheur se propage .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3296">
+		<phraseEN>it was a high school dance .</phraseEN>
+		<phraseFR>c' était une danse universitaire .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3297">
+		<phraseEN>- how is it , honey ?</phraseEN>
+		<phraseFR>alors , ma chêrie ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3298">
+		<phraseEN>nobody ever approves it , and he stays on the street .</phraseEN>
+		<phraseFR>et personne ne les autorise et il continue son trafic .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3299">
+		<phraseEN>but you might wan na wait till the other car leaves .</phraseEN>
+		<phraseFR>attendez que l' autre s' en aille . comment ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3300">
+		<phraseEN>charting new course for alternate route .</phraseEN>
+		<phraseFR>calcul de la nouvelle route .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3301">
+		<phraseEN>i do n't expect an image .</phraseEN>
+		<phraseFR>je ne veux pas de masque .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3302">
+		<phraseEN>- ... carry on with the failure analysis .</phraseEN>
+		<phraseFR>- ça , je suis d'accord .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3303">
+		<phraseEN>the guerrillas still cling to the kalashnikov , but it 's not enough .</phraseEN>
+		<phraseFR>les guérilleros se cramponnent à leurs kalachnikovs , qui ne suffisent pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3304">
+		<phraseEN>it extracts unwanted thoughts and desires .</phraseEN>
+		<phraseFR>il éradique les pensées et les désirs malvenus .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3305">
+		<phraseEN>yep . everything was back to normal .</phraseEN>
+		<phraseFR>tout était rentré dans l' ordre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3306">
+		<phraseEN>okay , we 'll check that out .</phraseEN>
+		<phraseFR>- ok , on vérifiera . autre chose ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8</annot2>
+	</pair>
+	<pair id="3307">
+		<phraseEN>he was in an accident , your honor .</phraseEN>
+		<phraseFR>il a eu un accident .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 5 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3308">
+		<phraseEN>ca n't say that comes as a surprise .</phraseEN>
+		<phraseFR>ça ne m' étonne plus .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3309">
+		<phraseEN>- check up on stuff ?</phraseEN>
+		<phraseFR>- pour vérifier le matériel ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3310">
+		<phraseEN>i studied here as a child</phraseEN>
+		<phraseFR>c' était mon école .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3311">
+		<phraseEN>i can see your daddies ' faces in you .</phraseEN>
+		<phraseFR>c' est marrant , vous ressemblez à vos paternels .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot2>
+	</pair>
+	<pair id="3312">
+		<phraseEN>did you get that pe ?</phraseEN>
+		<phraseFR>un chirurgien se doit de rester immobile .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3313">
+		<phraseEN>although japan has lost ... one day ... our people will praise your dedication .</phraseEN>
+		<phraseFR>même si le japon perd cette guerre , un jour le peuple louera votre héroâsme au combat .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3314">
+		<phraseEN>it 's in him , d'you see ?</phraseEN>
+		<phraseFR>c' est en lui , vous voyez ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3315">
+		<phraseEN>it 's the maysles .</phraseEN>
+		<phraseFR>- ce sont les maysles .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3316">
+		<phraseEN>- cute little fella , is n't he ?</phraseEN>
+		<phraseFR>un beau gosse , hein ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3317">
+		<phraseEN>- so how are things ?</phraseEN>
+		<phraseFR>- tout le monde le voit bien .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3318">
+		<phraseEN>remind me , what is it you do in munro ?</phraseEN>
+		<phraseFR>rappelez -moi votre boulot , à munro .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3319">
+		<phraseEN>the log-on for his computer was a randomly selected word from a piece of vogon poetry .</phraseEN>
+		<phraseFR>le mot de passe de son pc est tiré au hasard d' un poème de vogon .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3320">
+		<phraseEN>we believe the creatures are the same as those lieutenant scott encountered on the desert planet .</phraseEN>
+		<phraseFR>ces créatures ont l' air d' être les même que scott a vu dans le désert .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3321">
+		<phraseEN>- turn at the giant cactus , right ?</phraseEN>
+		<phraseFR>- tourne , au niveau du cactus géant , c' est ça ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3322">
+		<phraseEN>kendall did n't know any drug dealers .</phraseEN>
+		<phraseFR>kendall ne connaissait aucun dealer .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3323">
+		<phraseEN>... i 'd say we 're both better off .</phraseEN>
+		<phraseFR>les secrets ne m' intéressent pas .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3324">
+		<phraseEN>you saved three good people by putting me down -</phraseEN>
+		<phraseFR>vous avez sauvé trois bonnes personnes en m' abattant ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3325">
+		<phraseEN>just stop bugging me .</phraseEN>
+		<phraseFR>arrête de me faire chier .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3326">
+		<phraseEN>where are your ancestors from ?</phraseEN>
+		<phraseFR>d' où viennent tes ancêtres , à toi ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3327">
+		<phraseEN>i would n't call this luck .</phraseEN>
+		<phraseFR>je n' appellerais pas ça de la chance .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3328">
+		<phraseEN>i need a favor from you .</phraseEN>
+		<phraseFR>faites -moi une fleur .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3329">
+		<phraseEN>you did something to him .</phraseEN>
+		<phraseFR>qu' as -tu fait a lui et a marcin ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3330">
+		<phraseEN>peaches and cream , peaches and cream .</phraseEN>
+		<phraseFR>pêches et crème , pêches et crème .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3331">
+		<phraseEN>- i 'm getting him off of this plane .</phraseEN>
+		<phraseFR>- je l' emmène .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3332">
+		<phraseEN>it ai n't supposed to be easy to sneak up behind an indian .</phraseEN>
+		<phraseFR>et puis , surprendre un indien , c' est difficile .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3333">
+		<phraseEN>all sink 'n and no power ?</phraseEN>
+		<phraseFR>noussa coule sans puissance !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3334">
+		<phraseEN>no , you did n't .</phraseEN>
+		<phraseFR>en effet , tu n' étais pas là .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3335">
+		<phraseEN>no more cerebral palsy .</phraseEN>
+		<phraseFR>plus de paralysie cérébrale !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3336">
+		<phraseEN>please make sure that he does it .</phraseEN>
+		<phraseFR>s' il te plaît , fais en sorte qu' il la remplisse .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3337">
+		<phraseEN>and i do n't care .</phraseEN>
+		<phraseFR>et ça m' est égal .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3338">
+		<phraseEN>my work does feel meaningful at times .</phraseEN>
+		<phraseFR>moi ? je suis à la retraite . j' ai oublié , c' est vrai .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3339">
+		<phraseEN>brian , liebling , did i tell you ?</phraseEN>
+		<phraseFR>je ne t' ai pas dit ...</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3340">
+		<phraseEN>you spent 4 marriages trying to figure out what makes you happy .</phraseEN>
+		<phraseFR>tu ne sais pas ce qui te rend heureux , toi .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3341">
+		<phraseEN>they 're dangerous folk , wandering the wilds .</phraseEN>
+		<phraseFR>des types dangereux , ils vagabondent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3342">
+		<phraseEN>it is my pleasure to introduce the host of the kyoto global warming convention .</phraseEN>
+		<phraseFR>j' ai le plaisir de vous présenter votre hôte .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 8 9 10 11 12 13; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 8 9 10 11 12 13; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3343">
+		<phraseEN>do n't try and stop me !</phraseEN>
+		<phraseFR>n' essayez pas de m' en empêcher .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3344">
+		<phraseEN>it 's time you took more precautions .</phraseEN>
+		<phraseFR>tu dois être plus prudente .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3345">
+		<phraseEN>i 'm gon na head in and , uh , talk to the witness , see what he has to say .</phraseEN>
+		<phraseFR>je fonce interroger le témoin , voir ce qu' il a à nous dire . excusez -moi .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3346">
+		<phraseEN>when did he say that ?</phraseEN>
+		<phraseFR>on a pu acheter cette patinoire 100 $ le m² .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3347">
+		<phraseEN>forgive me , gentlemen ...</phraseEN>
+		<phraseFR>pardon . mon collègue , le dr jeremiah naehring .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8</annot2>
+	</pair>
+	<pair id="3348">
+		<phraseEN>no , i 'm afraid not .</phraseEN>
+		<phraseFR>oui . ça se voit .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3349">
+		<phraseEN>- or a reef marker , sir .</phraseEN>
+		<phraseFR>- ou une bouée de récif . m.</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3350">
+		<phraseEN>( stephen ) a spare pair of steady hands would n't go amiss .</phraseEN>
+		<phraseFR>les mains fermes ne seront pas de trop .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3351">
+		<phraseEN>i unlocked the first aid cabinet .</phraseEN>
+		<phraseFR>j' ai ouvert la trousse de premiers soins .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3352">
+		<phraseEN>she wo n't have cause .</phraseEN>
+		<phraseFR>elle n' aura pas à l' être .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3353">
+		<phraseEN>get him in that elevator shaft .</phraseEN>
+		<phraseFR>amenez -le à la cage d' ascenseur .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3354">
+		<phraseEN>you should avoid , um ... that .</phraseEN>
+		<phraseFR>mais évitez ... ça .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3355">
+		<phraseEN>pastries , champagne ... goose-liver pâté , the best kind with truffles .</phraseEN>
+		<phraseFR>tout pour mon épouse : fleurs , toasts , champagne ... et le meilleur foie gras aux truffes du périgord !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4</annot2>
+	</pair>
+	<pair id="3356">
+		<phraseEN>i am not lying to you , that 's my favorite show .</phraseEN>
+		<phraseFR>c' est ma préférée .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3357">
+		<phraseEN>senior airman simon wells .</phraseEN>
+		<phraseFR>le caporal-chef simon wells .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3358">
+		<phraseEN>another call about the phantom .</phraseEN>
+		<phraseFR>on l' a appelé à propos du fantôme .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3359">
+		<phraseEN>lem me take a crack at this .</phraseEN>
+		<phraseFR>pas tout à fait .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3360">
+		<phraseEN>- field marshal kesselring regrets .</phraseEN>
+		<phraseFR>- le feld-maréchal kesselring est navré .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3361">
+		<phraseEN>i turned them on at 5:00 .</phraseEN>
+		<phraseFR>je les ai allumés à 5 heures .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3362">
+		<phraseEN>it 's , like , his entire life savings .</phraseEN>
+		<phraseFR>c' est toutes ses économies .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3363">
+		<phraseEN>i wish she would just go away .</phraseEN>
+		<phraseFR>si elle pouvait disparaître ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3364">
+		<phraseEN>- at the luton palace , we were talking about a rock musical based on the life of jack the ripper .</phraseEN>
+		<phraseFR>on parlait d' une comédie musicale rock basée sur la vie de jack l' eventreur .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3365">
+		<phraseEN>i look at a guy for a millionth of a second and he gets delusions of grandeur !</phraseEN>
+		<phraseFR>je le regarde un millionième de seconde et il se fait des idées !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3366">
+		<phraseEN>- how long until you reach the summit ?</phraseEN>
+		<phraseFR>et le sommet ? oh non !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3367">
+		<phraseEN>- you can just talk .</phraseEN>
+		<phraseFR>- pas besoin de lever la main .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: undecidable</annot2>
+	</pair>
+	<pair id="3368">
+		<phraseEN>why do n't you try , dad ?</phraseEN>
+		<phraseFR>pourquoi n' essaies -tu pas ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3369">
+		<phraseEN>- ward trades his way back .</phraseEN>
+		<phraseFR>- ward se fraie bravement un chemin .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3370">
+		<phraseEN>what do you think that she is going to do with the civilian fleet once she has eliminated you ?</phraseEN>
+		<phraseFR>d'après vous , que fera -t-elle des civils quand elle vous aura éliminé ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3371">
+		<phraseEN>i definitely have the feeling this is it .</phraseEN>
+		<phraseFR>papa a l' air de bien l' aimer , non ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3372">
+		<phraseEN>our hero 's a zero !</phraseEN>
+		<phraseFR>le héros est un zéro !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3373">
+		<phraseEN>apparently , it 's common .</phraseEN>
+		<phraseFR>ça les rend dingues .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3374">
+		<phraseEN>how did he help ?</phraseEN>
+		<phraseFR>en quoi a -t-il aidé ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3375">
+		<phraseEN>i realized i did n't hate the cabinet door .</phraseEN>
+		<phraseFR>je ne détestais pas la porte du placard .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3376">
+		<phraseEN>mommy 's only the decision maker .</phraseEN>
+		<phraseFR>maman prend juste les décisions .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3377">
+		<phraseEN>why did n't you just tell me they did n't want to make a show with me ?</phraseEN>
+		<phraseFR>pourquoi tu m' as rien dit ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 7 8 9 10 11 12 13 14 15 16; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 7 8 9 10 11 12 13 14 15 16; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3378">
+		<phraseEN>bet you buy the chip .</phraseEN>
+		<phraseFR>je m' en doute pas .</phraseFR>
+		<annot1>First annotation: undecidable</annot1>
+		<annot2>Second annotation: undecidable</annot2>
+	</pair>
+	<pair id="3379">
+		<phraseEN>but i prefer to hang out with cool people , people so cool ... they care .</phraseEN>
+		<phraseFR>mais je préfère les gens cool , tellement cool , qu' ils tiennent à moi .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3380">
+		<phraseEN>until you get a good look at what 's up there , you only think you 're prepared .</phraseEN>
+		<phraseFR>vous pourrez vous targuer de connaître le sujet , après avoir vu le firmament .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3381">
+		<phraseEN>i need - i need a seed .</phraseEN>
+		<phraseFR>il me faut une graine .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3382">
+		<phraseEN>i look that needy , huh ?</phraseEN>
+		<phraseFR>ça se voit tant que ça ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3383">
+		<phraseEN>would you o'er evil a victory win ?</phraseEN>
+		<phraseFR>laisserais -tu le mal l' emporter ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3384">
+		<phraseEN>stubble , you say ?</phraseEN>
+		<phraseFR>une plume , vous dites ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3385">
+		<phraseEN>hard to believe something like that .</phraseEN>
+		<phraseFR>dur á croire , hein ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 3 4 5; untranslated target word indices: 3 4</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 3 4 5; untranslated target word indices: 3 4</annot2>
+	</pair>
+	<pair id="3386">
+		<phraseEN>i just do n't wan na be kept alive artificially .</phraseEN>
+		<phraseFR>pas d' acharnement thérapeutique !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3387">
+		<phraseEN>- i never said i do n't like it .</phraseEN>
+		<phraseFR>- hé , j' ai jamais dit que j' aimais pas ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3388">
+		<phraseEN>it might take months .</phraseEN>
+		<phraseFR>des mois , peut-être .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3389">
+		<phraseEN>yet many who understand this illusion of democracy , often think</phraseEN>
+		<phraseFR>pourtant , la plupart de ceux qui perçoivent cette illusion de la démocratie , pense souvent</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3390">
+		<phraseEN>no , he 's out for the moment .</phraseEN>
+		<phraseFR>non , il est sorti .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3391">
+		<phraseEN>even if he 's driving trail , that do n't give you no reason to shoot him .</phraseEN>
+		<phraseFR>même si quelqu'un mène un troupeau , ça ne donne pas le droit de le tuer .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3392">
+		<phraseEN>terri , could we slow down for a minute ?</phraseEN>
+		<phraseFR>terri , tu pourrais marcher moins vite ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3393">
+		<phraseEN>- was she there with anyone , or , uh ?</phraseEN>
+		<phraseFR>- elle était là avec quelqu'un ou ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3394">
+		<phraseEN>you can not beat up on my children .</phraseEN>
+		<phraseFR>ne maltraitez pas mon enfant .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3395">
+		<phraseEN>you think now when she come on first trip , i want her for leave me alone again ?</phraseEN>
+		<phraseFR>et je veux pas la perdre alors que je la retrouve juste .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3396">
+		<phraseEN>- no , pull !</phraseEN>
+		<phraseFR>- mais non , tirez !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3397">
+		<phraseEN>- make sure i get to the window .</phraseEN>
+		<phraseFR>- assure -toi que j' arrive à temps .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3398">
+		<phraseEN>ai n't that what you 're prescribing ?</phraseEN>
+		<phraseFR>vous lui avez prescrit ça ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3399">
+		<phraseEN>should we have some ramen ?</phraseEN>
+		<phraseFR>tu veux manger des nouilles ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3400">
+		<phraseEN>so you have 2 different mos .</phraseEN>
+		<phraseFR>donc deux modes opératoires différents .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 3 4</annot2>
+	</pair>
+	<pair id="3401">
+		<phraseEN>... your being an airbender and all ... if you had any idea what happened to the avatar .</phraseEN>
+		<phraseFR>j' ai des amis qui le connaissent mais pas moi .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3402">
+		<phraseEN>yeah . that looks far safer than allowing hal to continue running things .</phraseEN>
+		<phraseFR>ce serait plus sûr que de laisser les rênes à hal .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3403">
+		<phraseEN>ah , ah , ah , ah there 's a wealth of happiness and romance</phraseEN>
+		<phraseFR>car nous sommes la beauté du monde</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3404">
+		<phraseEN>and he 's offered me a place at a top university with a free scholarship and a chance to play football professionally , and i really want to go , and if i ca n't tell you what i want now , then i 'll never be happy , whatever i do .</phraseEN>
+		<phraseFR>et j' ai vraiment envie d' y aller , et si je ne peux pas vous dire ce que je veux maintenant , je ne serai jamais heureuse , quoi que je fasse .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3405">
+		<phraseEN>he is theirs and he 'll always be theirs .</phraseEN>
+		<phraseFR>ils l' ont et l' auront toujours .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3406">
+		<phraseEN>'cause they spent so much time doing this , and they did n't want to stop doing it .</phraseEN>
+		<phraseFR>parce qu' ils passent tellement de temps ici qu' ils ne veulent plus arrêter .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3407">
+		<phraseEN>he knows every guy with cancer , and he ca n't wait to tell you .</phraseEN>
+		<phraseFR>il n' a que le mot " cancer " à la bouche .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3408">
+		<phraseEN>- phone me anyways , but ...</phraseEN>
+		<phraseFR>enfin appelle -moi quand même mais bon ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3409">
+		<phraseEN>we 'll be pulverized !</phraseEN>
+		<phraseFR>donne -moi une chaussure !</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3410">
+		<phraseEN>she 'll have to go to the state pathologist at claxton .</phraseEN>
+		<phraseFR>elle doit être examinée par le médecin iégiste de i'etat à ciaxton .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3411">
+		<phraseEN>brooke , it 's s tgoodo see - no !</phraseEN>
+		<phraseFR>oh mon dieu ! - tim , repose -moi ! - je suis si content de te voir ...</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 0 1 2 3 4 5 6 7 8 9</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 0 1 2 3 4 5 6 7 8 9</annot2>
+	</pair>
+	<pair id="3412">
+		<phraseEN>in the 1980 's the financial industry exploded .</phraseEN>
+		<phraseFR>en s' introduisant en bourse ,</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3413">
+		<phraseEN>drink till we die .</phraseEN>
+		<phraseFR>jusqu' à en crever .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3414">
+		<phraseEN>the decision to invade , like the earlier secret decision to bomb ...</phraseEN>
+		<phraseFR>cette décision , comme celle des bombardements , n' a pas été annoncée au peuple cambodgien .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9 10 11 12 13 14 15</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9 10 11 12 13 14 15</annot2>
+	</pair>
+	<pair id="3415">
+		<phraseEN>you wo n't get out of it this time .</phraseEN>
+		<phraseFR>je vous tiens , archi .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3416">
+		<phraseEN>how you been , mrs.</phraseEN>
+		<phraseFR>ça va , mme chambers ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3417">
+		<phraseEN>about 31 , 32 .</phraseEN>
+		<phraseFR>trente et un , trente-deux ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3418">
+		<phraseEN>- oh , head-to-hair ratio ?</phraseEN>
+		<phraseFR>je pense que mon éducation passe avant , non ? - oh mon dieu ! - quoi ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3419">
+		<phraseEN>what are you doing here ?</phraseEN>
+		<phraseFR>- je répare la clim .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3420">
+		<phraseEN>it 's more than that !</phraseEN>
+		<phraseFR>on i'a enfin trouvé .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3421">
+		<phraseEN>because no one cares about the man in the box , the man who disappears .</phraseEN>
+		<phraseFR>car nul ne se soucie du captif , du disparu .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3422">
+		<phraseEN>- you ca n't do anything to me .</phraseEN>
+		<phraseFR>tu peux rien me faire .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3423">
+		<phraseEN>- they 're tracking every lead .</phraseEN>
+		<phraseFR>- ils le cherchent par tous les moyens .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3424">
+		<phraseEN>- i 'm not bullshittin ' ya .</phraseEN>
+		<phraseFR>je me suis bituré dans le car .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3425">
+		<phraseEN>- right , i was n't invited to this party ? .</phraseEN>
+		<phraseFR>- oui , je n' étais pas invitée à cette fête .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3426">
+		<phraseEN>dumpster baby , oh , dumpster baby</phraseEN>
+		<phraseFR>un bébé dans la benne à déchets</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3427">
+		<phraseEN>i have no idea how to be single .</phraseEN>
+		<phraseFR>tu es parti quelque part , chéri ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3428">
+		<phraseEN>you 're quite welcome .</phraseEN>
+		<phraseFR>je t' en prie .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3429">
+		<phraseEN>let me say this about that : no.</phraseEN>
+		<phraseFR>je vous donne ma réponse : non .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3430">
+		<phraseEN>fucking figure it out .</phraseEN>
+		<phraseFR>trouve une solution , bordel .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3431">
+		<phraseEN>i do n't understand women .</phraseEN>
+		<phraseFR>je comprends pas les gonzesses .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3432">
+		<phraseEN>- better sign in first , had n't we ?</phraseEN>
+		<phraseFR>je m' inscris sur le registre ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3433">
+		<phraseEN>this is n't about forever , jeremy .</phraseEN>
+		<phraseFR>c' est pas pour toute la vie .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3434">
+		<phraseEN>the reason i came here is because ...</phraseEN>
+		<phraseFR>- si je suis revenu ...</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3435">
+		<phraseEN>your sister 's drown 'd ,</phraseEN>
+		<phraseFR>votre sœur s' est noyée .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3436">
+		<phraseEN>b. zakhava as kutuzov n. trofimov as tushin</phraseEN>
+		<phraseFR>général koutouzov : b. zakhava capitaine touchine :</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 4 5; untranslated target word indices: 0 5</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 4 5; untranslated target word indices: 0 5</annot2>
+	</pair>
+	<pair id="3437">
+		<phraseEN>i ca n't change her course , most extraordinary thing !</phraseEN>
+		<phraseFR>je ne peux pas modifier son parcours . c' est vraiment incroyable !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3438">
+		<phraseEN>uh ... what rules are we talking about exactly ?</phraseEN>
+		<phraseFR>de quelles règles s' agit -il ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3439">
+		<phraseEN>- i 'm tucking .</phraseEN>
+		<phraseFR>j' ai dit bordé .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3440">
+		<phraseEN>` sunfilter descending . ' no !</phraseEN>
+		<phraseFR>descente du filtre solaire . non !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3441">
+		<phraseEN>and if that fails , where then will you go ?</phraseEN>
+		<phraseFR>si vous échouez ... par où passerez -vous ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3442">
+		<phraseEN>but i wo n't make any false promises i ca n't keep .</phraseEN>
+		<phraseFR>mais je ne veux pas vous faire de faux espoirs .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 8 9 10 11; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 8 9 10 11; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3443">
+		<phraseEN>you know , i really do n't know -</phraseEN>
+		<phraseFR>vous savez , je ne sais vraiment pas -</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3444">
+		<phraseEN>ray santiago , f.b.i. . this is inspector george aiken .</phraseEN>
+		<phraseFR>et l' inspecteur george aiken .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3445">
+		<phraseEN>you ca n't talk like this .</phraseEN>
+		<phraseFR>tu ne peux pas parler comme ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3446">
+		<phraseEN>- la vie boh ? me - going mad</phraseEN>
+		<phraseFR>- la vie de bohème - devenir fous</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3447">
+		<phraseEN>besides , one day more is not gon na make any difference .</phraseEN>
+		<phraseFR>et un jour de plus n' y changera rien .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3448">
+		<phraseEN>he wo n't shoot billy 'cause he does n't have anybody else who knows electronics .</phraseEN>
+		<phraseFR>billy vivra parce qu' il s' y connaît en électronique .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3449">
+		<phraseEN>he cut me out of the marina deal and i need him to reconsider .</phraseEN>
+		<phraseFR>il doit reconsidérer ma mise à i'écart pour le projet marina .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3450">
+		<phraseEN>one rotten , little gun and the whole thing falls right into place .</phraseEN>
+		<phraseFR>un bête petit flingue et les morceaux se recollent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3451">
+		<phraseEN>my partner is in pursuit of a suspect .</phraseEN>
+		<phraseFR>mon coéquipier poursuit un suspect .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3452">
+		<phraseEN>but you have loosened them all .</phraseEN>
+		<phraseFR>mais en défaisant ce nœud , vous êtes parvenue à défaire l' ensemble .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4 5</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4 5</annot2>
+	</pair>
+	<pair id="3453">
+		<phraseEN>justin 's under your supervision .</phraseEN>
+		<phraseFR>tu crois pas que t' aurais dû réserver le baba pour plus tard ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3454">
+		<phraseEN>about 20 churches intersect those lines .</phraseEN>
+		<phraseFR>risque d' erreur . vingt églises environ coupent ces traits .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot2>
+	</pair>
+	<pair id="3455">
+		<phraseEN>while you tools were out stealing hubcaps , i lettered in track .</phraseEN>
+		<phraseFR>pendant que vous piquiez des enjoliveurs , je m' entraînais dur .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3456">
+		<phraseEN>to make me tell them things that ... that i did n't know to begin with .</phraseEN>
+		<phraseFR>pour me faire dire des choses que *je ne savais même pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3457">
+		<phraseEN>my pledge brothers wanted me to talk to him about the swing-a-ling ...</phraseEN>
+		<phraseFR>mes frères veulent que je lui parle de la balançoire folle , que je lui vende l' idée .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 12 13 14 15 16 17</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 12 13 14 15 16 17</annot2>
+	</pair>
+	<pair id="3458">
+		<phraseEN>except the next day , the check bounced ... so all i got out of it was a case of poison ivy .</phraseEN>
+		<phraseFR>mais leur chèque était en bois ... et tout ce que j' ai gagné c' était de l' urticaire .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3459">
+		<phraseEN>look , what i 'm saying is : as much as it pains me to say it , if there 's a problem here , it 's on ellie 's side .</phraseEN>
+		<phraseFR>écoute , même si ça me fait mal de le dire , le souci c' est du côté d' ellie .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 2 3 4 5 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 2 3 4 5 6 7; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3460">
+		<phraseEN>tell brett johnny chase has arrived .</phraseEN>
+		<phraseFR>préviens brett que johnny chase est là .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3461">
+		<phraseEN>cabo wabo , virgin .</phraseEN>
+		<phraseFR>- une cabowabo , une piña sans rhum .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3462">
+		<phraseEN>celia was n't programmed to feel .</phraseEN>
+		<phraseFR>les sentiments n' ont pas été programmés chez celia .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3463">
+		<phraseEN>you 're gon na be ok .</phraseEN>
+		<phraseFR>tu t' en tireras .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3464">
+		<phraseEN>then you could sneak safely away as planned .</phraseEN>
+		<phraseFR>vous serez débarrassé d' elle !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 4 6 7; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3465">
+		<phraseEN>yes , it does .</phraseEN>
+		<phraseFR>oui , ça compte . écoute .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3466">
+		<phraseEN>do n't kill him .</phraseEN>
+		<phraseFR>ne le tuez pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3467">
+		<phraseEN>well , my grandma and grandpa done their most powerful praying at the river .</phraseEN>
+		<phraseFR>mes grands-parents priaient avec ferveur près du fleuve .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3468">
+		<phraseEN>that 's first priority after we 're finished .</phraseEN>
+		<phraseFR>c' est la première priorité dès qu' on aura fini .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3469">
+		<phraseEN>hunsaker spoke to the police .</phraseEN>
+		<phraseFR>hunsaker a parlé à des policiers .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3470">
+		<phraseEN>i do n't consider toronto a holiday destination .</phraseEN>
+		<phraseFR>je ne trouve pas que toronto soit un vrai lieu de vacances .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3471">
+		<phraseEN>i guess joyce was right about doing a big comic book .</phraseEN>
+		<phraseFR>joyce avait apparemment raison , avec son idée de b. d.</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3472">
+		<phraseEN>among them , was a roistering blade , afighting bully , jacek soplica , who was nicknamed , the governor ' .</phraseEN>
+		<phraseFR>parmi eux il y avait un égrillard , un grand bretteur jacek soplica , surnommé par plaisanterie , le palatin , .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3473">
+		<phraseEN>' the wind began to switch , the house to pitch</phraseEN>
+		<phraseFR>' le vent s' est levé la maison a tremblé</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3474">
+		<phraseEN>( locke ) take five , everybody .</phraseEN>
+		<phraseFR>on fait une pause !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3475">
+		<phraseEN>what are you looking for ?</phraseEN>
+		<phraseFR>j' adore l' europe .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3476">
+		<phraseEN>baltar 's back at home in the brig again .</phraseEN>
+		<phraseFR>baltar est de retour à la maison , en cellule .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3477">
+		<phraseEN>he said , " i know you 'll see this through to the bitter end . "</phraseEN>
+		<phraseFR>j' ai entière confiance en vous . je compte sur vous .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3478">
+		<phraseEN>truck must be registered to her husband</phraseEN>
+		<phraseFR>le camion doit être au nom de son mari .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3479">
+		<phraseEN>i have n't seen many body dumps this clean .</phraseEN>
+		<phraseFR>j' ai rarement vu un corps jeté aussi proprement .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3480">
+		<phraseEN>'cause i wo n't always be around to nag you .</phraseEN>
+		<phraseFR>je ne serai pas toujours là pour t' asticoter .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3481">
+		<phraseEN>the glass hurt my dick .</phraseEN>
+		<phraseFR>la vitre m' a égratigné la queue !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3482">
+		<phraseEN>- he understands that .</phraseEN>
+		<phraseFR>lui , je l' aime bien .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3483">
+		<phraseEN>tonight he has his answer .</phraseEN>
+		<phraseFR>il a sa réponse , ce soir .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3484">
+		<phraseEN>she is the devil 's concubine !</phraseEN>
+		<phraseFR>c' est la concubine du démon !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3485">
+		<phraseEN>we got him where we want him now !</phraseEN>
+		<phraseFR>il est à notre merci !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3486">
+		<phraseEN>shooter on the rooftop just went cold .</phraseEN>
+		<phraseFR>la tireuse sur le toit vient de s' éteindre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3487">
+		<phraseEN>elizabeth . her father owns sharps .</phraseEN>
+		<phraseFR>la fille du propriétaire .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3488">
+		<phraseEN>so , what 's it feel like when you go diving ?</phraseEN>
+		<phraseFR>c' est comment de nager dans la mer ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3489">
+		<phraseEN>- how about i let you know ?</phraseEN>
+		<phraseFR>- je te tiens au courant .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3490">
+		<phraseEN>comanche , meet eddie zero .</phraseEN>
+		<phraseFR>comanche ... voici eddie zero .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3491">
+		<phraseEN>everybody comes with me goes home .</phraseEN>
+		<phraseFR>les hommes de mon équipe , ils rentrent tous .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3492">
+		<phraseEN>'cause , i do n't know , i guess i just have a weakness for hot guys , for tight abs and really big arms .</phraseEN>
+		<phraseFR>je suppose que j' ai un faible pour les gars sexy , pour les abdos fermes et les gros bras .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3493">
+		<phraseEN>they already misinterpret , i do n't wan na hang around so much .</phraseEN>
+		<phraseFR>ils interprètent déjà mal pourquoi je reste plus autant .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3494">
+		<phraseEN>i 'm trying , but you have to admit this is pretty damn funny .</phraseEN>
+		<phraseFR>j' essaie , mais tu dois reconnaître que c' est sacrément drôle .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3495">
+		<phraseEN>are you kidding me ?</phraseEN>
+		<phraseFR>t' es sérieux ? il est riche !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7</annot2>
+	</pair>
+	<pair id="3496">
+		<phraseEN>after all the shit i put up with ?</phraseEN>
+		<phraseFR>- après tout ce que j' ai subi ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3497">
+		<phraseEN>dave 's mom 's a realtor .</phraseEN>
+		<phraseFR>- la mère de tom est dans l' immobilier .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3498">
+		<phraseEN>well , did you change up the formula ?</phraseEN>
+		<phraseFR>- tu as augmenté le dosage ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3499">
+		<phraseEN>welcome to the city of the dead .</phraseEN>
+		<phraseFR>pas très gai , cet endroit .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3500">
+		<phraseEN>i hope you 're not going to ruin my day ...</phraseEN>
+		<phraseFR>ravie de te voir .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3501">
+		<phraseEN>people think this stokes has got fresh ideas .</phraseEN>
+		<phraseFR>les gens pensent que stokes a de nouvelles idées .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3502">
+		<phraseEN>let 's go directly to the festival .</phraseEN>
+		<phraseFR>passons au festival du film ... ... avec ce soir en competition :</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9 10 11 12</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9 10 11 12</annot2>
+	</pair>
+	<pair id="3503">
+		<phraseEN>i so admire your confidence , brenda leigh .</phraseEN>
+		<phraseFR>j' ai comme un pressentiment , maintenant que le projet de mariage est exactement comme tu le voulais , ça va se faire .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3504">
+		<phraseEN>now is as good a time as any .</phraseEN>
+		<phraseFR>que ce soit maintenant où n' importe quand ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3505">
+		<phraseEN>that bit 's my handiwork .</phraseEN>
+		<phraseFR>ça , c' est mon œuvre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3506">
+		<phraseEN>- and your children are well-behaved .</phraseEN>
+		<phraseFR>- vos enfants sont bien éduqués .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3507">
+		<phraseEN>but i do n't wan na end up like her .</phraseEN>
+		<phraseFR>mais je ne veux pas finir comme elle et le truc c' est que je suis bonne ... en maths , je suis bonne avec les nombres j' aurais étais bonne en affaires .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32</annot2>
+	</pair>
+	<pair id="3508">
+		<phraseEN>oh , but this is money well spent .</phraseEN>
+		<phraseFR>- c' est de l' argent bien dépensé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3509">
+		<phraseEN>... is how far does the united states go , when does it go from a force for good to a force of imperialism ?</phraseEN>
+		<phraseFR>là où commencent le débat et la controverse , c' est lorsqu' on détermine jusqu' où les é . -u . doivent aller .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24; untranslated target word indices: 0 1 2 3 4 5 6 7 8</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24; untranslated target word indices: 0 1 2 3 4 5 6 7 8</annot2>
+	</pair>
+	<pair id="3510">
+		<phraseEN>we 'll never get this done today .</phraseEN>
+		<phraseFR>on n' aurajamais fini aujourd'hui .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3511">
+		<phraseEN>i miss the old ziva .</phraseEN>
+		<phraseFR>je regrette l' ancienne ziva .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3512">
+		<phraseEN>yeah , but you could say the same thing about the citizens border guard .</phraseEN>
+		<phraseFR>on peut dire la même chose pour le groupe citizens border guard .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3513">
+		<phraseEN>they used to take us troubled kids into the country for picnics ...</phraseEN>
+		<phraseFR>on emmenait les enfants à problèmes à la campagne pour des pique-niques .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3514">
+		<phraseEN>on our wedding night .</phraseEN>
+		<phraseFR>le soir de notre mariage .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3515">
+		<phraseEN>we 're dumping auxiliary boosters .</phraseEN>
+		<phraseFR>on largue les moteurs auxiliaires .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3516">
+		<phraseEN>how do you know it connects to barksdale ?</phraseEN>
+		<phraseFR>comment savoir qu' elles sont reliées à barksdale ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3517">
+		<phraseEN>voter behavior , demographic pattern shifts in farmington and elsewhere .</phraseEN>
+		<phraseFR>comportement électoral , tendances démographiques à farmington et ailleurs .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3518">
+		<phraseEN>it pressing , okay ?</phraseEN>
+		<phraseFR>c' est urgent , d'accord ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3519">
+		<phraseEN>the book is breaking .</phraseEN>
+		<phraseFR>oh , ton livre est en miette .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3520">
+		<phraseEN>i 'm told that the drugs most commonly used to treat multiple myeloma are excuse me while i butcher the names .</phraseEN>
+		<phraseFR>on m' a raconté ... que les médicaments les plus communément utilisés pour traiter les myélomes sont , excusez -moi , je vais écorcher leurs noms ,</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3521">
+		<phraseEN>'cause i 'm a believer</phraseEN>
+		<phraseFR>parce que j' y crois</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3522">
+		<phraseEN>it might just be stored in here , sir .</phraseEN>
+		<phraseFR>elle est peut-être là .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3523">
+		<phraseEN>my dad was a cubs fan .</phraseEN>
+		<phraseFR>mon père était un fan des cubs .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3524">
+		<phraseEN>she seems scared , poor thing .</phraseEN>
+		<phraseFR>elle a peur , la pauvre .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3525">
+		<phraseEN>thanks for getting me out .</phraseEN>
+		<phraseFR>merci de m' avoir tiré du pétrin .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3526">
+		<phraseEN>which the student paper called the most useless course on campus .</phraseEN>
+		<phraseFR>selon le journal des étudiants , le cours le plus inepte du cursus .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3527">
+		<phraseEN>- so ? we need someone with experience .</phraseEN>
+		<phraseFR>pas besoin de psy mais d' une nana qui a été au front .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3528">
+		<phraseEN>what he meant to say , kids , is that we ai n't never heard o'no fancy door code</phraseEN>
+		<phraseFR>il voulait dire qu' on n' a jamais entendu parler d' un " code d' accès " .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3529">
+		<phraseEN>he is but passionate , and he stirs the same in others .</phraseEN>
+		<phraseFR>ce n' est pas la passion qui lui manque il est en colère d' être si rabaissé</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3530">
+		<phraseEN>please , sod off .</phraseEN>
+		<phraseFR>s' il te plaît , dégage !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3531">
+		<phraseEN>we 're in this here now .</phraseEN>
+		<phraseFR>on est ici , ensemble , et on se serre les coudes , ok ?</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10 11 12 13</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10 11 12 13</annot2>
+	</pair>
+	<pair id="3532">
+		<phraseEN>even i do n't know every scent .</phraseEN>
+		<phraseFR>moi-même , je ne les connais pas toutes .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3533">
+		<phraseEN>kids these days , no control .</phraseEN>
+		<phraseFR>les mômes d' aujourd'hui , aucun contrôle .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3534">
+		<phraseEN>it 's all over town , robbie .</phraseEN>
+		<phraseFR>toute la ville en parle .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3535">
+		<phraseEN>jesus . who did i kill in a past life ?</phraseEN>
+		<phraseFR>j' ai fait quoi pour mériter ça ?</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3536">
+		<phraseEN>whoever heard of mangosteen ?</phraseEN>
+		<phraseFR>qui connaît les mangoustans ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3537">
+		<phraseEN>could be a coincidence , could not be a coincidence .</phraseEN>
+		<phraseFR>peut-être une coïïncidence , peut-être pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3538">
+		<phraseEN>i knew giving you that book would come back and bite me in the ass .</phraseEN>
+		<phraseFR>ce livre sur le couple est vraiment gonflant !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3539">
+		<phraseEN>liver-bellied bunch of miserable sheep !</phraseEN>
+		<phraseFR>- vous n' êtes que des moutons !</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 3; untranslated target word indices: </annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3540">
+		<phraseEN>and i saw a woman sit upon a scarlet colored beast , full of names of blasphemy , having seven heads and ten horns .</phraseEN>
+		<phraseFR>et je vis une femme , assise sur une bête écarlate couverte de titres blasphématoires et portant sept têtes et dix cornes .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3541">
+		<phraseEN>gary , you just .</phraseEN>
+		<phraseFR>- tu viens de ...</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3542">
+		<phraseEN>so i think you ladies should nude up . ?</phraseEN>
+		<phraseFR>ecoute donna , je suis désolé , mais je ne repart pas en arrière ! tu dois comprendre que je suis l' homme de cette maison maintenant !</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3543">
+		<phraseEN>she said it was someone named sandy .</phraseEN>
+		<phraseFR>que c' était quelqu'un qui s' appelait sandy .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3544">
+		<phraseEN>- are you okay ? .</phraseEN>
+		<phraseFR>je vais avec toi .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3545">
+		<phraseEN>relax , it 's ok .</phraseEN>
+		<phraseFR>- vous inquiétez pas .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3546">
+		<phraseEN>we do n't have sake .</phraseEN>
+		<phraseFR>on n' en a pas .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3547">
+		<phraseEN>this what 's gon na take ?</phraseEN>
+		<phraseFR>on règle ça comme ça ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3548">
+		<phraseEN>you bit us for it .</phraseEN>
+		<phraseFR>et tu nous a mordus pour ça .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3549">
+		<phraseEN>i am very pleased with how you 've moved up in the world .</phraseEN>
+		<phraseFR>je suis content de voir que tu as grimpé dans l' échelle sociale .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3550">
+		<phraseEN>but the woman in the next room was n't so lucky .</phraseEN>
+		<phraseFR>mais la femme dans la chambre d' à côté n' a pas eu autant de chance .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3551">
+		<phraseEN>how could i compete with that ?</phraseEN>
+		<phraseFR>- comment je peux lutter contre ça ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3552">
+		<phraseEN>hey , she 's like totally going to get it , right , because that was just great .</phraseEN>
+		<phraseFR>elle va carrément être prise , hein ? c' était trop fort !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3553">
+		<phraseEN>so i 'm stuck with you .</phraseEN>
+		<phraseFR>alors , je t' ai sur le dos !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3554">
+		<phraseEN>you are no different .</phraseEN>
+		<phraseFR>tu n' es pas différent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3555">
+		<phraseEN>hell , i joined the navy .</phraseEN>
+		<phraseFR>a l' école de cuisine , j' ai pigé</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3556">
+		<phraseEN>yamaha is race-bred from champions , with a model for all kinds of riding .</phraseEN>
+		<phraseFR>yamaha est une race de champions . chacun y trouvera son bonheur .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3557">
+		<phraseEN>the count of monte cristo , with robert donat as edmond dantes .</phraseEN>
+		<phraseFR>le comte de monte-cristo . robert donat est edmond dantès .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3558">
+		<phraseEN>red : that wo n't be necessary , reverend .</phraseEN>
+		<phraseFR>- ça ne sera pas nécessaire .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 0 1 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3559">
+		<phraseEN>maybe not too cool ,</phraseEN>
+		<phraseFR>et vous étiez trop cool pour agir .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: undecidable</annot2>
+	</pair>
+	<pair id="3560">
+		<phraseEN>pray to god he is .</phraseEN>
+		<phraseFR>dieu veuille qu' il soit idiot .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3561">
+		<phraseEN>anything you think you had led you to me , and i 'm a dead end .</phraseEN>
+		<phraseFR>vos renseignements vous ont mené à moi , mais je suis un cul-de-sac .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3562">
+		<phraseEN>especially when i play the lead .</phraseEN>
+		<phraseFR>brumby aime vraiment ce genre de truc ?</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3563">
+		<phraseEN>jasper 's our newest vegetarian .</phraseEN>
+		<phraseFR>je suis désolé . jasper est notre nouveau végétarien .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3</annot2>
+	</pair>
+	<pair id="3564">
+		<phraseEN>- how do i know that ?</phraseEN>
+		<phraseFR>torrance , ce n' est pas ryan .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3565">
+		<phraseEN>fayed has set you up .</phraseEN>
+		<phraseFR>- fayed vous a piégé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3566">
+		<phraseEN>- did we come this far to lose it ?</phraseEN>
+		<phraseFR>- aller aussi loin et tout perdre ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3567">
+		<phraseEN>- then feel better !</phraseEN>
+		<phraseFR>- alors sois rassurée !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3568">
+		<phraseEN>obviously , anger management has been a complete failure for you .</phraseEN>
+		<phraseFR>il est évident que la thérapie est un échec total .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 9 10; untranslated target word indices: </annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3569">
+		<phraseEN>- supposin ' you tell me what happened .</phraseEN>
+		<phraseFR>- dites -moi d'abord ce qui est arrivé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3570">
+		<phraseEN>i 'm really looking forward to helping you with your experiments .</phraseEN>
+		<phraseFR>je me réjouis à l' idée de vous aider dans vos expériences .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3571">
+		<phraseEN>and unlocking me with the same key you used to lock me up with .</phraseEN>
+		<phraseFR>merci d' avoir payé l' amende et de m' avoir libéré après m' avoir enfermé .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3572">
+		<phraseEN>do some fishing , a little camping ...</phraseEN>
+		<phraseFR>on pêchait , on campait .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3573">
+		<phraseEN>let 's slip off to a sand dune</phraseEN>
+		<phraseFR>- let's slip off to a sand dune -</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3574">
+		<phraseEN>why am i any different ?</phraseEN>
+		<phraseFR>pourquoi ça serait différent pour moi ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3575">
+		<phraseEN>i did n't expect it to be .</phraseEN>
+		<phraseFR>je ne m' y attendais pas .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3576">
+		<phraseEN>that 's my own drama .</phraseEN>
+		<phraseFR>c' est juste moi .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3577">
+		<phraseEN>and sometimes , he was n't just a danger to himself .</phraseEN>
+		<phraseFR>et parfois , ses bourdes faisaient du tort aux autres .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3578">
+		<phraseEN>i 've just told you , straight up , you 're gon na tour america .</phraseEN>
+		<phraseFR>je viens de le dire . on part en tournée en amérique .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3579">
+		<phraseEN>but that 's as close as you 're ever gon na get to it .</phraseEN>
+		<phraseFR>mais tu n' iras pas plus loin que ça dans ce projet .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11</annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11</annot2>
+	</pair>
+	<pair id="3580">
+		<phraseEN>can we reverse it ?</phraseEN>
+		<phraseFR>pouvons -nous inverser ça ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3581">
+		<phraseEN>my dad threatened dado .</phraseEN>
+		<phraseFR>mon père a menacé dado .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3582">
+		<phraseEN>he 'd wave and maybe call .</phraseEN>
+		<phraseFR>il agiterait le bras et crierait peut-être .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3583">
+		<phraseEN>she 's giving her daughter coke !</phraseEN>
+		<phraseFR>la sienne , de la coke !</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3584">
+		<phraseEN>your name 's bellows ?</phraseEN>
+		<phraseFR>tu t' appelles devinette ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3585">
+		<phraseEN>- did he mention my name ?</phraseEN>
+		<phraseFR>- est -ce qu' il a parlé de moi ?</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3586">
+		<phraseEN>i 'm useless and crap .</phraseEN>
+		<phraseFR>je sers à rien .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3587">
+		<phraseEN>the only person who had knowledge of all the leaked intel was lieutenant arnett himself .</phraseEN>
+		<phraseFR>la seule personne qui connaissait toutes ces fuites était le lieutenant arnett lui-même .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3588">
+		<phraseEN>angka has forgiven all the past .</phraseEN>
+		<phraseFR>l' angkar a pardonné le passé .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3589">
+		<phraseEN>i could sure use some fresh meat .</phraseEN>
+		<phraseFR>je mangerais bien de la viande fraîche .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3590">
+		<phraseEN>oh please , do n't act like a hurt schoolgirl .</phraseEN>
+		<phraseFR>l' entretien est terminé , conduisez -moi à ...</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3591">
+		<phraseEN>i got a vertical shaft up ahead about 10 yards .</phraseEN>
+		<phraseFR>conduit vertical à 10 mètres .</phraseFR>
+		<annot1>First annotation: unperfect</annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3592">
+		<phraseEN>oh , guess that 's the way it is .</phraseEN>
+		<phraseFR>ho , les affaires vont comme elles veulent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3593">
+		<phraseEN>shaolin kung fu is great !</phraseEN>
+		<phraseFR>le kung fu shaolin est terrible !</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3594">
+		<phraseEN>i do n't understand .</phraseEN>
+		<phraseFR>je suis sûre que yale aimerait la voir .</phraseFR>
+		<annot1>First annotation: not corresponding</annot1>
+		<annot2>Second annotation: not corresponding</annot2>
+	</pair>
+	<pair id="3595">
+		<phraseEN>if there 's not one yellow-belly in the whole group , then being brave does n't have any meaning .</phraseEN>
+		<phraseFR>sans quelques froussards , ce " courage " ne veut rien dire .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 6 7 8 9; untranslated target word indices: </annot1>
+		<annot2>Second annotation: partial; untranslated source word indices: 6 7 8 9; untranslated target word indices: </annot2>
+	</pair>
+	<pair id="3596">
+		<phraseEN>( crying ) you said our friendship was special .</phraseEN>
+		<phraseFR>tu disais que notre amitié était spéciale .</phraseFR>
+		<annot1>First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: </annot1>
+		<annot2>Second annotation: unperfect</annot2>
+	</pair>
+	<pair id="3597">
+		<phraseEN>honey , people argue .</phraseEN>
+		<phraseFR>chérie , les gens se disputent .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3598">
+		<phraseEN>with me back in office , we will carry on our legacy .</phraseEN>
+		<phraseFR>si j' occupe de nouveau cette fonction , nous perpétuerons notre héritage .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+	<pair id="3599">
+		<phraseEN>so that i ca n't approve you today for this dog .</phraseEN>
+		<phraseFR>donc je ne peux pas vous valider aujourd'hui pour ce chien .</phraseFR>
+		<annot1>First annotation: sure</annot1>
+		<annot2>Second annotation: sure</annot2>
+	</pair>
+</CorpusAnnote>

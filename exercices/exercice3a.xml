@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "exercice3a.dtd">
+<bibliographie>
+	<livres>
+		<livre>
+			<titre/>
+			<auteurs>
+				<auteur/>
+				<auteur/>
+			</auteurs>
+			<tomes>
+				<tome nb_pages=""/>
+			</tomes>
+			<edition>
+				<editeur/>
+				<lieuEdition/>
+				<lieuImpression/>
+				<ISBN/>
+			</edition>
+		</livre>
+	</livres>
+	<articles>
+		<article>
+			<titre/>
+			<auteurs>
+				<auteur/>
+			</auteurs>
+			<journal nom="" anneePub="">
+				<nb_pages/>
+				<num/>
+				<avis/>
+			</journal>
+		</article>
+	</articles>
+</bibliographie>

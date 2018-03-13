@@ -1,0 +1,14 @@
+<!ELEMENT titleStmt ((title, author))>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT text ((group | (front, body)))>
+<!ELEMENT teiHeader ((fileDesc))>
+<!ELEMENT lg ((l+ | lg+))>
+<!ELEMENT l (#PCDATA)>
+<!ELEMENT head (#PCDATA)>
+<!ELEMENT group ((text))>
+<!ELEMENT front ((head, dateline))>
+<!ELEMENT fileDesc ((titleStmt))>
+<!ELEMENT dateline (#PCDATA)>
+<!ELEMENT body ((lg))>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT TEI ((teiHeader, text))>

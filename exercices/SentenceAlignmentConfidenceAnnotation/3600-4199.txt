@@ -1,0 +1,3000 @@
+3600
+- do what you need to do quickly .
+- fais le plus vite possible .
+First annotation: partial; untranslated source word indices: 2 3 4 5 6; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 2 3 4 5 6; untranslated target word indices: 
+3601
+owed by griet ... one smile .
+griet me doit un sourire .
+First annotation: sure
+Second annotation: sure
+3602
+today news , someone is kill on the car , the murderer is escape
+un chauffeur de taxi retrouvé mort
+First annotation: partial; untranslated source word indices: 0 1 2 9 10 11 12 13; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 9 10 11 12 13; untranslated target word indices: 
+3603
+find out where they were living 18 years ago .
+il claque déjà l' argent du chantage ? alors ce rendez-vous ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3604
+my mother uses that stuff .
+ma mère utilise ça .
+First annotation: sure
+Second annotation: sure
+3605
+i could eat about a million and a half of these .
+je pourrais en manger un million et demi .
+First annotation: sure
+Second annotation: sure
+3606
+the tiles and furniture .
+- oui , je fais tout moi-même , les tuiles , les meubles ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6 7
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4 5 6 7
+3607
+- i 'm almost through with you .
+- j' en ai bientôt fini avec vous .
+First annotation: sure
+Second annotation: sure
+3608
+i 'm not gon na ask you again .
+je ne répéterai pas .
+First annotation: unperfect
+Second annotation: unperfect
+3609
+and another big right by braddock .
+braddock donne un autre coup droit .
+First annotation: sure
+Second annotation: sure
+3610
+get the other clamps and get the bullet .
+avec i'autre clamp , attrape la balle .
+First annotation: sure
+Second annotation: sure
+3611
+air east 31 has traffic 2 o'clock , slightly above and descending .
+j' ai un signal à 2h , au-dessus et en descente .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 0 1 2 8; untranslated target word indices: 
+3612
+it 's natural mum should have a lover when you have one .
+c' est normal que maman ait un amant , tu as bien une maîtresse .
+First annotation: sure
+Second annotation: sure
+3613
+you set up a paradigm where you actually have to get caught .
+vous mettez en place un paroxisme où vous allez réellement vous faire prendre .
+First annotation: sure
+Second annotation: sure
+3614
+... many a good boy will die ...
+donnez -moi une autre mission .
+First annotation: not corresponding
+Second annotation: not corresponding
+3615
+offer the man a proper drink .
+offre -leur un truc d' hommes .
+First annotation: unperfect
+Second annotation: unperfect
+3616
+he went back for alex.
+il est allê chercher alex , il va se faire tuer !
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9 10 11
+3617
+what 's he gon na do , put 'em on a pike ?
+qu' est -ce qu' il va en faire ? les brandir sur une pique ?
+First annotation: sure
+Second annotation: sure
+3618
+- you do what it takes .
+- fais le nécessaire .
+First annotation: sure
+Second annotation: sure
+3619
+to see christmas decorations again , but ...
+je sais que tu as vraiment hâte de revoir les décorations de noël , mais ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6
+3620
+no facial ; tats on the left arm ; male .
+- quant au conducteur ... - sans visage , tatouages au bras gauche . très masculin .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4
+3621
+i could n't do what you 're doing , so i do n't understand how you 'll do it .
+je ne saurais adopter ton attitude donc je ne vois pas comment tu vas t' y prendre .
+First annotation: unperfect
+Second annotation: sure
+3622
+- no. . i managed to get it out of evidence in time .
+l' as -tu ... l' as -tu regardé ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3623
+- just let me go .
+- laisse -moi partir .
+First annotation: sure
+Second annotation: sure
+3624
+just glance , do n't be obvious .
+discrètement , s' il te plaît .
+First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 1 2 3 4 5
+Second annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: 
+3625
+- one of our men murdered auda 's man .
+- un des nôtres a tué un des leurs .
+First annotation: sure
+Second annotation: sure
+3626
+- you 're not too tight .
+- c' est pas trop serré ?
+First annotation: unperfect
+Second annotation: unperfect
+3627
+tonight , on hbc , we will air all our sitcoms live
+dont le très talentueux billy mays . c' est de l' ignorance .
+First annotation: not corresponding
+Second annotation: not corresponding
+3628
+people would ask , " how do you train ? "
+les gens me demandaient :
+First annotation: partial; untranslated source word indices: 4 5 6 7 8 9; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 4 5 6 7 8 9 10; untranslated target word indices: 
+3629
+i suggest a clark nova portable .
+je recommande la clark-nova portative .
+First annotation: sure
+Second annotation: sure
+3630
+why ca n't you hit me ?
+pourquoi tu ne le fais pas ?
+First annotation: unperfect
+Second annotation: unperfect
+3631
+probably why god did n't kill you : he knew you were my follower .
+voilà pourquoi dieu t' a pas tué : tu suis mon exemple .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 0 8 9; untranslated target word indices: 
+3632
+if penny 's going to be spending nights here again , you 'll need to set up an escrow account .
+ouvre un compte de gage si tu veux que penny dorme ici .
+First annotation: sure
+Second annotation: sure
+3633
+what did you say ?
+vous avez dit quoi ?
+First annotation: sure
+Second annotation: sure
+3634
+and that 's how i perceived all this .
+j' ai eu la nausée ...
+First annotation: not corresponding
+Second annotation: not corresponding
+3635
+and you know what ?
+et du temps , moi , je n' en ai pas .
+First annotation: not corresponding
+Second annotation: not corresponding
+3636
+did halcon laboratories invent the connexus ?
+est -ce halcon qui a inventé le connexus ?
+First annotation: sure
+Second annotation: sure
+3637
+we do n't have the murder weapon yet there 's a high chance that a kitchen utensil was used
+on n' a pas encore l' arme du crime , mais il doit s' agir d' un ustensile de cuisine .
+First annotation: sure
+Second annotation: sure
+3638
+i was n't sure .
+je n' étais pas sûre .
+First annotation: sure
+Second annotation: sure
+3639
+doc : keep coming , clara !
+- continue , clara !
+First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3640
+- we all have a hero in our heart .
+- oui . chope -le . tu fais quoi ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3641
+here 's your fat mouse .
+- votre grosse souris .
+First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3642
+in prison not there are doctors , but bank robbers .
+on ne sort pas de prison diplômé , mais au mieux , braqueur de banques .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9 10
+3643
+i really believe that .
+je commence à y croire moi aussi .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2
+3644
+i did the math .
+j' ai fait mes calculs .
+First annotation: sure
+Second annotation: sure
+3645
+union men will be up in a few minutes
+le type du syndicat sera là dans quelques minutes .
+First annotation: sure
+Second annotation: sure
+3646
+why did n't i turn it on ?
+pourquoi je la mettrais pas en marche ?
+First annotation: sure
+Second annotation: sure
+3647
+- all right , that 's two .
+ça fait deux à zéro ?
+First annotation: unperfect
+Second annotation: unperfect
+3648
+you did n't fly to rio for the weekend ?
+tu n' es pas à rio , ce week-end ?
+First annotation: sure
+Second annotation: sure
+3649
+` round here somewhere , waitin ' for the hoedown folk .
+ils sont là , ils attendent les gars de la " catira " .
+First annotation: sure
+Second annotation: sure
+3650
+i should probably just bite the bullet .
+je devrais plutôt prendre sur moi .
+First annotation: unperfect
+Second annotation: unperfect
+3651
+i 'm only on tv because i got ta be able to hang around the casino .
+je passe à la télé pour garder le casino .
+First annotation: partial; untranslated source word indices: 6 7 8 9 10 11; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 6 7 8 9 10 11; untranslated target word indices: 
+3652
+tanner , i 'm gon na need another car .
+il va me falloir une autre voiture .
+First annotation: sure
+Second annotation: sure
+3653
+i 'd rather focus on the ones they are threatening .
+je préfère me focaliser sur leurs victimes .
+First annotation: sure
+Second annotation: sure
+3654
+we 're human beings .
+voici de la colle .
+First annotation: not corresponding
+Second annotation: not corresponding
+3655
+will you explain what happens if this spring is removed ?
+qu' arrive -t-il si on enlève le ressort ?
+First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+3656
+when i got in , only three of us passed .
+quand je i'ai fait , on était trois à la fin .
+First annotation: unperfect
+Second annotation: unperfect
+3657
+- angela , go , please .
+- file . laissez -la !
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 3 4 5
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 3 4 5
+3658
+( gasping ) the dodeca-call is coming from inside the house .
+le dodécappel vient de chez nous .
+First annotation: sure
+Second annotation: sure
+3659
+he 's always at the back of starling 's lecture hall .
+il est toujours aux conférences de starling .
+First annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: 
+3660
+that did n't come out right at all .
+je dis n' importe quoi .
+First annotation: unperfect
+Second annotation: unperfect
+3661
+we are n't even really sure what we 're seeing here .
+on est même pas sûr de ce qu' on voit .
+First annotation: sure
+Second annotation: sure
+3662
+- i think i 'm on clay 's shit list .
+- clay a dû me blacklister .
+First annotation: sure
+Second annotation: sure
+3663
+i 'm fine , dad .
+- ça va , papa , c' est pas si méchant .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9 10
+3664
+sure , i can come in then .
+c' est un cheval avec une corne .
+First annotation: not corresponding
+Second annotation: not corresponding
+3665
+- how about expecting people to be responsible enough ... to control themselves to begin with ?
+et si on leur demandait de l' être dès le départ et de se contrôler ?
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 3 4 5 6 7 8; untranslated target word indices: 
+3666
+- i 've got ta go .
+- je dois partir .
+First annotation: sure
+Second annotation: sure
+3667
+- but you do n't know what i can do .
+- mais pas ce que je fais .
+First annotation: partial; untranslated source word indices: 2 3 4 5; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 2 3 4 5; untranslated target word indices: 
+3668
+united states border patrol !
+police américaine des frontières !
+First annotation: sure
+Second annotation: sure
+3669
+because he was n't in the records .
+parce qu' il n' était pas dans la liste .
+First annotation: sure
+Second annotation: sure
+3670
+( elliott ) now i wish i would 've listened in science .
+je regrette de ne pas avoir écouté les cours de sciences .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+3671
+well , i 'm really looking forward to this .
+j' ai vraiment hâte de commencer .
+First annotation: sure
+Second annotation: sure
+3672
+j-3 is the leader of the s.o.s.
+j-trois est le leader du s. o. s.
+First annotation: sure
+Second annotation: sure
+3673
+a slip noose hanging in my darkest dreams
+un noeud coulant dans mes rêves les plus sombres
+First annotation: sure
+Second annotation: sure
+3674
+- sync , corrected by elderman - for www.addic7ed.com -
+- sync , corrected by elderman - for www . addic7ed . com -
+First annotation: sure
+Second annotation: sure
+3675
+yeah , that do n't mean she deserved to die .
+ouai , ça ne voulais pas dire qu' elle méritait de mourrir .
+First annotation: sure
+Second annotation: sure
+3676
+you know , if she 's as good as everyone says , then i 'm sure she 's probably worth the wait .
+si elle est si douée que ça , ça vaut la peine d' attendre .
+First annotation: partial; untranslated source word indices: 0 1 2 9 10; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 12 13 14 15; untranslated target word indices: 
+3677
+do n't forget , i was the one who referred charlie to you .
+n' oublie pas que c' est moi qui t' ai envoyé charlie .
+First annotation: sure
+Second annotation: sure
+3678
+so , short of knocking him out and stashing him in a locked closet ...
+a part l' assommer et l' attacher quelque part je n' ai pas trop d' idées
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11 12 13 14 15
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 9 10 11 12 13 14 15
+3679
+that 's a good idea .
+j' aimerais bien t' aider , maman , mais j' ai un rencard ce soir .
+First annotation: not corresponding
+Second annotation: not corresponding
+3680
+unmarried , of course ?
+- toujours célibataire , bien sûr ?
+First annotation: sure
+Second annotation: sure
+3681
+those are the bad guys !
+les méchants , c' est eux !
+First annotation: sure
+Second annotation: sure
+3682
+they 're looking , uh , pretty nice , man .
+où tu les a eues ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3683
+- you do n't have a licence !
+- ça va pas ? tes pas au barreau .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+3684
+- right this way , mr. gold .
+- suivez -moi , m. gold .
+First annotation: sure
+Second annotation: sure
+3685
+i 'll walk them through myself , sir .
+je m' en occupe moi-même , mon général .
+First annotation: sure
+Second annotation: sure
+3686
+i only use it for storage now .
+ça me sert de remise maintenant .
+First annotation: sure
+Second annotation: sure
+3687
+you could n't keep an emp from taking out your whole operation .
+une iem , et vous êtes à la rue .
+First annotation: unperfect
+Second annotation: not corresponding
+3688
+- that was a morlock , was it ?
+c' était un morlock ?
+First annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: 
+3689
+what 've we got ?
+- elle a eu quoi ?
+First annotation: unperfect
+Second annotation: unperfect
+3690
+this whole idea of in-your-face theater really affected them .
+l' idée d' un théâtre brut les a marqués .
+First annotation: sure
+Second annotation: sure
+3691
+my brother says she 's terrific .
+mon frère la dit divine !
+First annotation: sure
+Second annotation: sure
+3692
+- ... what do you think of that ?
+- qu' en dites -vous ?
+First annotation: sure
+Second annotation: sure
+3693
+i 'll send that smug engine-fixin ' snipe ... back belowdecks where he belong .
+je vais renvoyer ce mécano de mes deux à fond de cale .
+First annotation: unperfect
+Second annotation: sure
+3694
+i knew it should n't happen again .
+ça ne devrait plus se reproduire .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3695
+you were so smooth with him .
+vous êtes restée calme .
+First annotation: partial; untranslated source word indices: 4 5; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 4 5; untranslated target word indices: 
+3696
+- alex , do you take any drugs ?
+- des drogues ? - non .
+First annotation: partial; untranslated source word indices: 1 2 3 4 5; untranslated target word indices: 4 5
+Second annotation: partial; untranslated source word indices: 1; untranslated target word indices: 5
+3697
+got the wife and kids settled in ?
+femme et enfants , ça va ?
+First annotation: sure
+Second annotation: sure
+3698
+- and look where he ended up .
+- regarde où ça l' a mené .
+First annotation: sure
+Second annotation: sure
+3699
+eyes meet and ignite the fire that 's when love begins
+l' amour naissant rend le regard brûlant
+First annotation: sure
+Second annotation: sure
+3700
+max ! i ca n't face life without you .
+je ne peux pas vivre sans toi .
+First annotation: sure
+Second annotation: sure
+3701
+the casing on the nuclear bomb , it cracked .
+le cœur du noyau de la bombe est endommagé .
+First annotation: sure
+Second annotation: sure
+3702
+n.s.a. 's still working on the suspect zero video .
+la nsa travaille sur la vidéo du suspect zéro .
+First annotation: sure
+Second annotation: sure
+3703
+i 'd rather lick the food off the floor .
+plutôt lécher le sol .
+First annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: 
+3704
+i ca n't say i do n't envy you .
+je t' avoue que je t' envie un peu .
+First annotation: sure
+Second annotation: sure
+3705
+i mean , that goes beyond an educated guess .
+cela dépasse le jeu des devinettes .
+First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3706
+we can hunt some birds together .
+on chassera la volaille ensemble .
+First annotation: sure
+Second annotation: sure
+3707
+there 's something in what he says .
+c' est un homme sensé .
+First annotation: not corresponding
+Second annotation: not corresponding
+3708
+- is that the one with the spots ?
+evelyn passe peu de temps avec lui .
+First annotation: not corresponding
+Second annotation: not corresponding
+3709
+no , you ca n't be .
+non , c' est impossible .
+First annotation: unperfect
+Second annotation: unperfect
+3710
+- can i go to the beach ?
+mangeons avant de partir .
+First annotation: not corresponding
+Second annotation: not corresponding
+3711
+this hostility is unwarranted .
+cette hostilité n' est pas nécessaire .
+First annotation: sure
+Second annotation: sure
+3712
+maybe one of his ex-patients came .
+une de ses ex-patientes a pu venir .
+First annotation: sure
+Second annotation: sure
+3713
+i would n't read too much into it .
+pas de quoi s' en faire .
+First annotation: unperfect
+Second annotation: unperfect
+3714
+are you so sure ?
+nous savons si peu .
+First annotation: not corresponding
+Second annotation: not corresponding
+3715
+what idoknow is that , whatever it is ,
+mais quoi qu' il en soit , c' est allé beaucoup trop loin .
+First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 7 8 9 10 11 12 13
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 7 8 9 10 11 12 13
+3716
+you act like you do n't wan na go !
+on dirait que vous voulez pas y aller !
+First annotation: sure
+Second annotation: sure
+3717
+hey , guys , the alarm was just an accident .
+- c' était une fausse alerte , les garçons .
+First annotation: sure
+Second annotation: sure
+3718
+" you 've heard of a woman 's glory being spent on a downright cur . "
+" vous savez comment la gloire d' une femme peut être perdue pour un vaurien . "
+First annotation: sure
+Second annotation: sure
+3719
+no one can get to you ?
+- y a pas moyen de s' entendre ?
+First annotation: unperfect
+Second annotation: unperfect
+3720
+they might like to hear what you did to kevin .
+mais tu te moques de ceux qui n' ont que la monotonie de leur travail dans leur vie .
+First annotation: not corresponding
+Second annotation: not corresponding
+3721
+i met this guy in yellowstone , this crazy guy .
+je l' ai rencontré à yellowstone , ce fou .
+First annotation: sure
+Second annotation: sure
+3722
+it 's such a magnificent opportunity .
+c' est une chance inespérée .
+First annotation: sure
+Second annotation: sure
+3723
+from birth , these industrious yet mindless creatures ...
+mais la seule chambre , c' est celle de jake .
+First annotation: not corresponding
+Second annotation: not corresponding
+3724
+the prodigal associate returns .
+l' associé prodigue est de retour .
+First annotation: sure
+Second annotation: sure
+3725
+he did n't drive down close to the dump spot .
+il n' est pas allé en voiture jeter le corps .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9
+3726
+i am concerned , perhaps needlessly , about matters in st. nicholas school .
+je suis préoccupé , peut-être inutilement , sur les questions de i'école saint-nicolas .
+First annotation: sure
+Second annotation: sure
+3727
+... l ask you to be mine .
+oui , je le veux .
+First annotation: not corresponding
+Second annotation: not corresponding
+3728
+if you take , like , a lot of pot with it .
+et c' est encore mieux ... si on se tape une tonne d' herbe avec ça .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+3729
+we got through our initial stumbling block by just ploughing on through .
+on a surmonté l' obstacle de départ en le contournant .
+First annotation: sure
+Second annotation: sure
+3730
+you 're awesome , what you do on that stuff .
+t' es formidable sur ta planche à neige .
+First annotation: unperfect
+Second annotation: unperfect
+3731
+now are you ready to be queen , or do i need to find a new frog ?
+tu es prête à devenir reine ou je dois trouver un autre crapaud ?
+First annotation: sure
+Second annotation: sure
+3732
+about what she 's feeling .
+très bien , nous n' avons plus de choix , cette mosquée n' a plus d' imam .
+First annotation: not corresponding
+Second annotation: not corresponding
+3733
+i let you feel hell !
+j' vais te faire goûter à l' enfers .
+First annotation: sure
+Second annotation: sure
+3734
+- because you do n't need medication .
+- vous n' avez pas besoin de médicaments . - regardez -moi .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11 12
+Second annotation: partial; untranslated source word indices: 1; untranslated target word indices: 10 11
+3735
+i 've killed women and children .
+j' en ai tué .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 3 4 5; untranslated target word indices: 
+3736
+do n't ask questions .
+ne pose pas de questions .
+First annotation: sure
+Second annotation: sure
+3737
+from the posting on the internet the attack was filmed from a high vantage point and that building right there looks over the whole crime scene .
+- d'après l' angle de vue sur le net , l' attaque a été filmée d' un poste d' observation élevé . cet immeuble est dans l' axe et surplombe toute la scène de crime .
+First annotation: sure
+Second annotation: sure
+3738
+what do you say ?
+je voudrais éviter les morts inutiles .
+First annotation: not corresponding
+Second annotation: not corresponding
+3739
+let me introduce you to my little friend .
+laissez -moi vous présentez mes amis .
+First annotation: sure
+Second annotation: sure
+3740
+multiple blood clots would tie together bowel ischemia , lungs , and the liver .
+on aurait une ischémie des intestins , des poumons et du foie .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: 
+3741
+you were scared a great deal .
+bien des choses te faisaient peur .
+First annotation: sure
+Second annotation: sure
+3742
+- it means " treasure " in german .
+- il l' ignore . - il y a deux ans ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3743
+because i think maybe you have another agenda .
+je crois que tu as tes propres projets .
+First annotation: sure
+Second annotation: sure
+3744
+how did i get myself into this ?
+où suis -je allée me fourrer ?
+First annotation: sure
+Second annotation: sure
+3745
+in this country , the blistering heat continues to blaze ... a path of destruction across the midwest grain belt .
+chez nous , la chaleur torride continue de ravager les récoltes à travers les plaines ,
+First annotation: sure
+Second annotation: sure
+3746
+essex had this phone rewired to have the same signal as the ankle monitor .
+il a trafiqué son téléphone . il émet le même signal que son bracelet .
+First annotation: sure
+Second annotation: sure
+3747
+local police are looking for an escaped convict whose name is not being released .
+la police recherche un détenu évadé dont le nom est tenu secret .
+First annotation: sure
+Second annotation: sure
+3748
+over there laughing with that smart -
+je l' entends rire avec son nouveau ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3749
+and even if it is now , i know that it wo n't be eventually .
+c' est peut-être le cas là , mais ça ne le sera plus , en fin de compte .
+First annotation: sure
+Second annotation: sure
+3750
+all right , back to work ?
+bon , on travaille ?
+First annotation: sure
+Second annotation: sure
+3751
+look , silas , life is just blah , blah , blah .
+la vie est juste blablabla ?
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3752
+the very fact that you 're here now just proves it .
+- vous l' avez pris ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3753
+first you have to pay to take a truck to vallegrande , and then you pay for the stay .
+vous devez payer le transport jusqu' à vallegrande , puis votre séjour .
+First annotation: sure
+Second annotation: sure
+3754
+he 's gon na make mahler a dog house .
+il va construire une niche pour mahler .
+First annotation: sure
+Second annotation: sure
+3755
+so , what next ?
+alors que va -t-il se passer ?
+First annotation: sure
+Second annotation: sure
+3756
+22 in the back of the head
+un calibre 22 à l' arrière de la tête .
+First annotation: sure
+Second annotation: sure
+3757
+oh , barbie , you have two choices :
+où est tout le monde ? il va bien .
+First annotation: not corresponding
+Second annotation: not corresponding
+3758
+the number - 331 - you know what it means ?
+vous savez à quoi se rapporte ce 331 ?
+First annotation: sure
+Second annotation: sure
+3759
+man , i 'll bet that stuff is smooth .
+je parie qu' il est très doux .
+First annotation: sure
+Second annotation: sure
+3760
+it 's all he likes to talk about .
+il ne parle que de ça .
+First annotation: sure
+Second annotation: sure
+3761
+would you take that off ?
+il n' y en a que pour les brunes .
+First annotation: not corresponding
+Second annotation: not corresponding
+3762
+- a delivery is one thing !
+l' accoucher , d'accord .
+First annotation: unperfect
+Second annotation: unperfect
+3763
+they ca n't drive , so , you know .
+même avec , ils conduisent mal .
+First annotation: partial; untranslated source word indices: 5 6 7 8; untranslated target word indices: 0 1 2
+Second annotation: partial; untranslated source word indices: 5 6 7 8; untranslated target word indices: 
+3764
+her assassin just paid me a visit .
+elle a envoyé quelqu'un pour me tuer .
+First annotation: sure
+Second annotation: unperfect
+3765
+nanc ' , you 're a pot dealer .
+nanc ' , tu es un dealer d' herbe .
+First annotation: sure
+Second annotation: sure
+3766
+no , it says right here , " trauriges madchen . "
+elle a écrit : " trauriges mädchen . "
+First annotation: sure
+Second annotation: sure
+3767
+well , i got an early call .
+je répète tôt ce matin .
+First annotation: not corresponding
+Second annotation: not corresponding
+3768
+when santa 's sleighbells ring
+entends -tu les grelots ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3769
+well , the vic made a positive i.d. on the canvass soon after the incident .
+eh bien , la victime l' a identifié sur les photos peu après l' incident .
+First annotation: sure
+Second annotation: sure
+3770
+but his own wife told me , and it made her sick when she did .
+ça l' a rendue malade .
+First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6 7 12 13 14; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6 7; untranslated target word indices: 
+3771
+i came to handcuffed to a chain-link .
+je me suis retrouvée attachée au grillage .
+First annotation: sure
+Second annotation: sure
+3772
+- and your penis size .
+- et un pénis , comme le tien .
+First annotation: sure
+Second annotation: sure
+3773
+you look like hell .
+t' as l' air de sortir de l' enfer .
+First annotation: sure
+Second annotation: sure
+3774
+i remember how your mother loved to read .
+je me rappelle à quel point ta mère aimait lire .
+First annotation: sure
+Second annotation: sure
+3775
+now , the reason you panicked is that ...
+tiens . - tu n' as paniqué que parce ...
+First annotation: sure
+Second annotation: sure
+3776
+i 'm telling you , it 's the invasion !
+oui , c' est i'invasion !
+First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3777
+maybe not specifically trained , but ...
+il peut ils ne faire pas c' être qualifié ...
+First annotation: unperfect
+Second annotation: unperfect
+3778
+we could have worked through that .
+on aurait surmonté ça .
+First annotation: sure
+Second annotation: sure
+3779
+i 'll give this new year thing one last chance .
+je laisse une seconde chance à la " nouvelle année " .
+First annotation: sure
+Second annotation: sure
+3780
+she had n't been doing too good , brendan .
+elle va pas fort .
+First annotation: sure
+Second annotation: sure
+3781
+get it in or get it out , baby !
+faites des va-et-vient , les gars .
+First annotation: unperfect
+Second annotation: sure
+3782
+maybe you were writing for people 's amusement , but i do n't work for free .
+peut être que tu ecris pour l' amusement des gens , mais je bosse pas gratis .
+First annotation: sure
+Second annotation: sure
+3783
+like i said , two days ago , my guy damn near found out who costello 's rat is .
+mon informateur a été à deux doigts de la démasquer avant-hier .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+3784
+- do n't kick the baby .
+- pas shoote bébé .
+First annotation: sure
+Second annotation: sure
+3785
+i think i 'm gon na be .
+je crois que ça va aller .
+First annotation: unperfect
+Second annotation: unperfect
+3786
+- where the hell is swat ?
+- où est l' équipe swat ?
+First annotation: sure
+Second annotation: sure
+3787
+fuck it you can take the mike home wit ' you
+putain , tu pourrais emmener le micro chez toi
+First annotation: sure
+Second annotation: sure
+3788
+my heart and i were buried in dust
+mon cœur et moi étions dans l' errance
+First annotation: sure
+Second annotation: sure
+3789
+you 'll be ready for work in the morning .
+tu n' auras pas à venir demain .
+First annotation: unperfect
+Second annotation: unperfect
+3790
+this bridge is our first waypoint .
+nous nous dirigerons vers ce pont .
+First annotation: unperfect
+Second annotation: unperfect
+3791
+- freeze , motherfucker !
+pas un geste , enfoiré !
+First annotation: unperfect
+Second annotation: sure
+3792
+he 's like , if you guys get nailed , which i 'm pretty sure you will ...
+- il a dit : " si vous vous faites choper , ce dont je ne doute pas , je ne vous connais pas ! "
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 19 20 21 22 23 24
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 19 20 21 22 23
+3793
+my name is martin keamy .
+je suis martin keamy .
+First annotation: sure
+Second annotation: sure
+3794
+we 're already overworking the second unit , and they have problems to begin with .
+vous savez bien que la division 2 n' est pas en mesure de protéger la ville toute seule !
+First annotation: not corresponding
+Second annotation: not corresponding
+3795
+- i 'll trade you ...
+- je sais ce que tu veux .
+First annotation: not corresponding
+Second annotation: not corresponding
+3796
+believe me , there 'll be plenty of people rooting for you to fail .
+les gens seront là pour te mettre des bâtons dans les roues .
+First annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+3797
+- he 's at the ridge .
+- sur la crête .
+First annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 
+3798
+editing kobi netanel and monica coleman
+au montage kobi netanel et monica coleman
+First annotation: sure
+Second annotation: sure
+3799
+he took pity on me
+il a eu pitié de moi .
+First annotation: sure
+Second annotation: sure
+3800
+it 's nice to be appreciated by your friends .
+ça fait plaisir , venant d' un ami .
+First annotation: sure
+Second annotation: sure
+3801
+move out of here now !
+foutez -moi le camp !
+First annotation: sure
+Second annotation: sure
+3802
+why do people always say that ?
+il te plairait vraiment .
+First annotation: not corresponding
+Second annotation: not corresponding
+3803
+what happens is that as you doing so they not the cleaners .
+il a tiré une balle . un pistolet à ressort .
+First annotation: not corresponding
+Second annotation: not corresponding
+3804
+as long as it 's legal , providers ... provide .
+ça veut dire diffuseur . tant que c' est légal , le diffuseur , il diffuse .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+3805
+davros thinks maybe romanian .
+tadroze pense que c' est peut-être même des roumains !
+First annotation: sure
+Second annotation: sure
+3806
+oh , what a great country
+oh , quel beau pays
+First annotation: sure
+Second annotation: sure
+3807
+it 's true , is n't it ?
+c' est vrai , n' est -ce pas ?
+First annotation: sure
+Second annotation: sure
+3808
+- forward aft , 30 degrees at 80 percent .
+poussée arrière , 30 , 80 % .
+First annotation: sure
+Second annotation: sure
+3809
+i was just gon na watch a dvd and order some takeout , so i 'm looking forward to a home-cooked meal .
+d'accord ! pourquoi tu n' aiderais pas ton beau-père avec les derniers cartons ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3810
+and while i compose it , i 'm also reviewing it .
+a ce fou , pas de fou-et-demi .
+First annotation: not corresponding
+Second annotation: not corresponding
+3811
+that 's a smile .
+tu vois le type , là ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3812
+any idea who she was supposed to sell 'em to ?
+une idée de à qui elle était censée les vendre ?
+First annotation: sure
+Second annotation: sure
+3813
+- thanks for fucking telling me .
+- sympa de me mettre au courant .
+First annotation: sure
+Second annotation: sure
+3814
+what time did you stop playing " guitar hero " that night ?
+a quelle heure avez -vous arrêté de jouer à " guitar hero " ?
+First annotation: partial; untranslated source word indices: 10 11; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 10 11; untranslated target word indices: 
+3815
+i 'll be sure to note that in my log .
+je le stipulerai sur mon rapport .
+First annotation: sure
+Second annotation: sure
+3816
+that 's once i did n't miss .
+je l' ai pas raté celui-là .
+First annotation: sure
+Second annotation: sure
+3817
+- now that dog 's eating my godzilla , man .
+- ce clébard a bouffé mon godzilla :
+First annotation: sure
+Second annotation: sure
+3818
+you want something to boo about ?
+vous voulez des raisons de huer ?
+First annotation: sure
+Second annotation: sure
+3819
+i can thigh the hell out of a girl .
+je suis capable de " cuisser " une fille .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: 
+3820
+bespeak him a fortnight before .
+retiens -le avec 15 jours d' avance .
+First annotation: sure
+Second annotation: sure
+3821
+- a helpless vapid incompetent ass-kisser .
+- inutile , insipide , incompétente et lèche-cul .
+First annotation: sure
+Second annotation: sure
+3822
+and you 'll be nasty ...
+et tu vas m' aimer et tu va plus abuser !
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4
+3823
+- i had to give the state of the union .
+- j' ai dû faire mon discours annuel .
+First annotation: unperfect
+Second annotation: unperfect
+3824
+we 'll do business with both of them .
+qu' ils se bagarrent .
+First annotation: not corresponding
+Second annotation: not corresponding
+3825
+a month later she 's still " working out the details . "
+un mois plus tard , elle " règle encore quelques détails " .
+First annotation: sure
+Second annotation: sure
+3826
+it 's very educational .
+c' est une histoire pleine d' enseignements .
+First annotation: unperfect
+Second annotation: unperfect
+3827
+i need to open up a video link with my brother , so that we can find out where he is and then .
+je dois me connecter avec mon frère pour savoir où il est .
+First annotation: sure
+Second annotation: sure
+3828
+now , i ran ncic checks on all of them and two in particular stand out .
+et j' ai consulté le fichier de chacun d' eux et deux en particulier se sont distingués .
+First annotation: sure
+Second annotation: sure
+3829
+you should 've taken better care of gigi .
+tu aurais dû surveiller gigi .
+First annotation: sure
+Second annotation: sure
+3830
+there was no stagecraft in what they had me doing at the playhouse .
+le stage à la fabrique n' avait rien à voir avec le théâtre .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 6 7 8 9; untranslated target word indices: 
+3831
+and , um , do you want to come ?
+et ces gens disent que moi aussi , j' ai été dans des voix impénétrables .
+First annotation: not corresponding
+Second annotation: not corresponding
+3832
+likewise , i 'm sure .
+allons -y , voulez -vous ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3833
+" you just have to be more smarter when we dance . "
+on va pas laisser cette tente nous ridiculiser .
+First annotation: not corresponding
+Second annotation: not corresponding
+3834
+- the hell it ai n't , this party 's over !
+et comment que c' est terminé . la plaisanterie est finie !
+First annotation: unperfect
+Second annotation: unperfect
+3835
+her actions could be out of concern for your feelings .
+elle essaie peut-être de ne pas te blesser .
+First annotation: sure
+Second annotation: sure
+3836
+santa must 've called you !
+le père noël a dû t' appeler !
+First annotation: sure
+Second annotation: sure
+3837
+uh , it appears that you 've got this covered , so i 'm just going to , uh , go inside and take a look .
+vous maîtrisez la situation , je vais aller jeter un oeil là-dedans .
+First annotation: sure
+Second annotation: sure
+3838
+- guardians here we come !
+- guardians here we comme !
+First annotation: sure
+Second annotation: sure
+3839
+do n't give me that .
+tu te fous de moi .
+First annotation: not corresponding
+Second annotation: not corresponding
+3840
+the director of the maternity was a woman .
+l' administratrice de la maternité était une femme .
+First annotation: sure
+Second annotation: sure
+3841
+uh , you know some people like to tip tap toe on the water .
+vou savez certaines personnes font des ricochets sur l' eau .
+First annotation: sure
+Second annotation: sure
+3842
+there 's been strange folk about for days .
+il y a eu d' étranges rôdeurs ces jours -ci ...
+First annotation: sure
+Second annotation: sure
+3843
+- she 's in your line of work .
+- une collègue , tu es sûre ?
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6
+3844
+all right , i guess i 'll goto smallville medical center .
+très bien , je crois que j' irai à l' hôpital de smallville .
+First annotation: sure
+Second annotation: sure
+3845
+i 'm gon na have sex with her .
+je vais la baiser .
+First annotation: sure
+Second annotation: sure
+3846
+take it as partial payment .
+comme s' il vous payait .
+First annotation: unperfect
+Second annotation: sure
+3847
+i guess being a movie star has a certain cache .
+je suppose qu' être une star de ciné a certains avantages .
+First annotation: sure
+Second annotation: sure
+3848
+oan i get help with the sky mall magazine ?
+c' est pour un achat en détaxe !
+First annotation: not corresponding
+Second annotation: not corresponding
+3849
+i did n't mean it .
+ça m' a échappé .
+First annotation: unperfect
+Second annotation: unperfect
+3850
+" not yet wholly ready "
+" pas encore complètement prête "
+First annotation: sure
+Second annotation: sure
+3851
+- teach me to break them horses .
+tu m' apprends à les dompter ?
+First annotation: sure
+Second annotation: sure
+3852
+- why ca n't you sit in the middle ?
+assieds -toi au milieu .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: 
+3853
+and you would n't even speak to them .
+il insiste pour que tu lui peignes la trinité , et toi tu ne daignes pas lui répondre .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6 7 8 9
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6 7 8
+3854
+your party-boy bullshit has no place here at coolidge .
+tes frasques n' ont pas leur place ici , à coolidge .
+First annotation: sure
+Second annotation: sure
+3855
+perhaps not to you .
+avec toi , peut-être .
+First annotation: unperfect
+Second annotation: sure
+3856
+nothing broken or torn .
+rien de cassé ou de dèchirè .
+First annotation: sure
+Second annotation: sure
+3857
+- roxy , here you are .
+roxy , te voilà .
+First annotation: sure
+Second annotation: sure
+3858
+you are engaged in an unauthorized procedure .
+cette manœuvre est interdite .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3859
+he cabled me you were coming and asked if i would n't help out .
+il m' a câblée pour demander mon aide dans cette opération .
+First annotation: partial; untranslated source word indices: 3 4 5; untranslated target word indices: 8 9 10
+Second annotation: partial; untranslated source word indices: 3 4 5 6; untranslated target word indices: 
+3860
+you 're dripping wet .
+regardez ça , pas un fil de sec .
+First annotation: not corresponding
+Second annotation: not corresponding
+3861
+communist infiltration , communist indoctrination ...
+je ne peux rester là et permettre à l' infiltration communiste ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6 7
+Second annotation: partial; untranslated source word indices: 3 4; untranslated target word indices: 0 1 2 3 4 5 6 7
+3862
+names of everyone attending : run them down .
+les noms de tout ceux qui seront présent , vérifie -les .
+First annotation: sure
+Second annotation: sure
+3863
+- yes , ma'am .
+- a votre service .
+First annotation: unperfect
+Second annotation: unperfect
+3864
+so nice to see you again , godfather .
+moi aussi , parrain .
+First annotation: unperfect
+Second annotation: unperfect
+3865
+they ca n't give it to a spic , a stranger !
+rien aux nègres et aux spics , ici !
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4 9 10; untranslated target word indices: 2 7
+3866
+- and you said ?
+- et qu' est -ce que tu lui as répondu ?
+First annotation: unperfect
+Second annotation: unperfect
+3867
+they want howard to go on ... spontaneously letting out his anger .
+ils veulent qu' howard continue de laisser libre court à sa colère .
+First annotation: sure
+Second annotation: sure
+3868
+you do realize you owe mr.
+vous réalisez que vous devez une part à m.
+First annotation: sure
+Second annotation: sure
+3869
+why , if it had n't been for him , i -
+c' est lui qui m' a entrainée ici ...
+First annotation: unperfect
+Second annotation: unperfect
+3870
+why do you hurt me , michael ?
+pourquoi tu me blesses ?
+First annotation: sure
+Second annotation: sure
+3871
+i ca n't do that , my child .
+je ne peux pas , mon enfant .
+First annotation: sure
+Second annotation: sure
+3872
+yes . even her .
+même ta propre fille ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3873
+it will destroy everything !
+- il détruira tout !
+First annotation: sure
+Second annotation: sure
+3874
+are you gon na arrest vic ?
+vous allez arrêter vic ?
+First annotation: sure
+Second annotation: sure
+3875
+think of this : in the last ten years 1.870 billion dollars a year were spent for military purposes .
+depuis 10 ans , on dépense 1870 milliards de dollars par an . pour les frais militaires .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3876
+it 's time for your sponge bath .
+c' est une amie à moi du club . une chic fille .
+First annotation: not corresponding
+Second annotation: not corresponding
+3877
+can you believe they suited me up to run on the field and take a bow ?
+pouvez -vous croire qu' on m' a fait enfiler mon uniforme pour que je salue la foule ?
+First annotation: sure
+Second annotation: sure
+3878
+you fight bad guys , right ?
+vous combattez les méchants , n' est -ce pas ?
+First annotation: sure
+Second annotation: sure
+3879
+before it sets in the treads !
+avant que ça sèche .
+First annotation: unperfect
+Second annotation: sure
+3880
+reported a red infiniti stolen this morning .
+et elle a signalé le vol d' une infiniti rouge .
+First annotation: partial; untranslated source word indices: 5 6; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 5 6; untranslated target word indices: 
+3881
+what 's your guesstimate ?
+tu as mis combien de temps ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3882
+9-millimeter , armor piercing , spetsnaz standard issue .
+9 mm , perforant , le calibre des spetsnaz .
+First annotation: sure
+Second annotation: sure
+3883
+- do n't lose 'em , malloy .
+- les perdez pas !
+First annotation: sure
+Second annotation: sure
+3884
+- nobody hurts me like my baby !
+- y a pas plus cruel que mon bébé .
+First annotation: sure
+Second annotation: sure
+3885
+and he 's held his own .
+et il a su se débrouiller .
+First annotation: unperfect
+Second annotation: not corresponding
+3886
+i just could n't resist bobby klaxon .
+j' ai pas résisté à bobbby klaxon .
+First annotation: sure
+Second annotation: sure
+3887
+- you wo n't tell him anything ?
+je viendrai vous chercher .
+First annotation: not corresponding
+Second annotation: not corresponding
+3888
+but a good weird , i think .
+mais dans le bon sens du terme .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 3 5 6; untranslated target word indices: 
+3889
+flint wins the megabowl !
+flint gagne le megabowl !
+First annotation: sure
+Second annotation: sure
+3890
+nicky , come on , man .
+nicky , déconne pas .
+First annotation: unperfect
+Second annotation: sure
+3891
+and you also do n't talk to them .
+tu ne leur parles non plus .
+First annotation: sure
+Second annotation: sure
+3892
+the beauty of this one is that they built it so the engine sounds harmonized at freeway speed .
+la beauté de celui -ci réside dans son moteur au son harmonieux , à grande vitesse .
+First annotation: sure
+Second annotation: sure
+3893
+and why , gentlemen ?
+et au nom de quoi se battait -il ?
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7
+Second annotation: partial; untranslated source word indices: 3; untranslated target word indices: 5 6 7
+3894
+- do you think it 'll keep ?
+- ça va se garder ?
+First annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: 
+3895
+- let 's go to pine barrens .
+- on va l' emmener à pine barrens .
+First annotation: sure
+Second annotation: sure
+3896
+it is all right , shall leave it .
+je le mets là .
+First annotation: not corresponding
+Second annotation: not corresponding
+3897
+the nicotine in that cigarette is poisonous .
+la nicotine est un poison .
+First annotation: partial; untranslated source word indices: 2 3 4; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 2 3 4; untranslated target word indices: 
+3898
+johnny , it 's imperative that we stay inside for the foreseeable future .
+on doit rester ici jusqu' à nouvel ordre .
+First annotation: unperfect
+Second annotation: unperfect
+3899
+knocko nolans , st. paddy 's day , boston .
+knocko nolans , le jour de la saint patrick , à boston .
+First annotation: sure
+Second annotation: sure
+3900
+- you can rely on each other , use each other .
+vous pouvez vous entraider .
+First annotation: sure
+Second annotation: sure
+3901
+as opposed to serious people .
+par rapport aux professionnels .
+First annotation: unperfect
+Second annotation: sure
+3902
+how about one with a flash drive ?
+même pas une avec une clé usb ?
+First annotation: sure
+Second annotation: sure
+3903
+let 's get her down to the holding cell at the station .
+emmenons -la à la cellule du poste .
+First annotation: unperfect
+Second annotation: sure
+3904
+- we need to take out the tree line .
+il faut éclaircir ce bois .
+First annotation: sure
+Second annotation: sure
+3905
+do you know the expression :
+connaissez -vous ce proverbe :
+First annotation: sure
+Second annotation: sure
+3906
+can you appreciate a good wine by now ?
+as -tu enfin appris a apprécier le bon vin ?
+First annotation: sure
+Second annotation: sure
+3907
+but until then , we will enjoy the summer .
+et profitons de l' été .
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2; untranslated target word indices: 
+3908
+actually , assholes , i do n't take money from my father and you know that .
+en fait , trous du cul , j' ai pas emprunté d' argent à mon père et vous le savez .
+First annotation: sure
+Second annotation: sure
+3909
+- who used to whack them bums out ?
+- qui les cognait ?
+First annotation: unperfect
+Second annotation: sure
+3910
+for a long time i strove to stifle it .
+j' ai lutté longtemps pour l' étouffer .
+First annotation: sure
+Second annotation: sure
+3911
+chuji even raided the government storehouses to help us farmers .
+chuji aide les paysans en pillant les greniers de l' intendant .
+First annotation: sure
+Second annotation: sure
+3912
+a spoiled brat with a god complex ?
+une enfant gâtée qui se prend pour une déesse ?
+First annotation: sure
+Second annotation: sure
+3913
+okay , now i 'm inside a room .
+l' intérieur d' une pièce .
+First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 2 3 4; untranslated target word indices: 
+3914
+- that 's all right .
+- ne vous inquiétez pas .
+First annotation: unperfect
+Second annotation: unperfect
+3915
+i 'm the only one ...
+réfléchis deux secondes : je suis le seul à savoir où elle est .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 8 9 10 11 12
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 8 9 10 11 12
+3916
+how long do you people remember things ?
+vous avez une grande mémoire , vous autres ?
+First annotation: unperfect
+Second annotation: unperfect
+3917
+i do n't know if there 's time before the next race to place a bet ...
+il nous reste à peine le temps de parier pour la course suivante , allons voir .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 14 15
+3918
+the order is spodobao are . \/ rowa you cunt ... \/ you want my tustego whipper ...
+ça devrait leur plaire à elles . sale cochonne . tu veux ma grosse queue pour ...
+First annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: 0 1 2 3 4 5 6
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: 0 1 2 3 4 5 6
+3919
+moonraker 2 to m5 segment .
+moonraker 2 , section m5 .
+First annotation: sure
+Second annotation: sure
+3920
+- you 've made that abundantly clear .
+- c' est assez clair .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: 
+3921
+do n't do that .
+ne fais pas ça !
+First annotation: sure
+Second annotation: sure
+3922
+i have n't been to happy hour in , like , a week and a half .
+j' avais pas été à un 5 à 7 comme ça depuis au moins ... - une semaine et demie .
+First annotation: unperfect
+Second annotation: unperfect
+3923
+this is an exotic mixture , even for the military .
+c' est un mélange peu ordinaire , même pour l' armée .
+First annotation: sure
+Second annotation: sure
+3924
+listen , there wo n't be any customers .
+je te le redis , il n' y aura pas de clients .
+First annotation: sure
+Second annotation: sure
+3925
+they 'll do anything for my land .
+ils sont prêts à tout .
+First annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 4 5 6; untranslated target word indices: 
+3926
+he could n't handle the motel .
+il supportait pas le motel .
+First annotation: sure
+Second annotation: sure
+3927
+- what , his clothes and his edmundo ross ips ?
+des habits , des disques de edmundo ros ?
+First annotation: unperfect
+Second annotation: unperfect
+3928
+that might be why he 's not here .
+regarde ce qu' ils ont fait à ma carte platine .
+First annotation: not corresponding
+Second annotation: not corresponding
+3929
+you thought , honey .
+ginger est morte , chérie .
+First annotation: not corresponding
+Second annotation: not corresponding
+3930
+- that was years ago , tommy .
+- c' était il y a des années .
+First annotation: sure
+Second annotation: sure
+3931
+there 's something alive here !
+c' est un poisson !
+First annotation: not corresponding
+Second annotation: not corresponding
+3932
+he 's got some good ideas .
+il suffisait d' y penser ...
+First annotation: not corresponding
+Second annotation: not corresponding
+3933
+and spain 's present obligations are clearly defined by the treaty ...
+la position de l' espagne est clairement définie par le traité des pyrénées .
+First annotation: sure
+Second annotation: sure
+3934
+well , yeah , he left something here - the last chance for happiness he 'll ever have .
+regardez , les décorations sont encore dans la boîte .
+First annotation: not corresponding
+Second annotation: not corresponding
+3935
+do n't be a pussy , lloyd .
+fais pas ta chochotte !
+First annotation: sure
+Second annotation: sure
+3936
+where the fuck do you think it hit me ?
+à ton putain d' avis ?
+First annotation: unperfect
+Second annotation: unperfect
+3937
+or were they leashes ?
+une piste de cirque !
+First annotation: not corresponding
+Second annotation: not corresponding
+3938
+no yet , but mr yang has to work .
+pas encore . m. yau a dû partir travailler .
+First annotation: sure
+Second annotation: sure
+3939
+you think i do n't want to stick it up their asses ?
+tu crois que j' ai pas envie de leur baiser la gueule ?
+First annotation: sure
+Second annotation: sure
+3940
+like jodie foster in nell ?
+comme jodie foster dans nell ?
+First annotation: sure
+Second annotation: sure
+3941
+you wo n't drink to that ?
+tu ne veux pas boire à ça ?
+First annotation: sure
+Second annotation: sure
+3942
+already today , cranes stand in london , new york and singapore .
+aujourd'hui déjà des chantiers s' ouvrent à londres , new york et singapour .
+First annotation: sure
+Second annotation: sure
+3943
+did the package arrive ?
+- le colis est arrivé ?
+First annotation: sure
+Second annotation: sure
+3944
+well , the man in charge had access to some emergency exits .
+il avait accès à des issues de secours .
+First annotation: unperfect
+Second annotation: unperfect
+3945
+- what 's going on ?
+- c' est trop dangereux .
+First annotation: not corresponding
+Second annotation: not corresponding
+3946
+you ca n't be serious
+ce n' est pas sérieux
+First annotation: sure
+Second annotation: sure
+3947
+i 'm offended , truly .
+- je suis réellement offensé .
+First annotation: sure
+Second annotation: sure
+3948
+then do you know bae dong-sung in short tracks ?
+alors tu connais un peu bae dong-sung ?
+First annotation: sure
+Second annotation: sure
+3949
+there 's going to be a detective 's gold shield in this for you .
+tu auras une plaque dorée pour ça .
+First annotation: sure
+Second annotation: sure
+3950
+- doctors were able to graft most of it back - i 'm sorry .
+- on a pu en recoudre la majeure partie . - je suis désolée .
+First annotation: sure
+Second annotation: sure
+3951
+the money 's the only leverage we 're gon na have .
+c' est notre seul moyen de pression .
+First annotation: unperfect
+Second annotation: unperfect
+3952
+he 's starting to sound like my father .
+il commençait à ressembler à mon père .
+First annotation: sure
+Second annotation: sure
+3953
+what is good or decent about you ?
+qu' est -ce qu' il y a de décent en toi ?
+First annotation: sure
+Second annotation: sure
+3954
+i wo n't let you .
+je te laisserai pas faire .
+First annotation: sure
+Second annotation: sure
+3955
+i just was n't a one-man kind of girl .
+mais moi , je ne suis pas la femme d' un seul homme !
+First annotation: sure
+Second annotation: sure
+3956
+well , we already said no. .
+on a déjà refusé .
+First annotation: sure
+Second annotation: sure
+3957
+there 's no set number of tips you have to provide us but trust me , i know if someone 's sliding
+il n' y a pas un nombre précis d' infos à fournir . mais crois -moi , faut pas faiblir .
+First annotation: unperfect
+Second annotation: unperfect
+3958
+he was onto something .
+ce gars , isaac newton , il avait raison . il tenait quelque chose là .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5 6 7 8 9
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 3 4 6 7 8
+3959
+so , what grades are y' all in ?
+au fait , je m' appelle melina .
+First annotation: not corresponding
+Second annotation: not corresponding
+3960
+that was on orders from command .
+combien de gens avons -nous tués avant de venir ici ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3961
+he 's a sharp lad , your son .
+votre fils est très vif .
+First annotation: sure
+Second annotation: sure
+3962
+so , you 're lookin ' for a dish the size of a football field , huh ?
+alors , vous cherchez une antenne géante ?
+First annotation: sure
+Second annotation: sure
+3963
+i could n't find you .
+je te voyais plus .
+First annotation: sure
+Second annotation: sure
+3964
+i was just wondering if you wan na have a catch .
+tu veux faire des passes ?
+First annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 
+3965
+some guy just fuckin ' went through the thing .
+un type est passé au travers .
+First annotation: sure
+Second annotation: sure
+3966
+this makes the page go up and down .
+- d'accord . - ça fait défiler la page ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1
+3967
+there 's $ 240 in here .
+y a que 240$ .
+First annotation: sure
+Second annotation: sure
+3968
+- so we 'll act it out with marcy ?
+on te la joue avec marcy ?
+First annotation: sure
+Second annotation: sure
+3969
+lord , have mercy on jean-dominique in his affliction .
+seigneur , aie pitié de jean-dominique qui a cruellement souffert dans sa chair .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9
+3970
+- he 's been spying for the rebels .
+- c' est un espion .
+First annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 5 6 7; untranslated target word indices: 
+3971
+then they could feel good about sending raggedy ann here to jack us for our cheers .
+les vols de numéros d' anne la crade .
+First annotation: not corresponding
+Second annotation: not corresponding
+3972
+if the foot shall say ` because i am not the hand ,
+si le pied disait :
+First annotation: partial; untranslated source word indices: 5 6 7 8 9 10 11 12; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 6 7 8 9 10 11; untranslated target word indices: 
+3973
+maybe you 're one of those guys that has constant emergencies .
+il y a des gens qui n' ont que des imprévus .
+First annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4; untranslated target word indices: 
+3974
+hauled it back to the u.s. .
+et le déplace aux etats-unis .
+First annotation: sure
+Second annotation: sure
+3975
+there was n't much left .
+il reste presque rien .
+First annotation: sure
+Second annotation: sure
+3976
+tell possum to get some chow going , too .
+dis aussi à possum de préparer de la bouffe .
+First annotation: sure
+Second annotation: sure
+3977
+when ... when daddy left ...
+que s' est -il passé ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3978
+yeah , i think we 're gon na have to cut you off , sir .
+va falloir qu' on arrête de vous en donner .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3979
+tony toupee was owner of the bar in name only .
+tony mou était officiellement propriétaire du bar .
+First annotation: sure
+Second annotation: sure
+3980
+every year , ms. elenora butters would ask her kindergarten class
+chaque année , elenitsa butters demandait aux élèves de maternelle de dessiner leur famille pour les exposer à la réunion de parents d' élèves .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+3981
+or after thunder , silver showers came falling like a rain of flowers
+où , après le tonnerre , des averses dor tombaient comme une pluie de fleurs .
+First annotation: sure
+Second annotation: sure
+3982
+where you been looking ?
+où tu a été regardé ?
+First annotation: sure
+Second annotation: sure
+3983
+it was supposed to be a very special , life-advice sort of occasion .
+c' était un genre de rituel initiatique .
+First annotation: undecidable
+Second annotation: partial; untranslated source word indices: 2 3 4 5 6 7; untranslated target word indices: 
+3984
+hey , what do you want to drink ?
+- ouais , vachement .
+First annotation: not corresponding
+Second annotation: not corresponding
+3985
+and ... i 'm just sick of her already .
+tu te souviens de l' année où tu m' as offert la marionnette licorne avec la corne violette ?
+First annotation: not corresponding
+Second annotation: not corresponding
+3986
+there 's no way you 're going to get them to turn on each other .
+ils ne se dénonceront jamais .
+First annotation: unperfect
+Second annotation: unperfect
+3987
+ca n't you do something else ?
+tu ne peux pas faire autre chose ?
+First annotation: sure
+Second annotation: sure
+3988
+what kind of pie ?
+- noix de pécan .
+First annotation: not corresponding
+Second annotation: not corresponding
+3989
+above all , it demands the ability to exercise authority .
+et , avant tout , être capable d' exercer i'autorite .
+First annotation: sure
+Second annotation: sure
+3990
+and nobody came up with anything .
+ça ne débouche jamais sur rien .
+First annotation: sure
+Second annotation: unperfect
+3991
+accurate within two feet anywhere on the globe .
+précision : 50 cm sur tout le globe .
+First annotation: sure
+Second annotation: sure
+3992
+i thank god and your majesty for your great mercy today .
+je remercie dieu et votre magesté pour la pitié dont elle a fait preuve aujourd'hui .
+First annotation: sure
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 9 10 11 12 13
+3993
+remember , this was the worst of times for the great depression .
+c' était rudy behlmer .
+First annotation: not corresponding
+Second annotation: not corresponding
+3994
+is that , like , some sort of record or something ?
+ce serait pas un record ?
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 3 4 5 6 7 9 10; untranslated target word indices: 
+3995
+blow my undercover assignment ?
+foirer ma mission sous couverture ?
+First annotation: sure
+Second annotation: sure
+3996
+nice work , gator !
+c' est malin , l' alligator .
+First annotation: sure
+Second annotation: sure
+3997
+you 'd always see him standing around watching her .
+il était toujours là , à l' observer .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 0 1 2 3; untranslated target word indices: 
+3998
+are we going to get the same sales-tax incentives we used to ?
+aurons -nous les avantages d' avant en terme de tva ?
+First annotation: sure
+Second annotation: sure
+3999
+so sleep with your phone on .
+couche avec ton téléphone allumé .
+First annotation: sure
+Second annotation: sure
+4000
+- i want my prescription !
+oooh , je suis tellement désolée que tu doives en passer par là .
+First annotation: not corresponding
+Second annotation: not corresponding
+4001
+- you mean that yellow brick road ?
+- cette route de pavés d' elton jaune ?
+First annotation: sure
+Second annotation: partial; untranslated source word indices: 1 2; untranslated target word indices: 
+4002
+did you follow the shiny man to lollipop land or the rainbow junction ?
+et ton bonhomme plaqué argent , il t' a emmené en papouasie ou au pied de l' arc-en-ciel ?
+First annotation: sure
+Second annotation: sure
+4003
+i believe you 've killed me .
+je crois que tu m' as tué .
+First annotation: sure
+Second annotation: sure
+4004
+- get off of me , you crazy bitch !
+- ôte -toi de sur moi , espèce de folle !
+First annotation: sure
+Second annotation: sure
+4005
+well , do you know what you 're doing here when you engage a defense lawyer ?
+vous savez à quoi servent les avocats de la défense dans ce pays ?
+First annotation: unperfect
+Second annotation: unperfect
+4006
+you wan na move on to the hard stuff .
+tu veux boire un truc plus costaud ?
+First annotation: sure
+Second annotation: sure
+4007
+come on , jake , i do n't want to hear it .
+c' est pas le moment , jake .
+First annotation: unperfect
+Second annotation: unperfect
+4008
+there is absolutely no rational explanation , for what they saw through that phone .
+il n' y a absolument aucune explication rationnelle ... concernant ce qu' elle a vu sur ce téléphone .
+First annotation: sure
+Second annotation: sure
+4009
+nah . fight 's rigged .
+- le combat était truqué .
+First annotation: sure
+Second annotation: sure
+4010
+okay , now watch that reading .
+bon , attention au cadran ...
+First annotation: sure
+Second annotation: sure
+4011
+hey , charlie , how 's it going ?
+cette fois , vous avez vraiment déconné .
+First annotation: not corresponding
+Second annotation: not corresponding
+4012
+that 's the confusion because we thought , yes , but no. .
+c' est là qu' il y a confusion , et on a pensé que oui , alors que non .
+First annotation: sure
+Second annotation: sure
+4013
+if you ask me , it 's just what the doctor ordered .
+ça n' est pas mon avis !
+First annotation: not corresponding
+Second annotation: not corresponding
+4014
+do you want to take a look ?
+je vais passer mon tour .
+First annotation: not corresponding
+Second annotation: not corresponding
+4015
+the stuffing , it 's a little bit out of the upholstery , but it runs .
+les sièges sont un peu défoncés , mais elle roule .
+First annotation: unperfect
+Second annotation: unperfect
+4016
+- it 's terrifying .
+- c' est flippant .
+First annotation: sure
+Second annotation: sure
+4017
+any band worth its salt , or any band that knows it 's worth its salt , will want to reach the widest audience possible .
+les bons groupes , du moins ceux qui connaissent leur potentiel , ont envie de toucher le plus de gens possibles .
+First annotation: sure
+Second annotation: sure
+4018
+i figured he got it right before i got there , so i called 911 .
+je me dis qu' il vient de morfler , j' appelle police secours .
+First annotation: sure
+Second annotation: sure
+4019
+- are you juno , our caseworker ?
+vous êtes juno , notre chargée de dossier ?
+First annotation: sure
+Second annotation: sure
+4020
+i 'd never ffelt so alone , so desperate .
+je me sentis seule et désemparée .
+First annotation: sure
+Second annotation: sure
+4021
+someone barfed there fourth period .
+on a dégueulé là ce matin .
+First annotation: not corresponding
+Second annotation: not corresponding
+4022
+tell you what , man , these people , man , they 're not convinced .
+faut que tu saches que personne n' est convaincu .
+First annotation: unperfect
+Second annotation: unperfect
+4023
+this girl jumped off the cliffs of moher and the wind blew her back up .
+une nana a sauté d' une falaise , le vent l' a remontée .
+First annotation: sure
+Second annotation: sure
+4024
+i do n't do heists .
+je fais pas de coups .
+First annotation: sure
+Second annotation: sure
+4025
+do you care if i sit down ?
+tu permets que je m' asseye ?
+First annotation: sure
+Second annotation: sure
+4026
+it 's not as gross as it sounds .
+- c' est vrai ? - oui .
+First annotation: not corresponding
+Second annotation: not corresponding
+4027
+you look thinner than before .
+vous avez perdu du poids .
+First annotation: sure
+Second annotation: sure
+4028
+diana 's baby bracelet .
+le bracelet de bébé de diana .
+First annotation: sure
+Second annotation: sure
+4029
+and your father bears a great deal of the responsibility .
+à ton avis , comment se passe sa thérapie ? la thérapie de qui ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4030
+the days were loveable , the nights were loveable .
+les journées , les soirées étaient aimables .
+First annotation: sure
+Second annotation: sure
+4031
+a sign or an arrow .
+pour voir s' il y a une flèche ou un indice .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5
+4032
+i 'm a fake hero .
+je suis un héros bidon
+First annotation: sure
+Second annotation: sure
+4033
+dimitri stole it from andy , then sold it to a man .
+dimitri l' a volé à andy ,
+First annotation: partial; untranslated source word indices: 5 6 7 8 9 10 11 12; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 6 7 8 9 10 11; untranslated target word indices: 
+4034
+gold ? four-leaf clover right before st. patrick 's day ?
+de l' or et un trèfle à 4 feuilles juste avant la st patrick ?
+First annotation: sure
+Second annotation: sure
+4035
+- yeah , that 's it !
+je pense que tu y arrive
+First annotation: unperfect
+Second annotation: not corresponding
+4036
+ordering me around like another flemish idiot !
+faut pas me prendre pour le con d' flamand !
+First annotation: unperfect
+Second annotation: unperfect
+4037
+please , my heart is not so good .
+s' il te plaît , j' ai le cœur fragile .
+First annotation: sure
+Second annotation: sure
+4038
+i have a facial at 12:30 at georgiana 's today
+j' ai un nettoyage de peau à 1 2 h 30 chez georgianna's .
+First annotation: sure
+Second annotation: sure
+4039
+renee , tell me whose information you sent .
+renée , dis -moi de qui tu as envoyé l' adresse .
+First annotation: sure
+Second annotation: sure
+4040
+it 's really more sideways than up .
+je changerais de branche .
+First annotation: not corresponding
+Second annotation: not corresponding
+4041
+he went there with nothing .
+je ne veux pas danser avec une nonne .
+First annotation: not corresponding
+Second annotation: not corresponding
+4042
+if you know the system , it will take you wherever you need to go .
+si on connaît le réseau , on peut aller où on veut .
+First annotation: sure
+Second annotation: sure
+4043
+cops are n't allowed inside .
+pas de flics dans le temple .
+First annotation: sure
+Second annotation: unperfect
+4044
+bad for the appetite .
+ça gâche l' appétit .
+First annotation: sure
+Second annotation: sure
+4045
+hey , did big mouth say go fuck that lady ?
+c' est une grande gueule qui t' a dit " va la baiser " ?
+First annotation: unperfect
+Second annotation: unperfect
+4046
+i shall be brief , sir , lance corporal hartmann ...
+- le caporal hartmann ...
+First annotation: partial; untranslated source word indices: 0 1 2 3 4 5 6 7; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1 2 3 5 7; untranslated target word indices: 
+4047
+i repeat , this one is not sitting well .
+je le répète , celui -ci ne siège pas bien .
+First annotation: sure
+Second annotation: sure
+4048
+thank you , everybody .
+merci du fond du coeur .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 1 2 3 4
+Second annotation: partial; untranslated source word indices: 3; untranslated target word indices: 1 2 3 4
+4049
+i-i could n't flow .
+je ne parvenais pas à être fluide .
+First annotation: sure
+Second annotation: sure
+4050
+i take it you 're ready to apologise to sergeant galovitch now ?
+prêt à vous excuser , je pense , auprès du sergent .
+First annotation: unperfect
+Second annotation: sure
+4051
+do n't you ask what happened ?
+ce qui s' est passé t' intéresse pas ?
+First annotation: sure
+Second annotation: sure
+4052
+i did n't mean - the guy 's like , " come here " -
+je ne voulais pas insinuer ... les mec s me demandent souvent " fais voir " ...
+First annotation: sure
+Second annotation: sure
+4053
+vain to deny it .
+ne le niez pas !
+First annotation: sure
+Second annotation: sure
+4054
+- hi . you got a minute ?
+- tu as une minute ?
+First annotation: sure
+Second annotation: sure
+4055
+- what about soren ?
+et soren ? voilà .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 3
+4056
+understanding poetry by dr j. evans pritchard , phd .
+" comprendre la poésie , par j. evans pritchard , professeur agréé . "
+First annotation: sure
+Second annotation: sure
+4057
+mr. walters , do you know what day it is ?
+- j' ai dit : j' ai glissé sur le tapis .
+First annotation: not corresponding
+Second annotation: not corresponding
+4058
+take it or leave it .
+c' est à prendre ou à laisser !
+First annotation: sure
+Second annotation: sure
+4059
+i understand you must be very concerned .
+je comprends que tu te sentes très concernés .
+First annotation: sure
+Second annotation: sure
+4060
+- that is good - ?? you , again ?
+très bien . merci . au revoir .
+First annotation: not corresponding
+Second annotation: not corresponding
+4061
+how hard would it be for reynolds
+reynolds pourrait partager un peu .
+First annotation: not corresponding
+Second annotation: not corresponding
+4062
+- who car ... are you insane ?
+- qu' est -ce qu' on ... t' es taré ou quoi ?
+First annotation: sure
+Second annotation: sure
+4063
+golub , do n't shoot !
+goîub , ne tire pas !
+First annotation: sure
+Second annotation: sure
+4064
+but they did n't even know about kurt .
+ils ne savaient même pas pour kurt .
+First annotation: sure
+Second annotation: sure
+4065
+hey okay no , no , no - why do they do these things so tight ?
+ron donald , enchantée .
+First annotation: not corresponding
+Second annotation: not corresponding
+4066
+and who knows how much longer the reef 's gon na be around ?
+la grande barrière de corail disparaîtra bientôt .
+First annotation: not corresponding
+Second annotation: unperfect
+4067
+in 2 or 3 days .
+- il va venir ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4068
+perp did n't leave a deadline .
+on n' a pas eu de délai .
+First annotation: unperfect
+Second annotation: unperfect
+4069
+maybe my invincibility went into the lock when i hit the door .
+peut-être que mon invincibilité est passée dans le cadenas .
+First annotation: partial; untranslated source word indices: 7 8 9 10 11; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 7 8 9 10 11; untranslated target word indices: 
+4070
+oh , thank you .
+c' est joli , chez vous .
+First annotation: not corresponding
+Second annotation: not corresponding
+4071
+be a consistent monkey !
+soyez un chimpanze coherent .
+First annotation: sure
+Second annotation: sure
+4072
+take the back and wait for my call .
+passez par-derrière et attendez que je vous appelle .
+First annotation: sure
+Second annotation: sure
+4073
+now i shall have some of your cake .
+je vais goûter au gâteau .
+First annotation: sure
+Second annotation: sure
+4074
+we will follow it to the borders of our country .
+qu' il n' ait pas le temps de reprendre haleine !
+First annotation: not corresponding
+Second annotation: not corresponding
+4075
+you 've - you 've already proven that i 'm not important to you .
+je ne vais pas attendre trois mois juste pour avoir le coeur brisé .
+First annotation: not corresponding
+Second annotation: not corresponding
+4076
+what is it you want , you sick -
+que voulez -vous , espèce de ...
+First annotation: sure
+Second annotation: sure
+4077
+mr. rocking , what 's happened ...
+maître rameur , comment puis -je vous aider ?
+First annotation: unperfect
+Second annotation: unperfect
+4078
+we are preparing his room .
+on prépare la chambre du petit .
+First annotation: sure
+Second annotation: sure
+4079
+i heard you talking to him in the parlor .
+j' ai entendu votre conversation .
+First annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 6 7 8; untranslated target word indices: 
+4080
+i gave it to ya ?
+- je vous l' ai donné ? - bien sûr .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 7 8 9 10
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 8 9
+4081
+that is the cardinal sin , ray .
+c' est un péché capital !
+First annotation: sure
+Second annotation: sure
+4082
+dr. cullen 's like this foster dad\/matchmaker .
+euh ... le dr cullen est à la fois agence de rencontre et père adoptif .
+First annotation: sure
+Second annotation: sure
+4083
+a lot of shit went down .
+c' est un sacré merdier .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 4 5; untranslated target word indices: 
+4084
+what ? the conference room 's signed out all day .
+la salle de réunion est prise pour la journée .
+First annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+4085
+what are these , emperanas ?
+c' est quoi , des emperanas ?
+First annotation: sure
+Second annotation: sure
+4086
+so if y' all will just slip off your panties ... and straddle your mirrors .
+retirez votre petite culotte et chevauchez votre glace .
+First annotation: sure
+Second annotation: sure
+4087
+well , lucky for me , i 'm not " some men . " anderson :
+nullement , non , bien sûr que non , sauf ...
+First annotation: not corresponding
+Second annotation: not corresponding
+4088
+the messiah has successfully docked with the orion-powered boosters and is now prepared to detonate the bombs planted on wolf-biederman .
+le messie est repassé avec succès en propulsion nucléaire et va faire exploser les bombes sur wolf-biederman .
+First annotation: sure
+Second annotation: sure
+4089
+bernadette , open the door !
+- bernadette , tu peux ouvrir , c' est moi .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 7 8 9
+4090
+her dad just likes looking at cows .
+- c' était notre baroud d' honneur .
+First annotation: not corresponding
+Second annotation: not corresponding
+4091
+- what 's going on ?
+- clyde , qu' y a -t-il ?
+First annotation: sure
+Second annotation: sure
+4092
+treat him well , he comes highly recommended .
+occupe-t'en bien , il est recommandé .
+First annotation: sure
+Second annotation: sure
+4093
+this is gon na be cool .
+ça vas être cool . - oep ' . hum mm hem ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 5 6 7 8 9 10 11 12
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 6 9 10 11
+4094
+my girlfriend 's phone .
+ceux de mes copines .
+First annotation: unperfect
+Second annotation: unperfect
+4095
+but i 'm not judging .
+mais je ne suis pas en juger .
+First annotation: sure
+Second annotation: sure
+4096
+if you want me to go , if you want me to leave , then do n't make this about what i door do n't deserve ... and have the decency to admit that you 're doing this because you 're a coward .
+si tu veux que je parte , alors , dis pas que c' est à cause de moi ou que je mérite mieux ... et aies la décence d' avouer que c' est parce que t' es un lâche .
+First annotation: sure
+Second annotation: sure
+4097
+we would therefore prevail ... and suffer only modest and acceptable civilian casualties ... from their remaining force which would be badly damaged and uncoordinated .
+nous l' emporterions , avec quelques pertes dues à leur force restante ... qui serait sévèrement mise à mal et non-coordonnée .
+First annotation: unperfect
+Second annotation: unperfect
+4098
+so you 've been spying .
+tu l' as espionné !
+First annotation: sure
+Second annotation: sure
+4099
+he dotes on her .
+il s' agit bien d' elle ?
+First annotation: undecidable
+Second annotation: not corresponding
+4100
+even i ca n't understand their logic at times .
+leur logique m' échappe !
+First annotation: partial; untranslated source word indices: 7 8; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 7 8; untranslated target word indices: 
+4101
+tear . rip it out !
+je ne veux entendre que cet arrachage de m.
+First annotation: not corresponding
+Second annotation: not corresponding
+4102
+i wan na hear the confession .
+je veux entendre les aveux .
+First annotation: sure
+Second annotation: sure
+4103
+- you made chicks ?
+- vous avez créé des femmes ?
+First annotation: sure
+Second annotation: sure
+4104
+the sponge-cakes from the party he loved so much .
+- vous voyez ce type ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4105
+we said we were n't going to shop at the wall \* mart anymore !
+on a dit que plus jamais on irait au centre commercial !
+First annotation: sure
+Second annotation: sure
+4106
+i ca n't even get my dog clipped anymore ?
+je peux même plus faire toiletter mon chien ?
+First annotation: sure
+Second annotation: sure
+4107
+- business is on the bum .
+le commerce va mal .
+First annotation: sure
+Second annotation: sure
+4108
+what kind of social situation are you comfortable with ?
+je ne suis jamais resté ... seul avec elle .
+First annotation: not corresponding
+Second annotation: not corresponding
+4109
+but then i 've tried countin ' the number of words which have passed between mr , inman and me - not very many ,
+puis je compte les mots que nous avons échangés , m , inman et moi , il n' y en a guère ,
+First annotation: sure
+Second annotation: sure
+4110
+i ca n't even get a date to this charity event .
+je n' ai même pas de rencard pour le gala de charité .
+First annotation: sure
+Second annotation: sure
+4111
+can i take the message ?
+y a -t-il un message ?
+First annotation: sure
+Second annotation: sure
+4112
+i can do more than hear you .
+je vous vois aussi .
+First annotation: unperfect
+Second annotation: not corresponding
+4113
+hey , you know what ?
+vu ma technique , si .
+First annotation: not corresponding
+Second annotation: not corresponding
+4114
+you 're a squid , right ?
+hé , des calmars .
+First annotation: unperfect
+Second annotation: unperfect
+4115
+- i got you a little housewarming gift .
+- une petite pensée pour la maison .
+First annotation: partial; untranslated source word indices: 1 2 3; untranslated target word indices: 
+Second annotation: not corresponding
+4116
+- we were thinking ...
+parce que le panneau du sacré coeur que j' ai vandalisé hier soir prouve le contraire .
+First annotation: not corresponding
+Second annotation: not corresponding
+4117
+- let 's just stick with three , it 's good .
+non . on garde 3 .
+First annotation: partial; untranslated source word indices: 7 8 9 10; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 1 2 3 8 9 10; untranslated target word indices: 
+4118
+oh , yeah , just go straight out on sixth street .
+vous prenez la 6ème , vous traversez la ville ...
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7 8
+Second annotation: partial; untranslated source word indices: 0 2 4; untranslated target word indices: 5 6 7 8 9
+4119
+how do you know claire ?
+tu voulais voir ton nom en haut de l' affiche .
+First annotation: not corresponding
+Second annotation: not corresponding
+4120
+someone to whom the prospect might even be ... desirable .
+quelqu'un pour qui cette perspective pourrait même être ... séduisante .
+First annotation: sure
+Second annotation: sure
+4121
+you 're gon na have to make it with yours .
+tu vas devoir faire la même chose .
+First annotation: unperfect
+Second annotation: unperfect
+4122
+i know anything of it .
+j' en sais rien .
+First annotation: sure
+Second annotation: sure
+4123
+you go to bed , for christ 's sakes .
+au lit , vous êtes âgées .
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 5 6 7 8; untranslated target word indices: 
+4124
+- double-checked the numbers ?
+- vous avez bien vérifié les nombres ?
+First annotation: sure
+Second annotation: sure
+4125
+she would never hook up with some loser for a 12-pack .
+elle ne fricoterait pas avec un loser pour un pack de bières .
+First annotation: sure
+Second annotation: sure
+4126
+alpha leader , bring them in .
+leader alpha , lance l' assaut .
+First annotation: sure
+Second annotation: sure
+4127
+where 's the other guy ?
+où est i'autre mec ?
+First annotation: sure
+Second annotation: sure
+4128
+there 's an assumption that the space program will be brought to a halt for an investigation of the accident plus a general examination of our purposes in space and the morality of putting men into space without adequate -
+il est généralement admis que le programme spatial sera stoppé pour enquete sur i'accident et réexamen des objectifs spatiaux et du droit d' envoyer dans i'espace
+First annotation: sure
+Second annotation: sure
+4129
+he 's having trouble letting go .
+il a dû mal à l' oublier .
+First annotation: sure
+Second annotation: sure
+4130
+she and i are going shopping tomorrow .
+bien sûr , j' ai dû les aider un peu , tu sais , graisser la patte de l' administration .
+First annotation: not corresponding
+Second annotation: not corresponding
+4131
+after you move in with soichiro you will have lots of inconveniences .
+quand vous serez installées chez soichiro , vous aurez un tas de désagréments .
+First annotation: sure
+Second annotation: sure
+4132
+hey , we 've been eating hashpackers for twenty-five years .
+25 ans de ratabouille !
+First annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 2 3 4 5; untranslated target word indices: 
+4133
+you got your ass whupped tonight .
+vous avez été battus ce soir .
+First annotation: sure
+Second annotation: sure
+4134
+crunching the numbers , i come up with a conservative 5,812 potential sex partners within a 40-mile radius .
+avec ces chiffres , j' obtiens 5812 partenaires sexuels potentiels dans un rayon de 65 km .
+First annotation: sure
+Second annotation: sure
+4135
+- easy , baby .
+t' affole pas , petit .
+First annotation: sure
+Second annotation: sure
+4136
+i guess you wan na get your steel guitars and everything set up on stage .
+vous voulez installer vos trucs , je suppose ?
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 11 12 13 14; untranslated target word indices: 
+4137
+- and ? i finally asked myself , right ...
+je me suis demandé ce qui la branchait vraiment .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 4 5 6 7 8
+Second annotation: partial; untranslated source word indices: 1 8; untranslated target word indices: 4 5 6 7 8
+4138
+- what the fuck ?
+- c' est quoi , ça ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4139
+hear you 're going to budapest .
+tu vas à budapest ?
+First annotation: sure
+Second annotation: sure
+4140
+i do n't want anyone putting him down because he 's a man of reading .
+personne ne doit le descendre , parce que c' est un homme de lettres .
+First annotation: sure
+Second annotation: sure
+4141
+do you play music ?
+j' ai pas raison ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4142
+he \/ she can not sell this perhaps ?
+et ian ne l' aide pas à le remonter ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4143
+- it was ok before the motorway .
+l' autoroute a tout gâché .
+First annotation: not corresponding
+Second annotation: unperfect
+4144
+are you sure he 's still not unbalanced from the war ?
+vous êtes sûr qu' il n' est pas resté traumatisé ?
+First annotation: partial; untranslated source word indices: 8 9 10; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 8 9 10; untranslated target word indices: 
+4145
+it 's like arab or german .
+on dirait qu' ils se parlent en arabe ou en allemand !
+First annotation: unperfect
+Second annotation: unperfect
+4146
+well , we 'll be seeing you .
+á demain , alors .
+First annotation: unperfect
+Second annotation: unperfect
+4147
+- i was n't trying .
+- je ne voulais pas l' être .
+First annotation: unperfect
+Second annotation: unperfect
+4148
+you got to understand , he broke out some pretty bad guys last time .
+comprenez -le , il a fait sortir de vrais salauds la dernière fois .
+First annotation: sure
+Second annotation: sure
+4149
+i 've often prayed for good things to come out of jens ' fatherlessness .
+je prie souvent pour que l' absence de père ait quand même un effet positif sur jens .
+First annotation: sure
+Second annotation: sure
+4150
+- that would be bad .
+ça craindrait un max .
+First annotation: sure
+Second annotation: sure
+4151
+you ca n't go where we 're going .
+tu peux pas aller là où on va .
+First annotation: sure
+Second annotation: sure
+4152
+he needs medicine , my lord .
+il a besoin de soins !
+First annotation: partial; untranslated source word indices: 3 4 5; untranslated target word indices: 
+Second annotation: sure
+4153
+calm down , carlitos .
+cet idiot est fou de moi , il me dit des mots doux au clair de lune .
+First annotation: not corresponding
+Second annotation: not corresponding
+4154
+look , get over it , okay ?
+écoute , reviens -en , d'accord ?
+First annotation: sure
+Second annotation: sure
+4155
+- no , seriously .
+bon , c' est parti .
+First annotation: not corresponding
+Second annotation: not corresponding
+4156
+i guess it was rude of me to keep resuscitating that guy with a rake sticking out of his chest .
+comment vous faites pour tout arranger ?
+First annotation: not corresponding
+Second annotation: not corresponding
+4157
+i severed ties with simon a long time ago .
+je ne fréquente plus simon .
+First annotation: partial; untranslated source word indices: 5 6 7 8; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 5 6 7 8; untranslated target word indices: 
+4158
+thanks . maybe you did n't catch my drift , pal .
+tu as peut-être pas saisi mon allusion .
+First annotation: partial; untranslated source word indices: 0 1 9 10; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 0 10; untranslated target word indices: 
+4159
+do not sell yourself short .
+ne te dévalorise pas .
+First annotation: sure
+Second annotation: sure
+4160
+that 's gon na change beginning today .
+ça va changer , à compter d' aujourd'hui .
+First annotation: sure
+Second annotation: sure
+4161
+i 'm not a makeup artist , but i could do better than that .
+même moi , je me maquillerais mieux
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 0 1 2 3 4 5; untranslated target word indices: 
+4162
+do you like pie ?
+vous aimez les gâteaux ?
+First annotation: sure
+Second annotation: sure
+4163
+managed to dig up his army psychiatric records .
+j' ai obtenu son dossier militaire .
+First annotation: unperfect
+Second annotation: sure
+4164
+- it was the winklevosses , mark .
+c' est les winklevoss ! attends .
+First annotation: sure
+Second annotation: sure
+4165
+fritzi , i did n't know you were back .
+fritzi , je ne savais pas que tu étais de retour .
+First annotation: sure
+Second annotation: sure
+4166
+an enterprising one not unlike you , young lady .
+j' étais très débrouillarde , comme toi , ma petite .
+First annotation: sure
+Second annotation: unperfect
+4167
+even with the good parts , were totally surreal
+même les bons moments étaient complètement surréalistes .
+First annotation: sure
+Second annotation: sure
+4168
+- you could n't drag a cat .
+- tu es trop faible ...
+First annotation: unperfect
+Second annotation: unperfect
+4169
+we 're hoping it provides the intel we need about the assassin she 's working with .
+j' espère que ça nous apportera des réponses concernant l' assassin avec qui elle travaille
+First annotation: sure
+Second annotation: sure
+4170
+you 're gon na get your wish .
+je vais exaucer ton souhait .
+First annotation: sure
+Second annotation: unperfect
+4171
+i did n't get a whole lot of sleep last night .
+je n' ai pas beaucoup dormi cette nuit .
+First annotation: sure
+Second annotation: sure
+4172
+she 's been on-call .
+elle était de garde .
+First annotation: sure
+Second annotation: sure
+4173
+` did she want him to help her win ? ' 11 double .
+pour qu' il la fasse gagner ?
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 11 12; untranslated target word indices: 
+4174
+i do n't think i got an hour 's sleep the whole night .
+je n' ai pas dormi plus d' une heure .
+First annotation: partial; untranslated source word indices: 10 11 12; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 1 2 3 10 11 12; untranslated target word indices: 
+4175
+she wo n't mind , neither .
+elle s' en fiche aussi .
+First annotation: sure
+Second annotation: sure
+4176
+i do n't have the energy for all that stuff .
+je n' ai pas la force pour tout ça .
+First annotation: sure
+Second annotation: sure
+4177
+leaves and branches whisper our love song
+les feuilles et les branches murmurent notre chant d' amour
+First annotation: sure
+Second annotation: sure
+4178
+you think people are saying that they want to see some scabby kraut beat up on little miss what 's - her-name ?
+vous pensez que les gens veulent voir une vicelarde de boche taper sur une inconnue ?
+First annotation: sure
+Second annotation: sure
+4179
+- please ... could we stop fighting and vote on the issue ?
+peut -on arrêter cette dispute et voter plutôt ?
+First annotation: sure
+Second annotation: sure
+4180
+i thought that you would make a better detective .
+je pensais que tu serais meilleur que ça .
+First annotation: sure
+Second annotation: unperfect
+4181
+is n't the bar beautiful ?
+le bar n' est -il pas réussi ?
+First annotation: unperfect
+Second annotation: unperfect
+4182
+lifelines , fore and aft .
+lignes de vie , avant et arrière !
+First annotation: sure
+Second annotation: sure
+4183
+i was n't hitting on anybody .
+je n' ai dragué personne .
+First annotation: sure
+Second annotation: sure
+4184
+plays tennis - check .
+- parce que je l' aime . je l' aime !
+First annotation: not corresponding
+Second annotation: not corresponding
+4185
+the twa king always talks up his airline as he escorts a succession ...
+le roi de la twa fait la promotion de sa compagnie en se montrant ...
+First annotation: sure
+Second annotation: sure
+4186
+i had the weirdest dream .
+j' ai fait le plus étrange des rêves .
+First annotation: sure
+Second annotation: sure
+4187
+unless they have frozen feet .
+avec les pieds gelés ...
+First annotation: unperfect
+Second annotation: partial; untranslated source word indices: 0 1; untranslated target word indices: 
+4188
+when you love someone and they do n't choose you ... it 's bad .
+quand on aime quelqu'un et qu' il ne vous choisit pas , ça fait mal .
+First annotation: sure
+Second annotation: sure
+4189
+talk to your woman all sweet , saying shit trying to make her feel nice , well , we ai n't got no time for that .
+vous parlez aux femmes gentiment . vous leur dites des idioties pour qu' elles se sentent bien .
+First annotation: partial; untranslated source word indices: 15 16 17 18 19 20 21 22 23 24 25; untranslated target word indices: 
+Second annotation: partial; untranslated source word indices: 18 19 20 21 22 23 24 25; untranslated target word indices: 
+4190
+it boggles my mind .
+ça me laisse perplexe .
+First annotation: sure
+Second annotation: sure
+4191
+what the hell do you mean by that ?
+j' ai peut-être raison .
+First annotation: not corresponding
+Second annotation: not corresponding
+4192
+well , what 's the next step ?
+que devrions -nous faire ?
+First annotation: unperfect
+Second annotation: unperfect
+4193
+four ai n't nowhere .
+il n' y en a pas .
+First annotation: not corresponding
+Second annotation: unperfect
+4194
+your stereo 's broken ?
+votre stéréo est en panne ?
+First annotation: sure
+Second annotation: sure
+4195
+do n't deceive yourself .
+ne vous méprenez pas .
+First annotation: sure
+Second annotation: sure
+4196
+wow , it is like looking into a poorly dressed mirror .
+san francisco est si phénoménal maintenant . elle est heureuse ? !
+First annotation: not corresponding
+Second annotation: not corresponding
+4197
+maybe one more dish .
+je crois que je vais en reprendre une .
+First annotation: unperfect
+Second annotation: unperfect
+4198
+that 's for real .
+y avait pas de bébé , c' est la vérité .
+First annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4 5
+Second annotation: partial; untranslated source word indices: ; untranslated target word indices: 0 1 2 3 4
+4199
+here endeth the lesson .
+ici s' achève la leçon .
+First annotation: sure
+Second annotation: sure

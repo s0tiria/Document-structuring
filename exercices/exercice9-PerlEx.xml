@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<CollectionMusee>
+
+<oeuvre no="1">
+	<datasetId>collections-du-musee-des-augustins-ville-de-toulouse</datasetId>
+	<recordId>77f60ec93dce4b8ce4202946517e783a1915559f</recordId>
+	<fields>
+		<donateur_vendeur>MARQUESTE, Mme Vve Laurent Honré  particulier</donateur_vendeur>
+		<designation_3>esquisse</designation_3>
+		<designation>Femme assise</designation>
+		<matiere>terre cuite</matiere>
+		<technique>modelage</technique>
+		<num_inventaire>RA 1047 T</num_inventaire>
+		<mesure_1>Hauteur : 20</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 18</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1921-01-01</date_acqui>
+		<numero_acquisition>1921.3</numero_acquisition>
+		<auteur_1>MARQUESTE, Laurent-Honoré</auteur_1>
+		<designation_2>figurine</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 11</mesure_2>
+		<datation_1>1851-1900</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</fields>
+	<recordTimestamp>2016-12-05T13:56:20+01:00</recordTimestamp>
+</oeuvre>
+
+</CollectionMusee>

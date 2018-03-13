@@ -1,0 +1,26 @@
+<!ELEMENT tomes ((tome))>
+<!ELEMENT tome EMPTY>
+<!ATTLIST tome
+	nb_pages CDATA #REQUIRED
+>
+<!ELEMENT titre EMPTY>
+<!ELEMENT num EMPTY>
+<!ELEMENT nb_pages EMPTY>
+<!ELEMENT livres ((livre))>
+<!ELEMENT livre ((titre, auteurs, tomes, edition))>
+<!ELEMENT lieuImpression EMPTY>
+<!ELEMENT lieuEdition EMPTY>
+<!ELEMENT journal ((nb_pages, num, avis))>
+<!ATTLIST journal
+	anneePub CDATA #REQUIRED
+	nom CDATA #REQUIRED
+>
+<!ELEMENT edition ((editeur, lieuEdition, lieuImpression, ISBN))>
+<!ELEMENT editeur EMPTY>
+<!ELEMENT bibliographie ((livres, articles))>
+<!ELEMENT avis EMPTY>
+<!ELEMENT auteurs ((auteur+))>
+<!ELEMENT auteur EMPTY>
+<!ELEMENT articles ((article))>
+<!ELEMENT article ((titre, auteurs, journal))>
+<!ELEMENT ISBN EMPTY>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "exercice3b.dtd">
+<bibliographie>
+	<livres>
+		<livre>
+			<titre soustitre=""/>
+			<auteurs>
+				<auteur/>
+				<auteur/>
+			</auteurs>
+			<tomes>
+				<tome nb_pages=""/>
+			</tomes>
+			<edition>
+				<editeur/>
+				<lieuEdition/>
+				<lieuImpression/>
+				<ISBN/>
+			</edition>
+		</livre>
+	</livres>
+	<articles>
+		<article>
+			<titre/>
+			<auteurs>
+				<auteur/>
+			</auteurs>
+			<journal nom="Feuille de Chou" anneePub="inconnue">
+				<nb_pages/>
+				<num/>
+			</journal>
+		</article>
+	</articles>
+</bibliographie>

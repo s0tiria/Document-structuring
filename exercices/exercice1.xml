@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BOUTEILLES SYSTEM "exercice1.dtd">
+<BOUTEILLES>
+	<Bouteille marque="Cristaline">
+		<volume>150 cl</volume>
+		<code_barre>3274080005003</code_barre>
+		<pH>7,45</pH>
+		<source>
+			<ville>St-Cyr</ville>
+			<dép>Loiret</dép>
+		</source>
+		<contenu_par_litre>
+			<ions_pos>
+				<calcium>71 mg</calcium>
+				<magnésium>5,5 mg</magnésium>
+			</ions_pos>
+			<ions_nég>
+				<chlorures>20 mg</chlorures>
+				<nitrates>1 mg</nitrates>
+			</ions_nég>
+			<autres>fer</autres>
+		</contenu_par_litre>
+	</Bouteille>
+	<Bouteille marque="Cristaline">
+		<volume>50 cl</volume>
+		<code_barre>3268840001008</code_barre>
+		<pH>7,4</pH>
+		<source>
+			<ville>Aurèle</ville>
+			<dép>les Alpes Maritimes</dép>
+		</source>
+		<contenu_par_litre>
+			<ions_pos>
+				<calcium>98 mg</calcium>
+				<magnésium>4 mg</magnésium>
+			</ions_pos>
+			<ions_nég>
+				<chlorures>3,6 mg</chlorures>
+				<nitrates>2 mg</nitrates>
+			</ions_nég>
+			<autres>-</autres>
+		</contenu_par_litre>
+	</Bouteille>
+	<Bouteille marque="Volvic">
+		<volume>50 cl</volume>
+		<code_barre>3057640117008</code_barre>
+		<pH>7</pH>
+		<source>
+			<ville>Volvic</ville>
+			<dép>Puy-de-Dôme</dép>
+		</source>
+		<contenu_par_litre>
+			<ions_pos>
+				<calcium>11,5 mg</calcium>
+				<magnésium>8,0 mg</magnésium>
+			</ions_pos>
+			<ions_nég>
+				<chlorures>13,5 mg</chlorures>
+				<nitrates>6,3 mg</nitrates>
+			</ions_nég>
+			<autres>silice</autres>
+		</contenu_par_litre>
+	</Bouteille>
+</BOUTEILLES>

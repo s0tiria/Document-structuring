@@ -1,0 +1,28 @@
+<!ELEMENT tomes ((tome))>
+<!ELEMENT tome EMPTY>
+<!ATTLIST tome
+	nb_pages CDATA #REQUIRED
+>
+<!ELEMENT titre EMPTY>
+<!ATTLIST titre
+	soustitre CDATA #IMPLIED
+>
+<!ELEMENT num EMPTY>
+<!ELEMENT nb_pages EMPTY>
+<!ELEMENT livres ((livre))>
+<!ELEMENT livre ((titre, auteurs, tomes, edition))>
+<!ELEMENT lieuImpression EMPTY>
+<!ELEMENT lieuEdition EMPTY>
+<!ELEMENT journal ((nb_pages, num))>
+<!ATTLIST journal
+    anneePub CDATA #DEFAULT inconnue
+	nom CDATA #DEFAULT Feuille de Chou
+>
+<!ELEMENT edition ((editeur, lieuEdition, lieuImpression, ISBN))>
+<!ELEMENT editeur EMPTY>
+<!ELEMENT bibliographie ((livres, articles))>
+<!ELEMENT auteurs ((auteur+))>
+<!ELEMENT auteur EMPTY>
+<!ELEMENT articles ((article))>
+<!ELEMENT article ((titre, auteurs, journal))>
+<!ELEMENT ISBN EMPTY>

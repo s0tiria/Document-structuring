@@ -1,0 +1,11 @@
+<!ELEMENT doc (info, taggersent+)>
+<!ELEMENT info (nom, prenom, email, date)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT taggersent (taggertoken+)>
+<!ELEMENT taggertoken (#PCDATA)>
+<!ATTLIST taggertoken wordform CDATA #REQUIRED>
+<!ATTLIST taggertoken lemma CDATA #REQUIRED>
+<!ATTLIST taggertoken pos CDATA #REQUIRED>

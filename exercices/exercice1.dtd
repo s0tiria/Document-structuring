@@ -1,0 +1,19 @@
+<!ELEMENT volume (#PCDATA)>
+<!ELEMENT ville (#PCDATA)>
+<!ELEMENT source ((ville, dép))>
+<!ELEMENT pH (#PCDATA)>
+<!ELEMENT nitrates (#PCDATA)>
+<!ELEMENT magnésium (#PCDATA)>
+<!ELEMENT ions_pos ((calcium, magnésium))>
+<!ELEMENT ions_nég ((chlorures, nitrates))>
+<!ELEMENT dép (#PCDATA)>
+<!ELEMENT contenu_par_litre ((ions_pos, ions_nég, autres))>
+<!ELEMENT code_barre (#PCDATA)>
+<!ELEMENT chlorures (#PCDATA)>
+<!ELEMENT calcium (#PCDATA)>
+<!ELEMENT autres (#PCDATA)>
+<!ELEMENT Bouteille ((volume, code_barre, pH, source, contenu_par_litre))>
+<!ATTLIST Bouteille
+	marque (Volvic | Cristaline) #REQUIRED
+>
+<!ELEMENT BOUTEILLES ((Bouteille+))>

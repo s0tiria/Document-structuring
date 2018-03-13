@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="utf-8" />
+
+<title>Documents Structurés</title>
+<meta name="description" content="Projet de SB pour le cours Documents Structurés" />
+<meta name="author" content="Sotiria Bampatzani" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS
+================================================================================================= -->
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/themes/type_17.css" />
+<link rel="stylesheet" href="css/themes/color_01.css" />
+
+<!-- Favicons
+================================================================================================= -->
+<link rel="shortcut icon" href="images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png" />
+
+<!-- JS
+================================================================================================= -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/jquery-1.8.3.min.js"></script>
+<script src="js/libs/jquery.easing.1.3.min.js"></script>
+<script src="js/libs/jquery.fitvids.js"></script>
+<script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+	
+	<!-- Header begins ========================================================================== -->
+	<header class="sixteen columns">
+		<div id="logo">
+			<h1>Documents Structurés</h1>
+			<h2>M1 TAL, 2016-2017</h2>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.xhtml">Accueil</a></li>
+				<li><a href="http://xmlprojet.wordpress.com" target="_blank">Blog</a></li>
+			</ul>
+		</nav>
+		<hr />
+	</header>
+	<!-- Header ends ============================================================================ -->
+	
+	<!-- Work page begins ======================================================================= -->
+	<div id="work">
+	
+		<div id="overview" class="sixteen columns">
+			<h4>XML xPath XSLT</h4>
+			<hr />
+		</div>
+		
+		<div class="sixteen columns">
+		<h3>Exercice 7</h3>
+		<br/>
+		<h4>Phase 1 : document et grammaire</h4><br/>
+		<ul class="disc">
+			<li>Modifier l'entête du document en y insérant vos références personnelles (nom, prénom, email, etc.)</li>
+			<li>Vérifier la bonne formation du document</li>
+			<li>Créer la DTD et établir le lien à la DTD</li>
+			<li>Vérifier que le document est valide</li>
+		</ul>
+		<br/>
+		<h5><a href="./exercices/exercice7.xml" target="_blank">Afficher</a> le code XML</h5>
+		<h5><a href="./exercices/exercice7.dtd" target="_blank">Afficher</a> la grammaire DTD</h5>
+		<br/>
+		<h4>Phase 2 : définir des requêtes xPath</h4>
+		<br/>
+		<ul class="disc">
+			<li>Rechercher tous les NOM : </li>
+			<div class="solution">//taggertoken[contains(@pos,'NOM')]/@wordform</div><br/>
+			<li>Rechercher tous les VERBE : </li>
+			<div class="solution">//taggertoken[contains(@pos,'VER')]/@wordform</div><br/>
+			<li>Rechercher tous les NOM précédés d’un DET : </li>
+			<div class="solution">//taggertoken[contains(@pos,'NOM')][preceding-sibling::*[1][contains(@pos,'DET')]]</div><br/>
+			<li>Rechercher toutes les séquences NOM ADJ ou ADJ NOM : </li>
+			<div class="solution">//taggertoken[contains(@pos,'NOM')][following-sibling::*[1][contains(@pos,'ADJ')]] | //taggertoken[contains(@pos,'ADJ')][preceding-sibling::*[1][contains(@pos,'NOM')]]/@wordform</div><br/>
+		</ul>
+		<br/>
+		<h4>Phase 3 : transformation XSLT</h4>
+		<br/>
+		<ul class="disc">
+			<li>Définir une feuille de styles minimale pour formater le document XML fourni en HTML.</li>
+			<div class="solution"><a href="./exercices/exercice7a.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice7a-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>Définir une feuille de styles de telle sorte que les déterminants au féminin apparaîtront en rouge et les déterminants masculins en bleu</li>
+			<div class="solution"><a href="./exercices/exercice7b.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice7b-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+			<br/>
+			<li>Définir une feuille de styles de telle sorte :</li>
+			<ul class="circle">
+				<li>nom des éléments = catégorie grammaticale</li>
+				<li>valeur des éléments = forme des tokens</li>
+			</ul>
+			<div class="solution"><a href="./exercices/exercice7c.xsl" target="_blank">Afficher</a> la feuille de style XSLT</div>
+			<div class="solution"><a href="./exercices/exercice7c-resultat.xml" target="_blank">Afficher</a> le résultat</div>
+		</ul>
+		</div>
+	</div>
+	<!-- Work page ends ========================================================================= -->
+	
+	<!-- Footer begins ========================================================================== -->
+	<footer class="sixteen columns">
+		<hr />
+		<ul id="footerLinks">
+			<li>&#169; Sotiria BAMPATZANI</li>
+			<li>2016-2017</li>
+			<li>INALCO</li>
+			<li><a href="index.xhtml">Accueil</a></li>
+		</ul>
+	</footer>
+	<!-- Footer ends ============================================================================ -->
+		
+</div><!-- container -->
+</body>
+</html>

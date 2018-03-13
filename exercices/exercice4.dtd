@@ -1,0 +1,7 @@
+<!ELEMENT table ((document+))>
+<!ELEMENT hypothese (#PCDATA)>
+<!ELEMENT document ((hypothese, diagnostic))>
+<!ATTLIST document
+	nom (RecettesADTDEmbarqueeDiscordanteV6.xml | RecettesADTDEmbarqueeDiscordanteV5.xml | RecettesADTDEmbarqueeDiscordanteV4.xml | RecettesADTDEmbarqueeDiscordanteV3.xml | RecettesADTDEmbarqueeDiscordanteV2.xml | RecettesADTDEmbarqueeDiscordanteV1.xml) #REQUIRED
+>
+<!ELEMENT diagnostic (#PCDATA)>

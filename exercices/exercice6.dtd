@@ -1,0 +1,9 @@
+<!ELEMENT table ((ligne+))>
+<!ELEMENT service (#PCDATA)>
+<!ELEMENT ligne ((infirmiere, age, annees_etudes, diplome, anciennete_neonatalite, classe_anciennete, service))>
+<!ELEMENT infirmiere (#PCDATA)>
+<!ELEMENT diplome (#PCDATA)>
+<!ELEMENT classe_anciennete (#PCDATA)>
+<!ELEMENT annees_etudes (#PCDATA)>
+<!ELEMENT anciennete_neonatalite (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
